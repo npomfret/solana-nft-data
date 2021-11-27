@@ -1,0 +1,43 @@
+{
+  "name": "Anti Social Bot #2731",
+  "symbol": "ROBO",
+  "description": "Each of these 4,444 robots grants you access to the ASRC. Welcome aboard",
+  "image": "https://www.arweave.net/xLrN_akt9hYCwznKMMN-Y5cZ2-Z2AjnO28BLeassMFQ?ext=png",
+  "seller_fee_basis_points": 500,
+  "attributes": [
+    {
+      "trait_type": "Robot Form",
+      "value": "Brick"
+    },
+    {
+      "trait_type": "Metal",
+      "value": "Aluminum"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Squares"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Hazard"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "Gs5g8mpcz3iHUXCcHM8xMkWCdxf4Eq16PbknuWvoVToJ",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/xLrN_akt9hYCwznKMMN-Y5cZ2-Z2AjnO28BLeassMFQ?ext=png",
+        "type": "image/png"
+      }
+    ]
+  }
+}

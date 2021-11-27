@@ -1,0 +1,49 @@
+{
+  "name": "Mech #2782",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/3Cpfv6f7ZD67uavE2X4yT2bIe8pghzSX3h-LnJssoBc?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Rocket_WHITE"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Gun_RED"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Defense_MATTE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Standard_BLUE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tron_MATTE"
+    }
+  ],
+  "edition": 2782,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/3Cpfv6f7ZD67uavE2X4yT2bIe8pghzSX3h-LnJssoBc?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

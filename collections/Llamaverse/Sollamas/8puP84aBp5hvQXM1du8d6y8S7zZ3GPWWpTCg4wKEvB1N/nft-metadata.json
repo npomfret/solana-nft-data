@@ -1,0 +1,85 @@
+{
+  "name": "Maddox, the Basaltic",
+  "symbol": "LLAMA",
+  "description": "Maddox, the Basaltic is a uniquely generated, cute and collectible Llama risen from dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/7_LCYCZqZeMO7UafyRRPT5PBZvwZGbwlQGu6ecNMoGU",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Maddox, the Basaltic"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Flower"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Head",
+      "value": "SBF Doo"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 8058
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Ghost"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/7_LCYCZqZeMO7UafyRRPT5PBZvwZGbwlQGu6ecNMoGU",
+        "type": "image/png"
+      }
+    ]
+  }
+}

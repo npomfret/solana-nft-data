@@ -1,0 +1,49 @@
+{
+  "name": "1262",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeige7rlva2sc6fc4qwexnvt3wxjarre7adx3er5sl7iqvgmn2y6icu/solchicks-1262.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Santa_s Hat"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Dress Shoes"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Cyclop_s Google"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Common"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Green,2:SolChick,3:none,4:Santa_s Hat,5:Dress Shoes,6:Cyclop_s Google,7:none,",
+  "rarityScore": 19650
+}

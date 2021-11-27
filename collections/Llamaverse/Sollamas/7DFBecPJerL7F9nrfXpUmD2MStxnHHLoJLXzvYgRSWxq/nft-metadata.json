@@ -1,0 +1,75 @@
+{
+  "name": "Alva, the Remarkable",
+  "symbol": "LLAMA",
+  "description": "Alva, the Remarkable is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #8,940 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/i0fguk1ValncmSmFFvIRPLIY0iUyI2sJS1L4XRfeV7M",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Alva, the Remarkable"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Right Earring"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Cross Necklace"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 8940
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

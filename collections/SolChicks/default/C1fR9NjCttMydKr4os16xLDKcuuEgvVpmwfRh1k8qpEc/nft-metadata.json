@@ -1,0 +1,49 @@
+{
+  "name": "3028",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeicddo5chfumrlvngf3ntnlfqvdypjxivhv7cdayjfn2va6f3fhdkq/solchicks-3028.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Gucci T-Shirt"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Dress Shoes"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Blue,2:SolChick,3:Gucci T-Shirt,4:Bald,5:Dress Shoes,6:none,7:none,",
+  "rarityScore": 17750
+}

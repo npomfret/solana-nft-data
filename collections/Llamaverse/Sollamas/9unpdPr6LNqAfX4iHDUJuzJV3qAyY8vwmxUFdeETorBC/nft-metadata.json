@@ -1,0 +1,81 @@
+{
+  "name": "Raydon, the Delicate",
+  "symbol": "LLAMA",
+  "description": "Raydon, the Delicate is a uniquely generated, cute and collectible Llama risen from the dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/yEABcoHMHkzTk5xZzChZDvxLRIE940Ck1QxKCStLqVA",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Raydon, the Delicate"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Morning Sun"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "White Socks"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Hipster Glasses"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "Flag",
+      "value": "Australia"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shaved Head"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 9709
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Undead"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/yEABcoHMHkzTk5xZzChZDvxLRIE940Ck1QxKCStLqVA",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "Daryn, the Worrisome",
+  "symbol": "LLAMA",
+  "description": "Daryn, the Worrisome is a uniquely generated, cute and collectible Llama risen from the dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/6eMvLT2I50D75YvomK2XSv814MjWa9HJBN5EsyZN3v8",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Daryn, the Worrisome"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Mushroom Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straight Cut Hair"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Yellow Slant"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 1890
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Undead"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/6eMvLT2I50D75YvomK2XSv814MjWa9HJBN5EsyZN3v8",
+        "type": "image/png"
+      }
+    ]
+  }
+}

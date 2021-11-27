@@ -1,0 +1,45 @@
+{
+  "name": "4044",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeibe23cpp55yg7nm2adln2wcjhf4v22qypd5utu2nzpsf4zyy2zypq/solchicks-4044.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Garden"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Strawhat"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Common"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Garden,2:SolChick,3:none,4:Strawhat,5:none,6:Scar,7:none,",
+  "rarityScore": 23250
+}

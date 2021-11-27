@@ -1,0 +1,71 @@
+{
+  "name": "Noa, the Angry",
+  "symbol": "LLAMA",
+  "description": "Noa, the Angry is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #5,620 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/z6bo3ptxC-iye9LfF2LGGEsw7mEZZGz9V-B8jznUTWg",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Noa, the Angry"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Flower Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Flag",
+      "value": "Peru"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pony Tail"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Ciggie"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5620
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Graden, the Kind",
+  "symbol": "LLAMA",
+  "description": "Graden, the Kind is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #5,381 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/wSerlOLz-WLCTXD2i2dXXRhmZXBa-UiP3BoeVqG44R8",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Graden, the Kind"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Snowy Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Green Stripes"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Clown Eyes"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Brown Stuble"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5381
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

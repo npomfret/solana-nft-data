@@ -1,0 +1,75 @@
+{
+  "name": "Launa, the Zany",
+  "symbol": "LLAMA",
+  "description": "Launa, the Zany is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #5,418 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/h-uNUKSbI0gMHsQXz21YJIhxhh928io0FSGZ_I0Zga4",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Launa, the Zany"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Curls"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Green Slant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Red Sunglasses"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5418
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

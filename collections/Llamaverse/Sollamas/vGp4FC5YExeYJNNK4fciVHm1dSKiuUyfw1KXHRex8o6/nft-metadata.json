@@ -1,0 +1,85 @@
+{
+  "name": "Maximino, the Auspicious",
+  "symbol": "LLAMA",
+  "description": "Maximino, the Auspicious is a uniquely generated, cute and collectible Llama risen from the dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/RnCFKMTFVxL4fe7xpaJ0etqjV1-acRs5d-VCz357bR4",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Maximino, the Auspicious"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Morning Sun"
+    },
+    {
+      "trait_type": "Tail",
+      "value": "Huge Flame Tail"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "War Paint"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Wind Hair"
+    },
+    {
+      "trait_type": "Poop",
+      "value": "Rainbow Poop"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Artifact"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 4501
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Undead"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/RnCFKMTFVxL4fe7xpaJ0etqjV1-acRs5d-VCz357bR4",
+        "type": "image/png"
+      }
+    ]
+  }
+}

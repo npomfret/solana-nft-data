@@ -1,0 +1,37 @@
+{
+  "name": "138",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeif5xjvb6gzk4y4fskqnyf3bopvykrznw6zcg7p2eldaytj5kzd2pe/solchicks-138.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Rare"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Pink,2:SolChick,",
+  "rarityScore": 13050
+}

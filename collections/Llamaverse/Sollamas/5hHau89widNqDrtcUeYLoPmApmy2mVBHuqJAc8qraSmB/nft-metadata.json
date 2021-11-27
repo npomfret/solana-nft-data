@@ -1,0 +1,75 @@
+{
+  "name": "Huxton, the Plucky",
+  "symbol": "LLAMA",
+  "description": "Huxton, the Plucky is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #5,129 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/uuBtH6ga3Z3-q-E5VZvBEPrTm5g8ti9qPgzd7eFfkz8",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Huxton, the Plucky"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Snowy Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Stripes"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Green Stripes"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Gold Unicorn"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5129
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

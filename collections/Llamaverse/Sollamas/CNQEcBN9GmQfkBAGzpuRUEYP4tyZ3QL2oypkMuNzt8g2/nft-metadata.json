@@ -1,0 +1,71 @@
+{
+  "name": "Lesli, the Precious",
+  "symbol": "LLAMA",
+  "description": "Lesli, the Precious is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #432 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/l4Io5gBRRjcRYDuEMD6qZ0CzpFuAzPR8zF3OPapGo5w",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Lesli, the Precious"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Morning Sun"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Stripes"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Ciggie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Clown Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Clock"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 432
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

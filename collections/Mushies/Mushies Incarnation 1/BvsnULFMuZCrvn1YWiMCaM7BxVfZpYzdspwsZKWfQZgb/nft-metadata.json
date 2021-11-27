@@ -1,0 +1,75 @@
+{
+  "name": "Mushie #1862",
+  "symbol": "MUSH",
+  "description": "The Flamingo Forest has spoken, Mushie #1862 has sprouted.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/tjBPWWsK6Nlg-w4d-tPcHalhSWYV0-8fTkjVRux4C2M?ext=png",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Sequence",
+      "value": 1862
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink Star Pattern"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Stripes"
+    },
+    {
+      "trait_type": "Fin",
+      "value": "Multi Color"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Red Mushie Top "
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Trait Count",
+      "value": 4
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Party Pill"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fungi"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nerd Glasses"
+    }
+  ],
+  "collection": {
+    "name": "Mushies Incarnation 1",
+    "family": "Mushies"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/tjBPWWsK6Nlg-w4d-tPcHalhSWYV0-8fTkjVRux4C2M?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4qGdrBFtqHL2ee78rZsZWrPDG8AbUDc2jyeMPMmSfPvR",
+        "share": "100"
+      }
+    ]
+  }
+}

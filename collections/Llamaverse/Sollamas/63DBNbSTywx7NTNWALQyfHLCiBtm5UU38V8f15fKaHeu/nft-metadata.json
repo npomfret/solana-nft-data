@@ -1,0 +1,75 @@
+{
+  "name": "Dane, the Tailor-made",
+  "symbol": "LLAMA",
+  "description": "Dane, the Tailor-made is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #7,993 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/4fp_fWPhA6yNNy_pThZYTj7rGsA8IvdIO1JljS-SyB4",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Dane, the Tailor-made"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Butte Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Black Stuble"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 7993
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

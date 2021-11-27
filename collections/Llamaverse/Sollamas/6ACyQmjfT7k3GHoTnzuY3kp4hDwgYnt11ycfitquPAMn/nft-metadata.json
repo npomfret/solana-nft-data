@@ -1,0 +1,71 @@
+{
+  "name": "Viera, the Breakable",
+  "symbol": "LLAMA",
+  "description": "Viera, the Breakable is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #9,485 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/45DwfTzpwL0wkB4FFolE1cWkuPE0FCYearzjXBGtj2w",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Viera, the Breakable"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Butte Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Flag",
+      "value": "Japan"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Clown Eyes"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 9485
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

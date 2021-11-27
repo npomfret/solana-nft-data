@@ -1,0 +1,20 @@
+{
+  "key": 4,
+  "updateAuthority": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+  "mint": "FYDoqAki7z9sLYP8Abj5gfcMdP9gfb6WVDHrT3Q3gWE2",
+  "data": {
+    "name": "Bookle",
+    "symbol": "KAIJU",
+    "uri": "https://assets.kaijucards.io/json/bo-325.json",
+    "sellerFeeBasisPoints": 500,
+    "creators": [
+      {
+        "address": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+        "verified": 1,
+        "share": 100
+      }
+    ]
+  },
+  "primarySaleHappened": 0,
+  "isMutable": 1
+}

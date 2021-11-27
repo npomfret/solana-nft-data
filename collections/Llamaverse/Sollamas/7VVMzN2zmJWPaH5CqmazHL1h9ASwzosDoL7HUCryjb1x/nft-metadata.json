@@ -1,0 +1,63 @@
+{
+  "name": "Maily, the Enchanting",
+  "symbol": "LLAMA",
+  "description": "Maily, the Enchanting is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #9,791 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/AtGEjMaEjIqMW47PoDcONNL2mcESKIPm7_6Cg-YVqac",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Maily, the Enchanting"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Morning Sun"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Wild Hair"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 9791
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

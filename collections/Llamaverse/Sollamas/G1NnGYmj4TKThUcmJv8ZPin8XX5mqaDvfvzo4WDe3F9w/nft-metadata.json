@@ -1,0 +1,75 @@
+{
+  "name": "Otto, the Angry",
+  "symbol": "LLAMA",
+  "description": "Otto, the Angry is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #2,374 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/Q2mNtbxxs9MhI0RWC7tBjsLddvi7REUKh_Pkc-ee_C4",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Otto, the Angry"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Cactus"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Curls"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Purple Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Red Slant"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Brown Beard"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 2374
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

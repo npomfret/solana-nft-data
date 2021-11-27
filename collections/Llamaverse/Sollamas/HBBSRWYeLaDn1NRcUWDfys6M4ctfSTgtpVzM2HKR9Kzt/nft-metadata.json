@@ -1,0 +1,71 @@
+{
+  "name": "Oona, the Happy",
+  "symbol": "LLAMA",
+  "description": "Oona, the Happy is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #4,951 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/7PyTs24W98ISf1dxxyBCX1oPO_aU0se92_wxvRFVH_E",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Oona, the Happy"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Mushroom Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Ciggie"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straight Cut Hair"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Blue Slant"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 4951
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

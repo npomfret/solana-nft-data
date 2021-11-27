@@ -1,0 +1,75 @@
+{
+  "name": "Laniya, the Unusual",
+  "symbol": "LLAMA",
+  "description": "Laniya, the Unusual is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #4,242 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/jsJy1PqrTi2n66G5I6MNxQU2cqIUg_LI8WhDbdwmU2w",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Laniya, the Unusual"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Butte Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Curls"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Green Slant"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Bowtie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Top Bun"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Orange Sunglasses"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 4242
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

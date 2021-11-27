@@ -1,0 +1,53 @@
+{
+  "name": "3624",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeicdstd3tgcwjubuf3ldtut2oji4mw67azwqml2vglq23e3b4jbsma/solchicks-3624.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "base",
+      "value": "Grand SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Mohawk Hair"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Minion_s Shoes"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Winking Eye"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Diamond Necklace"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Mythical"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Desert,2:Grand SolChick,3:none,4:Mohawk Hair,5:Minion_s Shoes,6:Winking Eye,7:Diamond Necklace,",
+  "rarityScore": 6100
+}

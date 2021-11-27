@@ -1,0 +1,49 @@
+{
+  "name": "Mech #4560",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/KxgiYzWDkOHbgV4c1aHWmPJmcSR7qa8rGzJuDG36aS4?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Gun_SILVER"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "BATTLE_WHITE"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Offense_RED"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Sword_CARBON"
+    },
+    {
+      "trait_type": "Head",
+      "value": "King_MATTE"
+    }
+  ],
+  "edition": 4560,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/KxgiYzWDkOHbgV4c1aHWmPJmcSR7qa8rGzJuDG36aS4?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

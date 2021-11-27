@@ -1,0 +1,85 @@
+{
+  "name": "Bladen, the Pompous",
+  "symbol": "LLAMA",
+  "description": "Bladen, the Pompous is a uniquely generated, cute and collectible Llama risen from dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/M_JVLRMheYMQhYbNbr_BivTVKKKmmERXu7iM1Ps_q90",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Bladen, the Pompous"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Cactus"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stringy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pom Pom Beanie"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Orange Sunglasses"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 6331
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Ghost"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/M_JVLRMheYMQhYbNbr_BivTVKKKmmERXu7iM1Ps_q90",
+        "type": "image/png"
+      }
+    ]
+  }
+}

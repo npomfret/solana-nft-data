@@ -1,0 +1,85 @@
+{
+  "name": "Edmundo, the Dangerous",
+  "symbol": "LLAMA",
+  "description": "Edmundo, the Dangerous is a uniquely generated, cute and collectible Llama risen from dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/Vlwcr3N9OgiJiNKUFQfR9_k2h4ZYOjaVUcNt2K1i4wg",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Edmundo, the Dangerous"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Large Black Spots"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "VR Headset"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Blue Slant"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 6175
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Ghost"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/Vlwcr3N9OgiJiNKUFQfR9_k2h4ZYOjaVUcNt2K1i4wg",
+        "type": "image/png"
+      }
+    ]
+  }
+}

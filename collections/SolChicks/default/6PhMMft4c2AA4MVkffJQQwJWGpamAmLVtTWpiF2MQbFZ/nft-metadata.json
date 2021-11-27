@@ -1,0 +1,45 @@
+{
+  "name": "1731",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeifcrfhpat64lzx6ii4amafucub2dxhbsxhwrpz7euyhwtghc2d4m4/solchicks-1731.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Pirate Hat"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Silver Cross Necklace"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Common"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Blue,2:SolChick,3:none,4:Pirate Hat,5:none,7:Silver Cross Necklace,",
+  "rarityScore": 24550
+}

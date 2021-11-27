@@ -1,0 +1,49 @@
+{
+  "name": "Mech #6245",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/yS_X-K5gUEocMZoy_RI3a20Dg0E6RMFGYbysdI5y8vk?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Katana_BLUE"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Gun_SILVER"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Offense_SILVER"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Shield_PURPLE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Full_RED"
+    }
+  ],
+  "edition": 6245,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/yS_X-K5gUEocMZoy_RI3a20Dg0E6RMFGYbysdI5y8vk?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

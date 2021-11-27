@@ -1,0 +1,49 @@
+{
+  "name": "Mech #5300",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/Pno4DTBX7KSo1hMuuZm5wDhPzPNiELm6VS4l8pOdp3s?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dash"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Rocket_GOLD"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Gun_CARBON"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Offense_WHITE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Standard_CARBON"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Modular_WHITE"
+    }
+  ],
+  "edition": 5300,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/Pno4DTBX7KSo1hMuuZm5wDhPzPNiELm6VS4l8pOdp3s?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

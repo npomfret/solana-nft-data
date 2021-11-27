@@ -1,0 +1,79 @@
+{
+  "name": "Mushie #6459",
+  "symbol": "MUSH",
+  "description": "The Flamingo Forest has spoken, Mushie #6459 has sprouted.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/8ydjzwB9Ql3MZCYFjjfzPu2EIkvdOQvfcbHil86pfdI?ext=png",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Sequence",
+      "value": 6459
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Ice Mushie"
+    },
+    {
+      "trait_type": "Fin",
+      "value": "Purple "
+    },
+    {
+      "trait_type": "Top",
+      "value": "Graffiti Top"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Trait Count",
+      "value": 5
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow Grille"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Mini Tophat"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Forehead Diamond"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cyclops"
+    }
+  ],
+  "collection": {
+    "name": "Mushies Incarnation 1",
+    "family": "Mushies"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/8ydjzwB9Ql3MZCYFjjfzPu2EIkvdOQvfcbHil86pfdI?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4qGdrBFtqHL2ee78rZsZWrPDG8AbUDc2jyeMPMmSfPvR",
+        "share": "100"
+      }
+    ]
+  }
+}

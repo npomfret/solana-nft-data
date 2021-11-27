@@ -1,0 +1,77 @@
+{
+  "name": "Uday, the Loyal",
+  "symbol": "LLAMA",
+  "description": "Uday, the Loyal is a uniquely generated, cute and collectible Llama risen from dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/Jofopkv55lso-TbteJS4E0HSyrUrrzW-mSurwj2VQIk",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Uday, the Loyal"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Mushroom Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Wind Hair"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 4820
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Ghost"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/Jofopkv55lso-TbteJS4E0HSyrUrrzW-mSurwj2VQIk",
+        "type": "image/png"
+      }
+    ]
+  }
+}

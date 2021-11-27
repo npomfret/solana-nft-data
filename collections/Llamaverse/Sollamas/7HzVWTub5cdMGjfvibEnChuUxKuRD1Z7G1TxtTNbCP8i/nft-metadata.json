@@ -1,0 +1,77 @@
+{
+  "name": "Henry, the Obedient",
+  "symbol": "LLAMA",
+  "description": "Henry, the Obedient is a uniquely generated, cute and collectible Llama risen from the dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/tb_YrUjviG09YNZTEmy6yun4VB4s0dJaWgRj7Kit7qo",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Henry, the Obedient"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "?"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Snowy Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Large Black Spots"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straight Cut Hair"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Carrot"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5640
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Undead"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/tb_YrUjviG09YNZTEmy6yun4VB4s0dJaWgRj7Kit7qo",
+        "type": "image/png"
+      }
+    ]
+  }
+}

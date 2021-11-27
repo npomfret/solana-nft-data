@@ -1,0 +1,85 @@
+{
+  "name": "Cadyn, the Efficient",
+  "symbol": "LLAMA",
+  "description": "Cadyn, the Efficient is a uniquely generated, cute and collectible Llama risen from dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/2yt-d_wD5QjpOdIwYDMOmt0tx0hbkhUrYwg2ID3TJtQ",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Cadyn, the Efficient"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Red Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bandana"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Black Stuble"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 3137
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Ghost"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/2yt-d_wD5QjpOdIwYDMOmt0tx0hbkhUrYwg2ID3TJtQ",
+        "type": "image/png"
+      }
+    ]
+  }
+}

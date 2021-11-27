@@ -1,0 +1,75 @@
+{
+  "name": "Coco, the Shocking",
+  "symbol": "LLAMA",
+  "description": "Coco, the Shocking is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #7,502 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/r6FI82XQRfOC1w97IYlZZ_avIoqAejEPPi5urZnib4o",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Coco, the Shocking"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Bowtie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Clown Eyes"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Green Slant"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 7502
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

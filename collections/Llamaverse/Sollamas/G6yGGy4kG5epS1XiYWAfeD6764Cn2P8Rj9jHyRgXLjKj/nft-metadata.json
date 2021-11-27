@@ -1,0 +1,71 @@
+{
+  "name": "Lira, the Aggressive",
+  "symbol": "LLAMA",
+  "description": "Lira, the Aggressive is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #5,496 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/R0uE7NyixPVmeZtfzDkuWQ4rV3D_CVQQRG07loPv7qs",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Lira, the Aggressive"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Cactus"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Ciggie"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Yellow Stripes "
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5496
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

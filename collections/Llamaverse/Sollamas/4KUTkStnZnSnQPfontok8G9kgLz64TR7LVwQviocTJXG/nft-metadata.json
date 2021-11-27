@@ -1,0 +1,81 @@
+{
+  "name": "Earnest, the Scary",
+  "symbol": "LLAMA",
+  "description": "Earnest, the Scary is a uniquely generated, cute and collectible Llama risen from dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/vfX94QydjxhR9Xqs7vhfILfqmNlC4YfvtcacgKzWDmo",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Earnest, the Scary"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Snowy Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bullseye"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Cross Necklace"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Short Goatie"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Ciggie"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 7598
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Ghost"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/vfX94QydjxhR9Xqs7vhfILfqmNlC4YfvtcacgKzWDmo",
+        "type": "image/png"
+      }
+    ]
+  }
+}

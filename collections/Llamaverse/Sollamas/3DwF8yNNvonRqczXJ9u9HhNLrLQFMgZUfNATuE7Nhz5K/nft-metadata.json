@@ -1,0 +1,67 @@
+{
+  "name": "Maizy, the Sociable",
+  "symbol": "LLAMA",
+  "description": "Maizy, the Sociable is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #230 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/kG-22wQ_0PCfOGbonYxsppjiIxk3ABokkvM90EZHRvc",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Maizy, the Sociable"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Butte Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Curls"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Hipster Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pony Tail"
+    },
+    {
+      "trait_type": "Poop",
+      "value": "Brown Poop"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 230
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

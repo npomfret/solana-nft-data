@@ -1,0 +1,81 @@
+{
+  "name": "Alysa, the Doubtful",
+  "symbol": "LLAMA",
+  "description": "Alysa, the Doubtful is a uniquely generated, cute and collectible Llama risen from dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/Om3ZTxv_f8dBotBJKmYM8lUeGNsovx5vBnKY3OOQFAA",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Alysa, the Doubtful"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Morning Sun"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stringy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eyeshadow"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Blue Slant"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 966
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Ghost"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/Om3ZTxv_f8dBotBJKmYM8lUeGNsovx5vBnKY3OOQFAA",
+        "type": "image/png"
+      }
+    ]
+  }
+}

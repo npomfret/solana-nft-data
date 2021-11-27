@@ -1,0 +1,67 @@
+{
+  "name": "Analiz, the Cheeky",
+  "symbol": "LLAMA",
+  "description": "Analiz, the Cheeky is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #5,745 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/CZW4A6u6trMoA_MQdo1BgvQSfqdMC1VFGmE0WIQDjK8",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Analiz, the Cheeky"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Flower Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pom Pom Beanie"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Bowtie"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Yellow Slant"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5745
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

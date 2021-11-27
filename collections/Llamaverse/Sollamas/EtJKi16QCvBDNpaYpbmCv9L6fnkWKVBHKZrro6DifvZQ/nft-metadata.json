@@ -1,0 +1,63 @@
+{
+  "name": "Larry, the Tiny",
+  "symbol": "LLAMA",
+  "description": "Larry, the Tiny is a Limited Edition SollamasNFT X Larry Cermak Llama with proof of ownership on the Solana blockchain. He was uniquely minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/uRFO6s6lAsAx_7WCQUSXjcNJ7juj0qrk22rUSCDau9E",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Larry, the Tiny"
+    },
+    {
+      "trait_type": "Set",
+      "value": "LE Collabs"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "The Court"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Stripes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Side Fringe"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Black Stuble"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "The Block"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Limited Edition"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

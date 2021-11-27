@@ -1,0 +1,45 @@
+{
+  "name": "1174",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeigcudjmjtor7surukrxj3ci7r7z2yhpmgjtcw4g3enfrans4me4rm/solchicks-1174.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Chicago Bulls Jersey"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Gold Cross Necklace"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Common"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Desert,2:SolChick,3:Chicago Bulls Jersey,4:none,5:none,6:none,7:Gold Cross Necklace,",
+  "rarityScore": 20650
+}

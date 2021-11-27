@@ -1,0 +1,71 @@
+{
+  "name": "Tayte, the Cute",
+  "symbol": "LLAMA",
+  "description": "Tayte, the Cute is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #7,479 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/mQ0VbZaXBKKZY9lCGywiE2Yo6eLsPqeuThogaDSZ4h0",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Tayte, the Cute"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Mushroom Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Curls"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Wind Hair"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Blue Stripes "
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Short Goatie"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 7479
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

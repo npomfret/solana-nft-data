@@ -1,0 +1,49 @@
+{
+  "name": "4054",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeice5oyt2es7c5dicylxjefbjldwndumwfktyvijtyk5hehdtlkxqi/solchicks-4054.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Spike Hair"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Ugg"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Lazer Eyes"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Common"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Light blue,2:SolChick,3:none,4:Spike Hair,5:Ugg,6:Lazer Eyes,7:none,",
+  "rarityScore": 19950
+}

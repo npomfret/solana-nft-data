@@ -1,0 +1,81 @@
+{
+  "name": "Damoni, the Brainy",
+  "symbol": "LLAMA",
+  "description": "Damoni, the Brainy is a uniquely generated, cute and collectible Llama risen from dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/bkD68VHratYCbp_5qqxmHjC9-NUIdOJknw9rSMdqj_E",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Damoni, the Brainy"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Red Slant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Party Hat"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 9071
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Ghost"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/bkD68VHratYCbp_5qqxmHjC9-NUIdOJknw9rSMdqj_E",
+        "type": "image/png"
+      }
+    ]
+  }
+}

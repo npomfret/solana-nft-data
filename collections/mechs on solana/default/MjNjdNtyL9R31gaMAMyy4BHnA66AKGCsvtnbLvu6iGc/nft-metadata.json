@@ -1,0 +1,49 @@
+{
+  "name": "Mech #5210",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/Em1LekIdYpmhhBUP5vC6IkoqsGuvqKqKBhaK-yaAr3w?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Sickle_PURPLE"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "BATTLE_RED"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Defense_WHITE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Regular_WHITE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tron_PURPLEE"
+    }
+  ],
+  "edition": 5210,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/Em1LekIdYpmhhBUP5vC6IkoqsGuvqKqKBhaK-yaAr3w?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

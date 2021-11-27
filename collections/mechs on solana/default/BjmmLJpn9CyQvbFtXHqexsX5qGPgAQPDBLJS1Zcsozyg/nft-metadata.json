@@ -1,0 +1,49 @@
+{
+  "name": "Mech #2023",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/H_Ct9aSLHpdd_7StFErNPuf8nm1ul4xM_lGHu32oYME?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Gun_CARBON"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Gun_WHITE"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Battle_GOLD"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Gun_BLUE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tron_RED"
+    }
+  ],
+  "edition": 2023,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/H_Ct9aSLHpdd_7StFErNPuf8nm1ul4xM_lGHu32oYME?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Mech #7105",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/NF_bhS3YKWrSg6GDo8Pg_SkjIot-XBzx2HcGAE9TQBA?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Back",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Standard_BLUE"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Defense_GOLD"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Gun_CARBON"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tron_WHITE"
+    }
+  ],
+  "edition": 7105,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/NF_bhS3YKWrSg6GDo8Pg_SkjIot-XBzx2HcGAE9TQBA?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

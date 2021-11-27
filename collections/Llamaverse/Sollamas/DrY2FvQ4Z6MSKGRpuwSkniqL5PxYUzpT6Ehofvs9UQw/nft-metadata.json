@@ -1,0 +1,71 @@
+{
+  "name": "Ansel, the Interesting",
+  "symbol": "LLAMA",
+  "description": "Ansel, the Interesting is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #5,353 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/70BN3jn_x-anO6OYYZMUNe0p_mfVhZCzuP3Bzavf8bQ",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ansel, the Interesting"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Flower"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Curls"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Clock"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5353
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

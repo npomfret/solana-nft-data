@@ -1,0 +1,73 @@
+{
+  "name": "Luna, the Annoying",
+  "symbol": "LLAMA",
+  "description": "Luna, the Annoying is a uniquely generated, cute and collectible Llama risen from the dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/Ut56KsjDnz4ir7ax3_L2muFOXJLkFArQ_LNYvmWb9AQ",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Luna, the Annoying"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Morning Sun"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Zorro"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Headband"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 311
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Undead"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/Ut56KsjDnz4ir7ax3_L2muFOXJLkFArQ_LNYvmWb9AQ",
+        "type": "image/png"
+      }
+    ]
+  }
+}

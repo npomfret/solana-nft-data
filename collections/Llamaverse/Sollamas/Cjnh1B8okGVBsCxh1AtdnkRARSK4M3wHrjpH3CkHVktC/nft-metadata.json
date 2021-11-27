@@ -1,0 +1,71 @@
+{
+  "name": "Aasim, the Rich",
+  "symbol": "LLAMA",
+  "description": "Aasim, the Rich is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #7,001 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/YyoQ-hSwi_dFAyFXcTt72GaGS6PsN1CHwxEGGzKFWaE",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Aasim, the Rich"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Unicorn"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Moustache"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Red Slant"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 7001
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

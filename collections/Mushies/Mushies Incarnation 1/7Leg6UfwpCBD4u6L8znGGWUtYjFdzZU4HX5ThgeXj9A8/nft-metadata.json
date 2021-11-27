@@ -1,0 +1,79 @@
+{
+  "name": "Mushie #8417",
+  "symbol": "MUSH",
+  "description": "The Flamingo Forest has spoken, Mushie #8417 has sprouted.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/wX91XIYCfsHC2DBw8B-bjvN6HFD5j1kJkHrS4k3i6HA?ext=png",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Sequence",
+      "value": 8417
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red "
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Candy Cane Mushie"
+    },
+    {
+      "trait_type": "Fin",
+      "value": "Multi Color"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Yin and Yang Top "
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Trait Count",
+      "value": 5
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Toothpick"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Flower Crown"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Peace Sign Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dilated Pupils "
+    },
+    {
+      "trait_type": "Other",
+      "value": "Overeye Mask"
+    }
+  ],
+  "collection": {
+    "name": "Mushies Incarnation 1",
+    "family": "Mushies"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/wX91XIYCfsHC2DBw8B-bjvN6HFD5j1kJkHrS4k3i6HA?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4qGdrBFtqHL2ee78rZsZWrPDG8AbUDc2jyeMPMmSfPvR",
+        "share": "100"
+      }
+    ]
+  }
+}

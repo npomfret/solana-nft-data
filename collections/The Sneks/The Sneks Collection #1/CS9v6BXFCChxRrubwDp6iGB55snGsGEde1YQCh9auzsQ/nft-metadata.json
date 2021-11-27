@@ -1,0 +1,81 @@
+{
+  "name": "Snek #7042",
+  "symbol": "",
+  "_fee_basis_points": 300,
+  "image": "https://www.arweave.net/3vQ2uNTGjxEkFYSZK71VJP-4IXTqHxXkbcDrtuYhP1k?ext=png",
+  "update_authority": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+  "collection": {
+    "name": "The Sneks Collection #1",
+    "family": "The Sneks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/3vQ2uNTGjxEkFYSZK71VJP-4IXTqHxXkbcDrtuYhP1k?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue",
+      "trait_count": 1566
+    },
+    {
+      "trait_type": "fans",
+      "value": ""
+    },
+    {
+      "trait_type": "body",
+      "value": "blue",
+      "trait_count": 42
+    },
+    {
+      "trait_type": "snake type",
+      "value": "2 headed",
+      "trait_count": 459
+    },
+    {
+      "trait_type": "stripes",
+      "value": "stripes aqua",
+      "trait_count": 573
+    },
+    {
+      "trait_type": "spots",
+      "value": "yellow",
+      "trait_count": 145
+    },
+    {
+      "trait_type": "skin",
+      "value": ""
+    },
+    {
+      "trait_type": "eyes",
+      "value": ""
+    },
+    {
+      "trait_type": "glasses",
+      "value": "purple viper sunglasses",
+      "trait_count": 104
+    },
+    {
+      "trait_type": "hats",
+      "value": ""
+    },
+    {
+      "trait_type": "mouth",
+      "value": ""
+    },
+    {
+      "trait_type": "outfits",
+      "value": ""
+    }
+  ]
+}

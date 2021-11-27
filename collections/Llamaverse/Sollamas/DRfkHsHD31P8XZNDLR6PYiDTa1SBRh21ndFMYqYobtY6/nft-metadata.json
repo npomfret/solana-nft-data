@@ -1,0 +1,85 @@
+{
+  "name": "Lucius, the Unsightly",
+  "symbol": "LLAMA",
+  "description": "Lucius, the Unsightly is a uniquely generated, cute and collectible Llama risen from dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/SBjTI7ILiEzciYHdV0Sw8Q-MHRDZ3ofzRAU1rgABd8k",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Lucius, the Unsightly"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Morning Sun"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Stripes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mullet"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Black Stuble"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Unibrow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 7517
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Ghost"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/SBjTI7ILiEzciYHdV0Sw8Q-MHRDZ3ofzRAU1rgABd8k",
+        "type": "image/png"
+      }
+    ]
+  }
+}

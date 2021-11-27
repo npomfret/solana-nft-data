@@ -1,0 +1,49 @@
+{
+  "name": "Mech #634",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/TC_mMzh1pUVMQCIGQ15v5YK4hC9NaiGt14a7XDl08dg?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Gun_GOLD"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Standard_PURPLE"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Offense_WHITE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Shield_WHITE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tron_RED"
+    }
+  ],
+  "edition": 634,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/TC_mMzh1pUVMQCIGQ15v5YK4hC9NaiGt14a7XDl08dg?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

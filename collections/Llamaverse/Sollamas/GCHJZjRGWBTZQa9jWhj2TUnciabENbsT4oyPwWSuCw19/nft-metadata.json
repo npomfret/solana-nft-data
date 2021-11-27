@@ -1,0 +1,75 @@
+{
+  "name": "Keenan, the Grumpy",
+  "symbol": "LLAMA",
+  "description": "Keenan, the Grumpy is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #1,460 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/0FZenPg0GsgxpQ_hy56EzwjDl6oaWntjD_OjVnGVOX8",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Keenan, the Grumpy"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Butte Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Large Black Spots"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Mohawk"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Orange Sunglasses"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Yellow Stripes "
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 1460
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

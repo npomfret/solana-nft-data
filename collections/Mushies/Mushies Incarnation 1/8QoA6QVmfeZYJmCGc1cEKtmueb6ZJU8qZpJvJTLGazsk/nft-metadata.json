@@ -1,0 +1,71 @@
+{
+  "name": "Mushie #4397",
+  "symbol": "MUSH",
+  "description": "The Flamingo Forest has spoken, Mushie #4397 has sprouted.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/lcrhvpiakP72X2H4lNaeC8TksMFfUQj-Z6YcxHIKmHE?ext=png",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Sequence",
+      "value": 4397
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Background",
+      "value": "Grey Weed Leaf Pattern"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Hypno Mushie"
+    },
+    {
+      "trait_type": "Fin",
+      "value": "Multi Color"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Mushie Eating worm Top"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Trait Count",
+      "value": 3
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Tears Tattoo"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dilated Pupils "
+    }
+  ],
+  "collection": {
+    "name": "Mushies Incarnation 1",
+    "family": "Mushies"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/lcrhvpiakP72X2H4lNaeC8TksMFfUQj-Z6YcxHIKmHE?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4qGdrBFtqHL2ee78rZsZWrPDG8AbUDc2jyeMPMmSfPvR",
+        "share": "100"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "4101",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeibaazpwqywihfqzgxqylfttbxhln74sf4dw2s3eaf5vedf5yv57by/solchicks-4101.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Blue-Green"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Santa_s Suit"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Rapper Durag"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Bruised Eyes"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Gold Cross Necklace"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Blue-Green,2:SolChick,3:Santa_s Suit,4:Rapper Durag,5:none,6:Bruised Eyes,7:Gold Cross Necklace,",
+  "rarityScore": 18550
+}

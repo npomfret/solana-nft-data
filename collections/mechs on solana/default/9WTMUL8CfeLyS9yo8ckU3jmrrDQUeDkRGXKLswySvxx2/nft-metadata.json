@@ -1,0 +1,49 @@
+{
+  "name": "Mech #5989",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/r2gAGVcooWRiSk02fkP0FevlUevnXFWmC2CuRVYNA6w?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Katana_MATTE"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Sword_MATTE"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Defense_BLUE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Standard_BLUE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil_WHITE"
+    }
+  ],
+  "edition": 5989,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/r2gAGVcooWRiSk02fkP0FevlUevnXFWmC2CuRVYNA6w?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

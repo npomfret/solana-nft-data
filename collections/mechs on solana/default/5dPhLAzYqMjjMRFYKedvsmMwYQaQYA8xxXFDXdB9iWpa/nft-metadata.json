@@ -1,0 +1,49 @@
+{
+  "name": "Mech #3780",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/oaWWHyB234XfF7AAgY7X_AAYoI_xZwsGSVaQ6vao3ao?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Katana_GOLD"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Regular_SILVER"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Defense_BLUE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Standard_CHROME"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tron_SILVER"
+    }
+  ],
+  "edition": 3780,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/oaWWHyB234XfF7AAgY7X_AAYoI_xZwsGSVaQ6vao3ao?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

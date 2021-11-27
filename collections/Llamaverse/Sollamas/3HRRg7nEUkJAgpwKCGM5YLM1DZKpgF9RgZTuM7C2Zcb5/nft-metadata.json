@@ -1,0 +1,71 @@
+{
+  "name": "Marvens, the Cooperative",
+  "symbol": "LLAMA",
+  "description": "Marvens, the Cooperative is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #2,917 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/IxwjRR7O1-xjJMYhG-d3hFFBxjuwGnXwCIBYdCB-6Zc",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Marvens, the Cooperative"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Mushroom Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bullseye"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 2917
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "2212",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeieiv3w6axdfrlufpg52ulalzczvsfahi7wpvucirwmgw2zsaf3mie/solchicks-2212.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Minion_s Hair"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Ugg"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Scar"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Rare"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Beach,2:SolChick,3:none,4:Minion_s Hair,5:Ugg,6:Scar,7:Bubble Gum,",
+  "rarityScore": 14850
+}

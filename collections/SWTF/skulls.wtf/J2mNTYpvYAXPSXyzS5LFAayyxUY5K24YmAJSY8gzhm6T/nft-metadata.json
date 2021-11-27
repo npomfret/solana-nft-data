@@ -1,0 +1,57 @@
+{
+  "name": "#1743",
+  "symbol": "",
+  "description": "skulls.wtf the hardest 3D HD NFT Collection",
+  "image": "https://www.arweave.net/qFB1cj-RyFXjFRm6kyY2cT5OUSxsj53H7WK_XeMC6PY?ext=png",
+  "edition": 1743,
+  "seller_fee_basis_points": 400,
+  "collection": {
+    "name": "skulls.wtf",
+    "family": "SWTF"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/qFB1cj-RyFXjFRm6kyY2cT5OUSxsj53H7WK_XeMC6PY?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "A9mT7nVrUYSApdRaM1CvoKvWCZNWN8qUMN6MkQSyVpjW",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink"
+    },
+    {
+      "trait_type": "skeleton",
+      "value": "bone"
+    },
+    {
+      "trait_type": "skull",
+      "value": "ocean"
+    },
+    {
+      "trait_type": "teeth",
+      "value": "camouflage"
+    },
+    {
+      "trait_type": "hat",
+      "value": "king"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "sun"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "butterfly"
+    }
+  ]
+}

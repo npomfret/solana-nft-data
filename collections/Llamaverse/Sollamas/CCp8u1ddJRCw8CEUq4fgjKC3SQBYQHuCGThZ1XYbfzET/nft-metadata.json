@@ -1,0 +1,77 @@
+{
+  "name": "Mirza, the Reliable",
+  "symbol": "LLAMA",
+  "description": "Mirza, the Reliable is a uniquely generated, cute and collectible Llama risen from dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/9AsuK11A4QDpt0pxmffRf-4FNrdBLsxzBOkALG9bRvA",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Mirza, the Reliable"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Snowy Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Rainbow Unicorn"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 2298
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Ghost"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/9AsuK11A4QDpt0pxmffRf-4FNrdBLsxzBOkALG9bRvA",
+        "type": "image/png"
+      }
+    ]
+  }
+}

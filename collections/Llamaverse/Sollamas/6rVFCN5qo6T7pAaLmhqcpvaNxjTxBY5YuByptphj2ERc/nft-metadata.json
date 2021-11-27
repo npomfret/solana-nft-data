@@ -1,0 +1,81 @@
+{
+  "name": "Addilynn, the Greedy",
+  "symbol": "LLAMA",
+  "description": "Addilynn, the Greedy is a uniquely generated, cute and collectible Llama risen from dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/avxuENoXcJsQWhClJ0Wu3gTAOQqFg1yufqWS7jfZ1tQ",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Addilynn, the Greedy"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Flower Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bob"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Yellow Slant"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Eyeshadow"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 9098
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Ghost"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/avxuENoXcJsQWhClJ0Wu3gTAOQqFg1yufqWS7jfZ1tQ",
+        "type": "image/png"
+      }
+    ]
+  }
+}

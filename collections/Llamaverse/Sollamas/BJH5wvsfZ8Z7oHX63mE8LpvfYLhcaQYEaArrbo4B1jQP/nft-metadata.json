@@ -1,0 +1,79 @@
+{
+  "name": "Harrison, the Sociable",
+  "symbol": "LLAMA",
+  "description": "Harrison, the Sociable is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #9,161 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/SmC_mX04HOy7Drh2Szd6-8-0PG-O0rreE0F6o8CBZKw",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Harrison, the Sociable"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Cactus"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Red Slant"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Clown Eyes"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Cross Necklace"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 9161
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

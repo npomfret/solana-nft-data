@@ -1,0 +1,71 @@
+{
+  "name": "Dalton, the Tame",
+  "symbol": "LLAMA",
+  "description": "Dalton, the Tame is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #1,039 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/Pdi0WCphzE7T1KGLZpC4hcfxfJhhyNm8QpVu_BJlsHE",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Dalton, the Tame"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Cactus"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Large Black Spots"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Blue Slant"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Short Goatie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Clown Eyes"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 1039
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

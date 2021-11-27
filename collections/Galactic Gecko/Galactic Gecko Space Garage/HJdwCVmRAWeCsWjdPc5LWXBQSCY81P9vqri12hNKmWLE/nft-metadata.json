@@ -1,0 +1,76 @@
+{
+  "name": "Galactic Gecko #9468",
+  "symbol": "GGSG",
+  "description": "With the help of your Targari brothers, you've calculated the magnetic fields, mapped the gamma ray bursts, and engineered your racing ship in your favor. May the best gecko win.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/JO5ZXTJtTAqZOOuCFPfQQp4cm3Ml1lNJvBpbaO20L-k?ext=jpeg",
+  "attributes": [
+    {
+      "trait_type": "Faction",
+      "value": "Targari",
+      "trait_count": 2503
+    },
+    {
+      "trait_type": "Body",
+      "value": "Brick",
+      "trait_count": 1298
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Augmented",
+      "trait_count": 301
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Lunar Replica",
+      "trait_count": 266
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Portable Satellite",
+      "trait_count": 164
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Ocular Scanner",
+      "trait_count": 299
+    },
+    {
+      "trait_type": "Attribute Count",
+      "value": 6,
+      "max_value": 7,
+      "trait_count": 3040
+    }
+  ],
+  "collection": {
+    "name": "Galactic Gecko Space Garage",
+    "family": "Galactic Gecko"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/JO5ZXTJtTAqZOOuCFPfQQp4cm3Ml1lNJvBpbaO20L-k?ext=jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "B5MPcaEGNF3iZH5kLjPPfhy3ieXbQ8Cgb77zSZD6gNSn",
+        "share": 11
+      },
+      {
+        "address": "F8x4gCzXVWuMEskSwHMRPFh7eGtEtgfkQweb7tPNKSG3",
+        "share": 37
+      },
+      {
+        "address": "uVZUoHE3W7YExtqU6cP7Vygk48noZvrMJorpuvHn1d7",
+        "share": 15
+      },
+      {
+        "address": "6D7pCvdZxhPxys7awkt52DkHmFeLef1q9kpx58mq23xp",
+        "share": 37
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Mech #662",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/6Tnmu13hQC7sMjV2KNDfgnYdk4f7LGo7gdQUkcVp3Xs?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue_Orbit"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Gun_GOLD"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Gun_WHITE"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Offense_GOLD"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Gun_BLUE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Full_RED"
+    }
+  ],
+  "edition": 662,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/6Tnmu13hQC7sMjV2KNDfgnYdk4f7LGo7gdQUkcVp3Xs?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

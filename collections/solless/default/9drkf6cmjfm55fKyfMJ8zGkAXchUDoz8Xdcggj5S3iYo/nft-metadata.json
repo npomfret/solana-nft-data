@@ -1,0 +1,70 @@
+{
+  "name": "Solless #131",
+  "symbol": "SLSS",
+  "description": "Solless Limited Edition NFTs",
+  "seller_fee_basis_points": 2500,
+  "image": "https://solless.mypinata.cloud/ipfs/QmRkNrzKZBkXZ2hz4WS2CGFEQDyJrEMF2tN6ivcNX2uSJa?ext=gif",
+  "external_url": "https://solless.art",
+  "edition": 131,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "11. magenta"
+    },
+    {
+      "trait_type": "hair",
+      "value": "black hair red lace"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "white dress"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Dress layer",
+      "value": "dress layer 2 grey"
+    },
+    {
+      "trait_type": "food",
+      "value": "food black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "black fire eyes"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bloody fangs redlips"
+    },
+    {
+      "trait_type": "tattoo",
+      "value": "red dot tattoo"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://solless.mypinata.cloud/ipfs/QmRkNrzKZBkXZ2hz4WS2CGFEQDyJrEMF2tN6ivcNX2uSJa?ext=gif",
+        "type": "image/gif"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7ajDfudG8hSyAW6riFAh6hLPHHXzJXziwgjRSUS6znqQ",
+        "share": 65
+      },
+      {
+        "address": "A1dqBKGUrid2a2cdhmFqdYDDrWGrfTt7j6BNRN83vn9H",
+        "share": 25
+      },
+      {
+        "address": "9JEyTbUsXkmvd7pRnAAe1YAjNDhSKWDyuzWaRwp4kAb1",
+        "share": 10
+      }
+    ]
+  }
+}

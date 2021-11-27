@@ -1,0 +1,57 @@
+{
+  "name": "3237",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeibm3cgnx4ioh3vshx2cqcmctpx7f4uxpafb7bqzqv4ydk5aomnaja/solchicks-3237.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Pirate Hat"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Dress Shoes"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Winking Eye"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Diamond Necklace"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Rare"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Light blue,2:SolChick,3:Leather Jacket,4:Pirate Hat,5:Dress Shoes,6:Winking Eye,7:Diamond Necklace,",
+  "rarityScore": 13650
+}

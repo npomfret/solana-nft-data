@@ -1,0 +1,81 @@
+{
+  "name": "Kaique, the Protective",
+  "symbol": "LLAMA",
+  "description": "Kaique, the Protective is a uniquely generated, cute and collectible Llama risen from the dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/nS5tyMLEO1M5w_zioENAeP4wurSzJWWGbELAfv3HpTc",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Kaique, the Protective"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "?"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Flower Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bucket Hat"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Red Slant"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5279
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Undead"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/nS5tyMLEO1M5w_zioENAeP4wurSzJWWGbELAfv3HpTc",
+        "type": "image/png"
+      }
+    ]
+  }
+}

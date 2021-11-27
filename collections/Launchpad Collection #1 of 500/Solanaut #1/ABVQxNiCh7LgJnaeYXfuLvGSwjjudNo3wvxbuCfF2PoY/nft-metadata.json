@@ -1,0 +1,67 @@
+{
+  "name": "Solanaut #1",
+  "symbol": "NAUT",
+  "description": "This NFT represents 1 unique token of 500 minted Solanaut NFTs released on the Solana blockchain in September of 2021.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://www.arweave.net/Uwn4CVLwUk0KFAiA9Mzc4PChM_fG8uYXCqDCgYBsOqk?ext=png",
+  "external_url": "https://www.solanauts.io",
+  "update_authority": "Dj13m8RJwtjkWsXY9LhiPaeVpqT6tq9yS4r6bb8MHi4y",
+  "attributes": [
+    {
+      "trait_type": "Suit Color",
+      "value": "Teal"
+    },
+    {
+      "trait_type": "Visor Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Environment",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Orientation",
+      "value": "Right"
+    },
+    {
+      "trait_type": "Rank Patch",
+      "value": "SOLdier"
+    },
+    {
+      "trait_type": "Special Patch",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Secondary Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Match Type",
+      "value": "Dubs"
+    },
+    {
+      "trait_type": "Rank",
+      "value": 23
+    }
+  ],
+  "collection": {
+    "name": "Solanaut #1",
+    "family": "Launchpad Collection #1 of 500"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/Uwn4CVLwUk0KFAiA9Mzc4PChM_fG8uYXCqDCgYBsOqk?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Dj13m8RJwtjkWsXY9LhiPaeVpqT6tq9yS4r6bb8MHi4y",
+        "verified": true,
+        "share": 100
+      }
+    ]
+  }
+}

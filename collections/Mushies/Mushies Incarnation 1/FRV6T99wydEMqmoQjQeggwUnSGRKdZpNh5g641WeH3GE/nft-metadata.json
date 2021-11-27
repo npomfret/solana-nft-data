@@ -1,0 +1,47 @@
+{
+  "name": "Mushie #3716",
+  "symbol": "MUSH",
+  "description": "The Flamingo Forest has spoken, Mushie #3716 has sprouted.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/ckwYKkC1oiF0DJaXrWTis99jatnOFrK7Apk8tXerE2I?ext=png",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Sequence",
+      "value": 3716
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Trait Count",
+      "value": 1
+    },
+    {
+      "trait_type": "Unique",
+      "value": "Holy Mushie"
+    }
+  ],
+  "collection": {
+    "name": "Mushies Incarnation 1",
+    "family": "Mushies"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/ckwYKkC1oiF0DJaXrWTis99jatnOFrK7Apk8tXerE2I?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4qGdrBFtqHL2ee78rZsZWrPDG8AbUDc2jyeMPMmSfPvR",
+        "share": "100"
+      }
+    ]
+  }
+}

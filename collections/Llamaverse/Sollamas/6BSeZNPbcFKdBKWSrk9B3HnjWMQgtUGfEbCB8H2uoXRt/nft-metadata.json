@@ -1,0 +1,67 @@
+{
+  "name": "Tamsin, the Tender",
+  "symbol": "LLAMA",
+  "description": "Tamsin, the Tender is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #5,671 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/s6OfvXy3xaEpeptvVkB8iKw0UxRKGaev5RNPjRCebOA",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Tamsin, the Tender"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Farm Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Stripes"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Vape"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crossed Eyes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Party Hat"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5671
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

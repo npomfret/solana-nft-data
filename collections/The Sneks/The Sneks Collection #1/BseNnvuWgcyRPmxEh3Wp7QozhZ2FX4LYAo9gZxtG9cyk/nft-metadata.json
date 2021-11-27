@@ -1,0 +1,84 @@
+{
+  "name": "Snek #6183",
+  "symbol": "",
+  "_fee_basis_points": 300,
+  "image": "https://www.arweave.net/u6yu4CtmIrO2FiQaXpaqtlFaUIOJVW5GC2ny9H2aaUo?ext=png",
+  "update_authority": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+  "collection": {
+    "name": "The Sneks Collection #1",
+    "family": "The Sneks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/u6yu4CtmIrO2FiQaXpaqtlFaUIOJVW5GC2ny9H2aaUo?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue",
+      "trait_count": 1566
+    },
+    {
+      "trait_type": "fans",
+      "value": "white",
+      "trait_count": 207
+    },
+    {
+      "trait_type": "body",
+      "value": "purple",
+      "trait_count": 53
+    },
+    {
+      "trait_type": "snake type",
+      "value": "2 headed",
+      "trait_count": 459
+    },
+    {
+      "trait_type": "stripes",
+      "value": "stripes midtone",
+      "trait_count": 555
+    },
+    {
+      "trait_type": "spots",
+      "value": ""
+    },
+    {
+      "trait_type": "skin",
+      "value": "skin blue",
+      "trait_count": 575
+    },
+    {
+      "trait_type": "eyes",
+      "value": "brown",
+      "trait_count": 1608
+    },
+    {
+      "trait_type": "glasses",
+      "value": ""
+    },
+    {
+      "trait_type": "hats",
+      "value": "unicorn horn",
+      "trait_count": 141
+    },
+    {
+      "trait_type": "mouth",
+      "value": "fire breath goldfish",
+      "trait_count": 97
+    },
+    {
+      "trait_type": "outfits",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Rumi, the Tasty",
+  "symbol": "LLAMA",
+  "description": "Rumi, the Tasty is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #3,666 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/ItPRiIdRiJuHbD9W4thU80wB85iU1o35Vr7irwC-ClA",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Rumi, the Tasty"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "?"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Farm Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Choker"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Wild Hair "
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 3666
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

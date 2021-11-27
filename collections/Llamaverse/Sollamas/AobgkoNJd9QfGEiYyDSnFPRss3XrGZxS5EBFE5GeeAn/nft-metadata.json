@@ -1,0 +1,67 @@
+{
+  "name": "Jidenna, the Happy",
+  "symbol": "LLAMA",
+  "description": "Jidenna, the Happy is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #6,133 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/ZOA0AKk904403d4pvlbYVtRLNsZXO-kX7cYJo0Yd8No",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Jidenna, the Happy"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Butte Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Hipster Glasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Front Cap"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Short Goatie"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 6133
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

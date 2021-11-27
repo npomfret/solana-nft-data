@@ -1,0 +1,63 @@
+{
+  "name": "Mushie #681",
+  "symbol": "MUSH",
+  "description": "The Flamingo Forest has spoken, Mushie #681 has sprouted.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/aNWcq_N1yGzk0BZYXx94nI7DwBD2EZeG67AWCxL2pRU?ext=png",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Sequence",
+      "value": 681
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green "
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Beige"
+    },
+    {
+      "trait_type": "Fin",
+      "value": "Purple "
+    },
+    {
+      "trait_type": "Top",
+      "value": "Cheetah Print Top"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Trait Count",
+      "value": 1
+    },
+    {
+      "trait_type": "Body",
+      "value": "Steampunk"
+    }
+  ],
+  "collection": {
+    "name": "Mushies Incarnation 1",
+    "family": "Mushies"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/aNWcq_N1yGzk0BZYXx94nI7DwBD2EZeG67AWCxL2pRU?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4qGdrBFtqHL2ee78rZsZWrPDG8AbUDc2jyeMPMmSfPvR",
+        "share": "100"
+      }
+    ]
+  }
+}

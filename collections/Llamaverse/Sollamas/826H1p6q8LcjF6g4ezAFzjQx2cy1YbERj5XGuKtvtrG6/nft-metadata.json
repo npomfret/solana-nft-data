@@ -1,0 +1,71 @@
+{
+  "name": "Drew, the Putrid",
+  "symbol": "LLAMA",
+  "description": "Drew, the Putrid is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #3,244 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/kOn0LqAk3hLzMbQlcWGyCJ85mnHQ0x0Us4d1CO9YTxg",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Drew, the Putrid"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Flower"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Wind Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crossed Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Green Slant"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 3244
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

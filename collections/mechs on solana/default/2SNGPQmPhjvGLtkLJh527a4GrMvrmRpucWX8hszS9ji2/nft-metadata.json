@@ -1,0 +1,49 @@
+{
+  "name": "Mech #512",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/Cn9cOtwiiXy-BApX2i6E9KZkFfvn5Zbmdqi35_Di_94?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gold_Star"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Gun_SILVER"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Standard_CHROME"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Offense_BLUE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Regular_PURPLE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Full_BLUE"
+    }
+  ],
+  "edition": 512,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/Cn9cOtwiiXy-BApX2i6E9KZkFfvn5Zbmdqi35_Di_94?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

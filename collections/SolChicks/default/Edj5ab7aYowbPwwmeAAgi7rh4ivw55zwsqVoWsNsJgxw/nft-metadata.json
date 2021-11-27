@@ -1,0 +1,53 @@
+{
+  "name": "3982",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeif5bigcidba2cv4zoif5fmjcaykkkxg54c7xz5elpwwbspfwesfmy/solchicks-3982.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Garden"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Cowboy_s Suit"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Santa_s Hat"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Winking Eye"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Gold Cross Earring"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Garden,2:SolChick,3:Cowboy_s Suit,4:Santa_s Hat,5:none,6:Winking Eye,7:Gold Cross Earring,",
+  "rarityScore": 18650
+}

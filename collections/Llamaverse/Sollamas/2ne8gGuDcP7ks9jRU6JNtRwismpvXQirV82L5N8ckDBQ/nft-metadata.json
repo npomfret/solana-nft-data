@@ -1,0 +1,71 @@
+{
+  "name": "Kirk, the Fearful",
+  "symbol": "LLAMA",
+  "description": "Kirk, the Fearful is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #855 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/nyApGsrST5Z3Ds1etTUMom9p2_FBtWEjsJ9T69NYKEo",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Kirk, the Fearful"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Cactus"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Side Cap"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Chain"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Carrot"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Clown Eyes"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 855
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

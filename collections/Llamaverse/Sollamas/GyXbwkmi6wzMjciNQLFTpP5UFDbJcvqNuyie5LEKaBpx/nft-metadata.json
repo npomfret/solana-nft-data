@@ -1,0 +1,71 @@
+{
+  "name": "Monty, the Gifted",
+  "symbol": "LLAMA",
+  "description": "Monty, the Gifted is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #3,657 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/ngYkkcP32SdOKg65RMROU753O7a8susxMy_jRF_28CU",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Monty, the Gifted"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Butte Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Wind Hair"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Clown Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Bowtie"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Blue Slant"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 3657
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

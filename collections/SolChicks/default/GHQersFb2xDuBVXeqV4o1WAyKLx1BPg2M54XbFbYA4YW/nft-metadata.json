@@ -1,0 +1,49 @@
+{
+  "name": "3873",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeiaqpsnmpwzlupvegycjejsew7hi6xsayleebedb7ad56dnmesg4um/solchicks-3873.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Garden"
+    },
+    {
+      "trait_type": "base",
+      "value": "Grandmaster SolChick"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Cowboy boots"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Anime Eyes"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Black Mask"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Mythical"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Garden,2:Grandmaster SolChick,3:none,4:none,5:Cowboy boots,6:Anime Eyes,7:Black Mask,",
+  "rarityScore": 8450
+}

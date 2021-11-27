@@ -1,0 +1,67 @@
+{
+  "name": "Talmage, the Courageous",
+  "symbol": "LLAMA",
+  "description": "Talmage, the Courageous is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #7,788 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/t2kdXBjq9LxMCy3KTAP1r6zF_Z6UCnM2qyqPGZUuaAA",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Talmage, the Courageous"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Mushroom Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Yellow Stripes "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Right Earring"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 7788
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

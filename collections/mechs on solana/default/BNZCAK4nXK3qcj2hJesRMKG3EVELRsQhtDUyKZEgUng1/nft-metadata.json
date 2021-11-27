@@ -1,0 +1,49 @@
+{
+  "name": "Mech #138",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/67JSwGjW5iFZ3u5iI2i0L2VaZcXj2VbzownQ_G4qV6A?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Gun_SILVER"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Gun_MATTE"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Offense_BLUE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "BATTLE_WHITE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Full_WHITE"
+    }
+  ],
+  "edition": 138,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/67JSwGjW5iFZ3u5iI2i0L2VaZcXj2VbzownQ_G4qV6A?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "name": "3534",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeicydhkdtlvykzg57oxg6s4ij7nttyqkca65uvya4yo4g4o3qsipf4/solchicks-3534.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Garden"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Gucci T-Shirt"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Rapper Durag"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Diamond Necklace"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Garden,2:SolChick,3:Gucci T-Shirt,4:Rapper Durag,5:none,6:none,7:Diamond Necklace,",
+  "rarityScore": 18750
+}

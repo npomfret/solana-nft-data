@@ -1,0 +1,81 @@
+{
+  "name": "Andrea, the Thankworthy",
+  "symbol": "LLAMA",
+  "description": "Andrea, the Thankworthy is a uniquely generated, cute and collectible Llama risen from the dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/ArgPbYVRKvEJJ6gypbSWLSFdoJ0SOP8w2wt6bYjpGVo",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Andrea, the Thankworthy"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Mushroom Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mullet"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Tie"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Green Stripes"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Clown Eyes"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 7436
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Undead"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/ArgPbYVRKvEJJ6gypbSWLSFdoJ0SOP8w2wt6bYjpGVo",
+        "type": "image/png"
+      }
+    ]
+  }
+}

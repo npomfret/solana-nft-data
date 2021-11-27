@@ -1,0 +1,67 @@
+{
+  "name": "Moira, the Nutty",
+  "symbol": "LLAMA",
+  "description": "Moira, the Nutty is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #8,645 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/jrrn8LOx63gUGFqmKd5GoWDCjMLPDNzxfayQlHTKPfk",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Moira, the Nutty"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Straight Cut Hair"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Purple Sunglasses"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Blue Slant"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 8645
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

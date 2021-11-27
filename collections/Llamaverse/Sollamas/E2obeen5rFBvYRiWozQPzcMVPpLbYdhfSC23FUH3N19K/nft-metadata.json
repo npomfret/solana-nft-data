@@ -1,0 +1,63 @@
+{
+  "name": "Kiran, the Amused",
+  "symbol": "LLAMA",
+  "description": "Kiran, the Amused is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #3,511 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/5A6gji9RF7S26G1HdrQXohnItdKkrUpY1e4He6R1DuE",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Kiran, the Amused"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Flower"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Stripes"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Green Clown Eyes"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 3511
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

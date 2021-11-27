@@ -1,0 +1,57 @@
+{
+  "name": "4656",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeidforuujqivdw2pyr57zkydwx4kczo4hyfoyrhn5hosagjl7mw3pq/solchicks-4656.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Santa_s Suit"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Pirate Hat"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Cowboy boots"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Bruised Eyes"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Silver Cross Necklace"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Rare"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Forest,2:SolChick,3:Santa_s Suit,4:Pirate Hat,5:Cowboy boots,6:Bruised Eyes,7:Silver Cross Necklace,",
+  "rarityScore": 15150
+}

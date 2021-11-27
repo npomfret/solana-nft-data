@@ -1,0 +1,67 @@
+{
+  "name": "Chassity, the Distinct",
+  "symbol": "LLAMA",
+  "description": "Chassity, the Distinct is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #5,797 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/haXBDyFDagFPTffUiyJ8ZiwIqLDRtJLOb0zKQOitc5o",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Chassity, the Distinct"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Farm Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Stripes"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Blue Slant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pony Tail"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyeshadow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5797
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

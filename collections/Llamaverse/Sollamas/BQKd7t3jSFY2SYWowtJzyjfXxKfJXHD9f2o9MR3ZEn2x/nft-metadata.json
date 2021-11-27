@@ -1,0 +1,77 @@
+{
+  "name": "Cordero, the Modest",
+  "symbol": "LLAMA",
+  "description": "Cordero, the Modest is a uniquely generated, cute and collectible Llama risen from dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/67xATQ85GrdvUXmP3iK9tAVKsTlKixIZVrPG8Ag18j4",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Cordero, the Modest"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Butte Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bullseye"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 6658
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Ghost"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/67xATQ85GrdvUXmP3iK9tAVKsTlKixIZVrPG8Ag18j4",
+        "type": "image/png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "Grape Wizard #3",
+  "description": "Special Edition Grape Wizard, in honor of our friends at Grape Protocol. 3 total in circulation.",
+  "external_url": "https://kaijucards.io/",
+  "image": "https://assets.kaijucards.io/stills/grape-wizard.png",
+  "animation_url": "https://assets.kaijucards.io/video/grape-wizard.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "special edition"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "grape"
+    },
+    {
+      "trait_type": "Border",
+      "value": "no"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://assets.kaijucards.io/video/grape-wizard.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  },
+  "category": "video",
+  "creators": [
+    {
+      "address": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+      "share": "100"
+    }
+  ],
+  "sellerFeeBasisPoints": "500"
+}

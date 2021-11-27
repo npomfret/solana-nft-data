@@ -1,0 +1,49 @@
+{
+  "name": "Mech #1526",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/n3Gx03rLi524fWnHwbs6XtU1ZMb7UqTn7s5Fykef0sk?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Gun_SILVER"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Gun_BLUE"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Battle_MATTE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Regular_SILVER"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil_CARBON"
+    }
+  ],
+  "edition": 1526,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/n3Gx03rLi524fWnHwbs6XtU1ZMb7UqTn7s5Fykef0sk?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

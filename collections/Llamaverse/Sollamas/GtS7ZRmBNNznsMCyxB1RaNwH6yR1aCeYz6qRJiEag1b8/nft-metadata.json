@@ -1,0 +1,67 @@
+{
+  "name": "Zane, the Inquisitive",
+  "symbol": "LLAMA",
+  "description": "Zane, the Inquisitive is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #8,881 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/g1Zsz_s-R94X5wFgYxteGEB9V2jYQHzydlEfaNal2Ss",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Zane, the Inquisitive"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Stripes"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Yellow Stripes "
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 8881
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

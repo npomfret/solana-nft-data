@@ -1,0 +1,49 @@
+{
+  "name": "5076",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeia72eh6tarfnt7krwwmmwbxtew3macsn4hsnj6dgwb32tzwqnda5q/solchicks-5076.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Cyclop_s Google"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Gold Cross Earring"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Common"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Pink,2:SolChick,3:none,4:Bald,5:none,6:Cyclop_s Google,7:Gold Cross Earring,",
+  "rarityScore": 20250
+}

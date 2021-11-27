@@ -1,0 +1,49 @@
+{
+  "name": "Mech #745",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/XLCVyBUd9mMlgXXSILXnnprmj6jSY1KfNr83_--gUjQ?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Gun_CARBON"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "BATTLE_BLUE"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Battle_WHITE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "BATTLE_PURPLE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Full_BLUE"
+    }
+  ],
+  "edition": 745,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/XLCVyBUd9mMlgXXSILXnnprmj6jSY1KfNr83_--gUjQ?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

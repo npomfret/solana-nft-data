@@ -1,0 +1,49 @@
+{
+  "name": "2697",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeigxceti2znoe5ujqes4pugecmbpyvm756zqkji4yh5fwf6mea3dqe/solchicks-2697.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Pirate_s Suit"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Dress Shoes"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Beach,2:SolChick,3:Pirate_s Suit,4:none,5:Dress Shoes,6:none,7:Clown Nose,",
+  "rarityScore": 16350
+}

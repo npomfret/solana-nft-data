@@ -1,0 +1,28 @@
+{
+  "name": "Bookle #398",
+  "description": "All will be revealed",
+  "external_url": "https://kaijucards.io/",
+  "image": "https://assets.kaijucards.io/stills/bookle.png",
+  "animation_url": "https://assets.kaijucards.io/video/bookle.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "common"
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://assets.kaijucards.io/video/bookle.mp4",
+        "type": "mp4"
+      }
+    ]
+  },
+  "sellerFeeBasisPoints": 500
+}

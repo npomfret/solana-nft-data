@@ -1,0 +1,49 @@
+{
+  "name": "2421",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeibsxbu4no5jfon3d2vjtn2tghisjgbz3ruuz4ova35i3in6c7uuny/solchicks-2421.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Reggae Haur"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Regular Glasses"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Diamond Necklace"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Common"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Desert,2:SolChick,3:none,4:Reggae Haur,5:none,6:Regular Glasses,7:Diamond Necklace,",
+  "rarityScore": 20350
+}

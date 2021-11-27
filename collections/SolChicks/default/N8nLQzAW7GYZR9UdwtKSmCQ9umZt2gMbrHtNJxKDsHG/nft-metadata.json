@@ -1,0 +1,49 @@
+{
+  "name": "2909",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeiel5gup4kk62325bbvweolqrd4d2sjsobpokvkbe2p3wnosd2va5m/solchicks-2909.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Rapper Purple Cap"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Minion_s Shoes"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Gold Cross Earring"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Forest,2:SolChick,3:none,4:Rapper Purple Cap,5:Minion_s Shoes,6:none,7:Gold Cross Earring,",
+  "rarityScore": 17350
+}

@@ -1,0 +1,59 @@
+{
+  "name": "Mushie Deceased",
+  "symbol": "MUSH",
+  "description": "The Flamingo Forest has spoken, this Mushie was burned alive.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/tNRde46pvqeTBGpWGYcUFRF2dJfGxN_EUCW3HaD2fx8?ext=png",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Sequence",
+      "value": 0
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cumin"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Burned"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Shriveled"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Trait Count",
+      "value": 3
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dead"
+    }
+  ],
+  "collection": {
+    "name": "Mushies Incarnation 1",
+    "family": "Mushies"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/tNRde46pvqeTBGpWGYcUFRF2dJfGxN_EUCW3HaD2fx8?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4qGdrBFtqHL2ee78rZsZWrPDG8AbUDc2jyeMPMmSfPvR",
+        "share": "100"
+      }
+    ]
+  }
+}

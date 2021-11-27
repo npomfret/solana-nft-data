@@ -1,0 +1,79 @@
+{
+  "name": "Harlem, the Annoyed",
+  "symbol": "LLAMA",
+  "description": "Harlem, the Annoyed is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #1,444 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/CuBzyrkVyuoNmONoo0BOH4M86XuFwIZNlc0dgodtKPk",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Harlem, the Annoyed"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Cactus"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Orange Sunglasses"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Short Goatie"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Brown Stripes "
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 1444
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

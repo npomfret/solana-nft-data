@@ -1,0 +1,77 @@
+{
+  "name": "Khizar, the Unpleasant",
+  "symbol": "LLAMA",
+  "description": "Khizar, the Unpleasant is a uniquely generated, cute and collectible Llama risen from dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/WvXyPd1gxxDKOVxBjYIHX3rAlR9V-LO_beHf7dNDL2c",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Khizar, the Unpleasant"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "?"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Flower"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "White Socks"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Apple"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Brown Stripes "
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 8638
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Ghost"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/WvXyPd1gxxDKOVxBjYIHX3rAlR9V-LO_beHf7dNDL2c",
+        "type": "image/png"
+      }
+    ]
+  }
+}

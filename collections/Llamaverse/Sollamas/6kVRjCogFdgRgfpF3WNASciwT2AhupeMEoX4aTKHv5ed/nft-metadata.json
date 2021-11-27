@@ -1,0 +1,67 @@
+{
+  "name": "George, the Frantic",
+  "symbol": "LLAMA",
+  "description": "George, the Frantic is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #5,914 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/iof-sGri9pHZ1I0mnYvsQuZt5Zez2aU00v_qT31Xxps",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "George, the Frantic"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Flower"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Wind Hair"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Green Stripes"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5914
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

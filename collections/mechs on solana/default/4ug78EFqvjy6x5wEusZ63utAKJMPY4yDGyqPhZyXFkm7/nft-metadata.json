@@ -1,0 +1,49 @@
+{
+  "name": "Mech #354",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/EDpQMBNtMTHEVbn694R0_pilmBSr3WehxzIZbLi_kY8?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dash"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Gun_SILVER"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Shield_WHITE"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Offense_RED"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Regular_BLUE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil_GOLD"
+    }
+  ],
+  "edition": 354,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/EDpQMBNtMTHEVbn694R0_pilmBSr3WehxzIZbLi_kY8?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

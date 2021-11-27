@@ -1,0 +1,63 @@
+{
+  "name": "Nebbiolo, the Gifted",
+  "symbol": "LLAMA",
+  "description": "Nebbiolo, the Gifted is a Limited Edition SollamasNFT X Grape Protocol Llama with proof of ownership on the Solana blockchain. He was uniquely minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/CpYEwKlT9d3edFz3QfwadXrRiNYrMI6hD9Y_vNrZyg8",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Nebbiolo, the Gifted"
+    },
+    {
+      "trait_type": "Set",
+      "value": "LE Collabs"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Snowy Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Grapes"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Clown Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Tie"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Limited Edition"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

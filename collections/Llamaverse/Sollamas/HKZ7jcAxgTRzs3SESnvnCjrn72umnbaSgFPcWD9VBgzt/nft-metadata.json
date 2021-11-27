@@ -1,0 +1,67 @@
+{
+  "name": "Daija, the Attractive",
+  "symbol": "LLAMA",
+  "description": "Daija, the Attractive is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #8,426 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/TnV3twa8d-zeT62P3m1o14W-eUdVFN7H1e1XSbVEAaA",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Daija, the Attractive"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Flower Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Tie"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Carrot"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 8426
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

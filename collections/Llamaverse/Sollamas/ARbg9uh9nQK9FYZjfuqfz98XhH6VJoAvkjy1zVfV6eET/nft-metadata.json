@@ -1,0 +1,75 @@
+{
+  "name": "Ali, the Naughty",
+  "symbol": "LLAMA",
+  "description": "Ali, the Naughty is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #646 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/B3lhqvRaiEgiXn1bGN3pm0tUAtemGuKaF_HlcL4gECI",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ali, the Naughty"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Cactus"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fringe"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Right"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Ciggie"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 646
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

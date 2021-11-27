@@ -1,0 +1,70 @@
+{
+  "name": "Solless #14",
+  "symbol": "SLSS",
+  "description": "Solless Limited Edition NFTs",
+  "seller_fee_basis_points": 2500,
+  "image": "https://www.arweave.net/Nqe92AAOWxij_7kJoKG6d1c7_BfYLgH5zPqtYD3Nsa4?ext=png",
+  "external_url": "https://solless.art",
+  "edition": 14,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "3 black and cyan"
+    },
+    {
+      "trait_type": "hair",
+      "value": "yellow with horns"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "white dress blood"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Dress layer",
+      "value": "dress layer 2 dark grey"
+    },
+    {
+      "trait_type": "food",
+      "value": "food black"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "5 black eyes"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "Normal Black lips"
+    },
+    {
+      "trait_type": "tattoo",
+      "value": "dot white"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/Nqe92AAOWxij_7kJoKG6d1c7_BfYLgH5zPqtYD3Nsa4?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7ajDfudG8hSyAW6riFAh6hLPHHXzJXziwgjRSUS6znqQ",
+        "share": 65
+      },
+      {
+        "address": "A1dqBKGUrid2a2cdhmFqdYDDrWGrfTt7j6BNRN83vn9H",
+        "share": 25
+      },
+      {
+        "address": "9JEyTbUsXkmvd7pRnAAe1YAjNDhSKWDyuzWaRwp4kAb1",
+        "share": 10
+      }
+    ]
+  }
+}

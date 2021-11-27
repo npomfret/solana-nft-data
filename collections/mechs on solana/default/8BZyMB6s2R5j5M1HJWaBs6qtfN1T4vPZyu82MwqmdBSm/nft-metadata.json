@@ -1,0 +1,49 @@
+{
+  "name": "Mech #7756",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/L_6dz1JvMNq3AAooiyYQnOmU6HsM1csBQ6Paf-Qnh04?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Katana_CARBON"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "BATTLE_SILVER"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Battle_CARBON"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "BLASTER_PURPLE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tron_BLUE"
+    }
+  ],
+  "edition": 7756,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/L_6dz1JvMNq3AAooiyYQnOmU6HsM1csBQ6Paf-Qnh04?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "name": "The Tower #97-7",
+  "symbol": "TWRDAO",
+  "description": "Residences inside a futuristic skyscraper in the metaverse. Home of the TowerDAO.",
+  "seller_fee_basis_points": 500,
+  "external_url": "https://towerdao.com/enter-the-tower/97/7",
+  "image": "https://www.arweave.net/unDxJgvg1nI5aQu5AlqqbVjVLoA40CjdP-gfu01aoS0?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Story",
+      "value": 97
+    },
+    {
+      "trait_type": "Room",
+      "value": 7
+    },
+    {
+      "trait_type": "Wall",
+      "value": "Forest Tree"
+    },
+    {
+      "trait_type": "Wall Item",
+      "value": "Neon Arc Purple Sign"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "Void"
+    },
+    {
+      "trait_type": "Floor Item",
+      "value": "Sneks"
+    },
+    {
+      "trait_type": "Big Item",
+      "value": "Gray Couch Cornered"
+    },
+    {
+      "trait_type": "Small Item 1",
+      "value": "Glass Round Coffeetable"
+    },
+    {
+      "trait_type": "Small Item 2",
+      "value": "Modelspaceship"
+    },
+    {
+      "trait_type": "View",
+      "value": "Blue5"
+    },
+    {
+      "trait_type": "Background",
+      "value": "White"
+    }
+  ],
+  "collection": {
+    "name": "The Tower",
+    "family": "TowerDAO"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/unDxJgvg1nI5aQu5AlqqbVjVLoA40CjdP-gfu01aoS0?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "FHJKrc5MJJQLhj2FqiTfNnvLj59wEmaXVfozmp7JKj2A",
+        "share": 100
+      }
+    ]
+  }
+}

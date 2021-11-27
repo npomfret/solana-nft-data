@@ -1,0 +1,49 @@
+{
+  "name": "Mech #402",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/186y0N9jCdhTdyIyPWQv9CqPH2Ev3FUpGQR8BfJd6wc?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dash"
+    },
+    {
+      "trait_type": "Back",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "BATTLE_CARBON"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Defense_WHITE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Gun_MATTE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Destroyed_CARBON"
+    }
+  ],
+  "edition": 402,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/186y0N9jCdhTdyIyPWQv9CqPH2Ev3FUpGQR8BfJd6wc?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

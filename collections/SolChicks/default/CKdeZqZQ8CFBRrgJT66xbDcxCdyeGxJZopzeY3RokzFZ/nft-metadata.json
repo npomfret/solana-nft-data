@@ -1,0 +1,53 @@
+{
+  "name": "2524",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeiftijl67ttsajnqbphi3kh5b5kj2fb3aw6by4qcyqlir74mjtqjuy/solchicks-2524.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Cowboy_s Suit"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Reggae Haur"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "High Nike Dunk Sneakers"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Winking Eye"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Blue,2:SolChick,3:Cowboy_s Suit,4:Reggae Haur,5:High Nike Dunk Sneakers,6:Winking Eye,7:none,",
+  "rarityScore": 18150
+}

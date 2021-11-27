@@ -1,0 +1,53 @@
+{
+  "name": "3775",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeielclkgehbavml6pu7erm7ankyq7evlnrtdn52ngsqidz5nogazem/solchicks-3775.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "base",
+      "value": "Grand SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Pirate_s Suit"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Rapper Durag"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Dress Shoes"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Gold Cross Necklace"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Mythical"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Forest,2:Grand SolChick,3:Pirate_s Suit,4:Rapper Durag,5:Dress Shoes,6:none,7:Gold Cross Necklace,",
+  "rarityScore": 6400
+}

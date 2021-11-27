@@ -1,0 +1,67 @@
+{
+  "name": "Gracy, the Smiling",
+  "symbol": "LLAMA",
+  "description": "Gracy, the Smiling is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #2,512 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/YVqx6b-eVk7tPWWIUxis4p2UX3-U_OcbVkpCZZcsJhc",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Gracy, the Smiling"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Flower"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "White Socks"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Nerd Glasses"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Yellow Slant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Fringe"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 2512
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

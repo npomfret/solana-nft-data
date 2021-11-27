@@ -1,0 +1,20 @@
+{
+  "key": 4,
+  "updateAuthority": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+  "mint": "56tdjhWvYY8NVWhu55ZPZ72iMYPS4k6JdKgq8kh4BqW2",
+  "data": {
+    "name": "Jerry",
+    "symbol": "KAIJU",
+    "uri": "https://assets.kaijucards.io/json/je-97.json",
+    "sellerFeeBasisPoints": 500,
+    "creators": [
+      {
+        "address": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+        "verified": 1,
+        "share": 100
+      }
+    ]
+  },
+  "primarySaleHappened": 0,
+  "isMutable": 1
+}

@@ -1,0 +1,57 @@
+{
+  "name": "#4794",
+  "symbol": "",
+  "description": "skulls.wtf the hardest 3D HD NFT Collection",
+  "image": "https://www.arweave.net/A08GKb_k3qmr71ZFHEUhC9T31LCPKv_gCdLT5jhpf-I?ext=png",
+  "edition": 4794,
+  "seller_fee_basis_points": 400,
+  "collection": {
+    "name": "skulls.wtf",
+    "family": "SWTF"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/A08GKb_k3qmr71ZFHEUhC9T31LCPKv_gCdLT5jhpf-I?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "A9mT7nVrUYSApdRaM1CvoKvWCZNWN8qUMN6MkQSyVpjW",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "light"
+    },
+    {
+      "trait_type": "skeleton",
+      "value": "dark"
+    },
+    {
+      "trait_type": "skull",
+      "value": "angel"
+    },
+    {
+      "trait_type": "teeth",
+      "value": "king"
+    },
+    {
+      "trait_type": "hat",
+      "value": "headphones"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "earth"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "nope"
+    }
+  ]
+}

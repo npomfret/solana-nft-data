@@ -1,0 +1,67 @@
+{
+  "name": "Jael, the Fancy",
+  "symbol": "LLAMA",
+  "description": "Jael, the Fancy is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #5,494 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/x9oVg7fVMvcUr8U3hCjIPT7vpVKkbBY70MRu706fuGY",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Jael, the Fancy"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Farm Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stringy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pony Tail"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Red Sunglasses"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Red Slant"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5494
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

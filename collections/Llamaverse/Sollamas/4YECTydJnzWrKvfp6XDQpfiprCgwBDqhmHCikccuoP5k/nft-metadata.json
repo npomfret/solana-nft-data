@@ -1,0 +1,75 @@
+{
+  "name": "Dakari, the Bizarre",
+  "symbol": "LLAMA",
+  "description": "Dakari, the Bizarre is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #6,574 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/aWOZ5S-S20itc8kTUO9iDfQT1dSkYugWQvfR7iBL2rw",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Dakari, the Bizarre"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Flower Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Cross Necklace"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pom Pom Beanie"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Zorro"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Brown Stripes "
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Handlebars"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 6574
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

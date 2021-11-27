@@ -1,0 +1,20 @@
+{
+  "key": 4,
+  "updateAuthority": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+  "mint": "EZQRFLkbsHZq7hPn6819adjrDFrDGRQ83jWmiavnaj4P",
+  "data": {
+    "name": "Mimic",
+    "symbol": "KAIJU",
+    "uri": "https://assets.kaijucards.io/json/mi-178.json",
+    "sellerFeeBasisPoints": 500,
+    "creators": [
+      {
+        "address": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+        "verified": 1,
+        "share": 100
+      }
+    ]
+  },
+  "primarySaleHappened": 0,
+  "isMutable": 1
+}

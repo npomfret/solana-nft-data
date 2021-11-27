@@ -1,0 +1,75 @@
+{
+  "name": "Keegan, the Fancy",
+  "symbol": "LLAMA",
+  "description": "Keegan, the Fancy is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #1,430 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/rD7KeaZVyEW2T18gUx_cKaaBXG9WuETRnl6f1QUjec4",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Keegan, the Fancy"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Flower"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Large Black Spots"
+    },
+    {
+      "trait_type": "Expression",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pony Tail"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Orange Sunglasses"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Bowtie"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 1430
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

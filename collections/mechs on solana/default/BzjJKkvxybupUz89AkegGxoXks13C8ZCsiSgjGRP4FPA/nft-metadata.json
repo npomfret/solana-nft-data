@@ -1,0 +1,49 @@
+{
+  "name": "Mech #7027",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/wR6_Xx2gnAhDMZJVQrotYawEWxJCOZ4PUcLsF_4xHxU?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Sickle_MATTE"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Regular_BLUE"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Defense_CHROME"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "BLASTER_BLUE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Modular_GOLD"
+    }
+  ],
+  "edition": 7027,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/wR6_Xx2gnAhDMZJVQrotYawEWxJCOZ4PUcLsF_4xHxU?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

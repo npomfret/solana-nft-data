@@ -1,0 +1,53 @@
+{
+  "name": "6",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeidadecwxx6mcwrcboy7azn6mjtms7skgwowgyvksdrvrs3tsjubfq/solchicks-6.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "base",
+      "value": "Grandmaster SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Santa_s Hat"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Minion_s Shoes"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Cyclop_s Google"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Clown Nose"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Mythical"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Pink,2:Grandmaster SolChick,3:none,4:Santa_s Hat,5:Minion_s Shoes,6:Cyclop_s Google,7:Clown Nose,",
+  "rarityScore": 6250
+}

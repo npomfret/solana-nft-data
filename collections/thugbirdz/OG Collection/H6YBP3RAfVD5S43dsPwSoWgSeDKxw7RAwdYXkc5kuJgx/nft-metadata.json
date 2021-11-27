@@ -1,0 +1,82 @@
+{
+  "name": "THUG #1965",
+  "symbol": "",
+  "description": "You hold in your possession an OG thugbird. It was created with love for the Solana community by 0x_thug",
+  "seller_fee_basis_points": 500,
+  "external_url": "https://www.thugbirdz.com/",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "normal"
+    },
+    {
+      "trait_type": "Background Color",
+      "value": "lightpink"
+    },
+    {
+      "trait_type": "Head Color",
+      "value": "beige"
+    },
+    {
+      "trait_type": "Neck Color",
+      "value": "rosybrown"
+    },
+    {
+      "trait_type": "Shades",
+      "value": "standard"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "none"
+    },
+    {
+      "trait_type": "Face Tattoo",
+      "value": "none"
+    },
+    {
+      "trait_type": "Ear-ring",
+      "value": "silver"
+    },
+    {
+      "trait_type": "Beak Color",
+      "value": "saddlebrown"
+    },
+    {
+      "trait_type": "Smoking",
+      "value": "none"
+    },
+    {
+      "trait_type": "Position in gang",
+      "value": "thug"
+    },
+    {
+      "trait_type": "Favourite rapper",
+      "value": "outkast"
+    },
+    {
+      "trait_type": "Head accessories",
+      "value": "normal"
+    }
+  ],
+  "collection": {
+    "name": "OG Collection",
+    "family": "thugbirdz"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://arweave.net/LyN3ZS6LPgFF6S7-AzGDjB04pHuPNtroMVl0SYAHEPM",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "maxSupply": 0,
+    "creators": [
+      {
+        "address": "CzrE3LhijwcmvsXZa8YavqgR9EzW3UGqoSWZKwGpZVqM",
+        "share": 100
+      }
+    ]
+  },
+  "image": "https://arweave.net/LyN3ZS6LPgFF6S7-AzGDjB04pHuPNtroMVl0SYAHEPM"
+}

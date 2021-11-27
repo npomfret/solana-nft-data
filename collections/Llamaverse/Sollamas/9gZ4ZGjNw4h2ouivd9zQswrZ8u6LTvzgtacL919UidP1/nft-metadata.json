@@ -1,0 +1,81 @@
+{
+  "name": "Ruchy, the Overconfident",
+  "symbol": "LLAMA",
+  "description": "Ruchy, the Overconfident is a uniquely generated, cute and collectible Llama risen from dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/_BNuaAonP5Dxc-w-3e5PzDSnno8UdP5aXrTMZiJYhm0",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ruchy, the Overconfident"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Cactus"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Poop",
+      "value": "Brown Poop"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Wild Hair "
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 179
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Ghost"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/_BNuaAonP5Dxc-w-3e5PzDSnno8UdP5aXrTMZiJYhm0",
+        "type": "image/png"
+      }
+    ]
+  }
+}

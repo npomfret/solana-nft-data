@@ -1,0 +1,71 @@
+{
+  "name": "Galactic Gecko #4337",
+  "symbol": "GGSG",
+  "description": "As a member of the Alura racing faction, you stand on the shoulders of the giants of the Interstellar Relay. But you can live up to the geckos who came before you: or at least, you'll try.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/-MtOK2B9rCjuC2Tc7O955Q47yFAaRnfzPvP1K8ZDdhE?ext=jpeg",
+  "attributes": [
+    {
+      "trait_type": "Faction",
+      "value": "Alura",
+      "trait_count": 2549
+    },
+    {
+      "trait_type": "Body",
+      "value": "Light Pink",
+      "trait_count": 1290
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pensive",
+      "trait_count": 2593
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Princely Helm",
+      "trait_count": 177
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Reptilian Gazers",
+      "trait_count": 276
+    },
+    {
+      "trait_type": "Attribute Count",
+      "value": 5,
+      "max_value": 7,
+      "trait_count": 2027
+    }
+  ],
+  "collection": {
+    "name": "Galactic Gecko Space Garage",
+    "family": "Galactic Gecko"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/-MtOK2B9rCjuC2Tc7O955Q47yFAaRnfzPvP1K8ZDdhE?ext=jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "B5MPcaEGNF3iZH5kLjPPfhy3ieXbQ8Cgb77zSZD6gNSn",
+        "share": 11
+      },
+      {
+        "address": "F8x4gCzXVWuMEskSwHMRPFh7eGtEtgfkQweb7tPNKSG3",
+        "share": 37
+      },
+      {
+        "address": "uVZUoHE3W7YExtqU6cP7Vygk48noZvrMJorpuvHn1d7",
+        "share": 15
+      },
+      {
+        "address": "6D7pCvdZxhPxys7awkt52DkHmFeLef1q9kpx58mq23xp",
+        "share": 37
+      }
+    ]
+  }
+}

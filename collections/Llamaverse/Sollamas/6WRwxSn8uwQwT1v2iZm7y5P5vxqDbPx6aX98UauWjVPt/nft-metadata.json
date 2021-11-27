@@ -1,0 +1,75 @@
+{
+  "name": "Reyan, the Mellow",
+  "symbol": "LLAMA",
+  "description": "Reyan, the Mellow is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #9,412 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/5k4wMspMisPpnWjAOZkb75m7b8vYDsHpAkELFk1YvfI",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Reyan, the Mellow"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stringy"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Purple Sunglasses"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Clock"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Front Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mole"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 9412
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

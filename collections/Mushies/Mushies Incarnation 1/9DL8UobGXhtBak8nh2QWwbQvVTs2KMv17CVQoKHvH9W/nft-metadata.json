@@ -1,0 +1,71 @@
+{
+  "name": "Mushie #8845",
+  "symbol": "MUSH",
+  "description": "The Flamingo Forest has spoken, Mushie #8845 has sprouted.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/h8C3qABeZ9sNCj7as3PZMHoXu3tJ_UhquVP2ZtNw0a0?ext=png",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Sequence",
+      "value": 8845
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red "
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Candy Cane Mushie"
+    },
+    {
+      "trait_type": "Fin",
+      "value": "Multi Color"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Trippy Jamaica Colours Top"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Trait Count",
+      "value": 3
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Green Slurp"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Forehead Diamond"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D Glasses "
+    }
+  ],
+  "collection": {
+    "name": "Mushies Incarnation 1",
+    "family": "Mushies"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/h8C3qABeZ9sNCj7as3PZMHoXu3tJ_UhquVP2ZtNw0a0?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4qGdrBFtqHL2ee78rZsZWrPDG8AbUDc2jyeMPMmSfPvR",
+        "share": "100"
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "Cody, the Shocking",
+  "symbol": "LLAMA",
+  "description": "Cody, the Shocking is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #3,482 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/7qr7EODsvx3rq4RNfMNXsu231m8zNE_6CGtUVMkuckk",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Cody, the Shocking"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "?"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Farm Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pom Pom Beanie"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Silver Cross Necklace"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 3482
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

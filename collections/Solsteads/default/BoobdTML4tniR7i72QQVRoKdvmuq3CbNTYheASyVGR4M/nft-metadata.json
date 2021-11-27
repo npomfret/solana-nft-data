@@ -1,0 +1,86 @@
+{
+  "name": "203 Canal Street",
+  "symbol": "SOLSTEAD",
+  "description": "A Solstead: Your very own piece of surreal estate.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/2CievNsnd7DYVJ8JiyAVJwS0q_jsJKhFPr0Xtsp2kSM?ext=png",
+  "external_url": "https://solsteads.com/203-canal-street",
+  "attributes": [
+    {
+      "trait_type": "Biome",
+      "value": "Mountain"
+    },
+    {
+      "trait_type": "Sky",
+      "value": "Night"
+    },
+    {
+      "trait_type": "House style",
+      "value": "Art Deco"
+    },
+    {
+      "trait_type": "House color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Openings style",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Openings color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Roof style",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Roof color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Street name",
+      "value": "Canal Street"
+    },
+    {
+      "trait_type": "House number",
+      "value": 203
+    }
+  ],
+  "collection": {
+    "name": "Solsteads",
+    "family": "Solsteads"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/2CievNsnd7DYVJ8JiyAVJwS0q_jsJKhFPr0Xtsp2kSM?ext=png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://cdn.solsteads.com/addresses/203-canal-street.png",
+        "type": "image/png",
+        "cdn": true
+      }
+    ],
+    "creators": [
+      {
+        "address": "85fDijuXEzUW4zjGwgC3kVNdkbZ3D6RHZFFJZndFUEBa",
+        "share": 42
+      },
+      {
+        "address": "ASBsEqEw5bWD2rpiq4JgF8pBjBDVFMDFS5eXXyVf3gDF",
+        "share": 52
+      },
+      {
+        "address": "CL4SAG1ZTVPUVHVf9cLk2nghwQs235NrY4TQXvSKndhi",
+        "share": 6
+      }
+    ]
+  }
+}

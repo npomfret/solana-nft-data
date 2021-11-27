@@ -1,0 +1,63 @@
+{
+  "name": "Ivory, the Gleaming",
+  "symbol": "LLAMA",
+  "description": "Ivory, the Gleaming is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #7,860 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/AhOeA2CBCPSqG0lEydR1QKXPXnVThnm6tQm3cMj-bMY",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Ivory, the Gleaming"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Mushroom Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bob"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 7860
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

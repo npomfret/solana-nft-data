@@ -1,0 +1,49 @@
+{
+  "name": "Mech #2678",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/2s2ID6fCvqxN_ORWE7na2HFAa3jst5N8KlNMfDVU8cw?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Rocket_WHITE"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Standard_CARBON"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Offense_GOLD"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Regular_RED"
+    },
+    {
+      "trait_type": "Head",
+      "value": "King_SILVER"
+    }
+  ],
+  "edition": 2678,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/2s2ID6fCvqxN_ORWE7na2HFAa3jst5N8KlNMfDVU8cw?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

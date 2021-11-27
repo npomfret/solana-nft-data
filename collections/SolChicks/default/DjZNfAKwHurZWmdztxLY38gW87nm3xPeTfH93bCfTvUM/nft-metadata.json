@@ -1,0 +1,57 @@
+{
+  "name": "4323",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeib67vj6qh6qiurgg57xyi75h4xnq4ufi7aw5i6onrs7aip4j2txle/solchicks-4323.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Chicago Bulls Jersey"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Afro Hair"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Ugg"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Cyclop_s Google"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Diamond Necklace"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Rare"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Green,2:SolChick,3:Chicago Bulls Jersey,4:Afro Hair,5:Ugg,6:Cyclop_s Google,7:Diamond Necklace,",
+  "rarityScore": 13950
+}

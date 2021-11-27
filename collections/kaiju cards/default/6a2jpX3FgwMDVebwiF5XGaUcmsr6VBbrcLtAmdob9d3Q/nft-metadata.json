@@ -1,0 +1,37 @@
+{
+  "name": "Orc Warrior #175",
+  "description": "All will be revealed",
+  "external_url": "https://kaijucards.io/",
+  "image": "https://assets.kaijucards.io/stills/orc-warrior.png",
+  "animation_url": "https://assets.kaijucards.io/video/orc-warrior.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "uncommon"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "none"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "presale"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://assets.kaijucards.io/video/orc-warrior.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  },
+  "category": "video",
+  "creators": [
+    {
+      "address": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+      "share": "100"
+    }
+  ],
+  "sellerFeeBasisPoints": "500"
+}

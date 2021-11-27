@@ -1,0 +1,83 @@
+{
+  "name": "Snek #9043",
+  "symbol": "",
+  "_fee_basis_points": 300,
+  "image": "https://www.arweave.net/rN9HcwdUlYoSperXqFkrjdQMCh6w7V3w9bJ_fSYF3zk?ext=png",
+  "update_authority": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+  "collection": {
+    "name": "The Sneks Collection #1",
+    "family": "The Sneks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/rN9HcwdUlYoSperXqFkrjdQMCh6w7V3w9bJ_fSYF3zk?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "green",
+      "trait_count": 1292
+    },
+    {
+      "trait_type": "fans",
+      "value": "white",
+      "trait_count": 207
+    },
+    {
+      "trait_type": "body",
+      "value": "gold",
+      "trait_count": 56
+    },
+    {
+      "trait_type": "snake type",
+      "value": "2 headed",
+      "trait_count": 459
+    },
+    {
+      "trait_type": "stripes",
+      "value": "stripes gold",
+      "trait_count": 298
+    },
+    {
+      "trait_type": "spots",
+      "value": ""
+    },
+    {
+      "trait_type": "skin",
+      "value": "skin light orange",
+      "trait_count": 390
+    },
+    {
+      "trait_type": "eyes",
+      "value": "aqua",
+      "trait_count": 798
+    },
+    {
+      "trait_type": "glasses",
+      "value": ""
+    },
+    {
+      "trait_type": "hats",
+      "value": "horns yellow",
+      "trait_count": 155
+    },
+    {
+      "trait_type": "mouth",
+      "value": ""
+    },
+    {
+      "trait_type": "outfits",
+      "value": ""
+    }
+  ]
+}

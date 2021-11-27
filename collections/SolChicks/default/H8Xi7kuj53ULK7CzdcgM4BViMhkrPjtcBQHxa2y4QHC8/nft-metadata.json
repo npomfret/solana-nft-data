@@ -1,0 +1,57 @@
+{
+  "name": "2840",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeifmdkirqriheffobd336kjwzyjfdbonzz6jo72g3aoqdvia2cfjzq/solchicks-2840.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Garden"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Rapper Durag"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Ugg"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Movie Glasses"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Silver Cross Earring"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Rare"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Garden,2:SolChick,3:Leather Jacket,4:Rapper Durag,5:Ugg,6:Movie Glasses,7:Silver Cross Earring,",
+  "rarityScore": 14350
+}

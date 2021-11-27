@@ -1,0 +1,49 @@
+{
+  "name": "Mech #8130",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/xPzKDdlUcA2tVmIJw0fFvZGN98vKsTVpCbHO8XNMw3c?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Flare"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Gun_CARBON"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Gun_WHITE"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Defense_PURPLE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Gun_RED"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wired_RED"
+    }
+  ],
+  "edition": 8130,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/xPzKDdlUcA2tVmIJw0fFvZGN98vKsTVpCbHO8XNMw3c?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Nina, the Gorgeous",
+  "symbol": "LLAMA",
+  "description": "Nina, the Gorgeous is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #9,642 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/XqtYKLvGDGzTteKOvNmqxLKQ7jj3eVoLhOGYFaihLto",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Nina, the Gorgeous"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "White Socks"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyeshadow"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Top Bun"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Blue Slant"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 9642
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

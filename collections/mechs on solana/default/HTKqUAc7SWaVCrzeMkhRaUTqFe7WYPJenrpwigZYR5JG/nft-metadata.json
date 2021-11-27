@@ -1,0 +1,49 @@
+{
+  "name": "Mech #3703",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/5pkV1yky4O4QyWjZgYpPRKMoXo1d3Frt9Iau2ov7Yns?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gold_Star"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Gun_GOLD"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Gun_GOLD"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Defense_MATTE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Regular_CARBON"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Evil_RED"
+    }
+  ],
+  "edition": 3703,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/5pkV1yky4O4QyWjZgYpPRKMoXo1d3Frt9Iau2ov7Yns?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

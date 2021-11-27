@@ -1,0 +1,67 @@
+{
+  "name": "Luke, the Diplomatic",
+  "symbol": "LLAMA",
+  "description": "Luke, the Diplomatic is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #5,737 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/z4jIFfj7ulNn7PQ9u87RoA8N8r8xskI6dQ5t4dpp-yY",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Luke, the Diplomatic"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Farm Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Flag",
+      "value": "Australia"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Apple"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5737
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

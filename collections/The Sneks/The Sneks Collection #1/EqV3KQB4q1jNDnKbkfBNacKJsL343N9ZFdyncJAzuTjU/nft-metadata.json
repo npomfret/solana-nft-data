@@ -1,0 +1,83 @@
+{
+  "name": "Snek #8909",
+  "symbol": "",
+  "_fee_basis_points": 300,
+  "image": "https://www.arweave.net/apjPYhSrmOO1JHTVBdn2hRDob-FjWR5K7y5SrF7o4Nc?ext=png",
+  "update_authority": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+  "collection": {
+    "name": "The Sneks Collection #1",
+    "family": "The Sneks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/apjPYhSrmOO1JHTVBdn2hRDob-FjWR5K7y5SrF7o4Nc?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple",
+      "trait_count": 1529
+    },
+    {
+      "trait_type": "fans",
+      "value": ""
+    },
+    {
+      "trait_type": "body",
+      "value": "green",
+      "trait_count": 1690
+    },
+    {
+      "trait_type": "snake type",
+      "value": "default",
+      "trait_count": 9081
+    },
+    {
+      "trait_type": "stripes",
+      "value": "stripes midtone",
+      "trait_count": 555
+    },
+    {
+      "trait_type": "spots",
+      "value": "orange",
+      "trait_count": 307
+    },
+    {
+      "trait_type": "skin",
+      "value": "skin green",
+      "trait_count": 543
+    },
+    {
+      "trait_type": "eyes",
+      "value": ""
+    },
+    {
+      "trait_type": "glasses",
+      "value": ""
+    },
+    {
+      "trait_type": "hats",
+      "value": "angel halo aqua",
+      "trait_count": 206
+    },
+    {
+      "trait_type": "mouth",
+      "value": "fire breath pozonous",
+      "trait_count": 157
+    },
+    {
+      "trait_type": "outfits",
+      "value": ""
+    }
+  ]
+}

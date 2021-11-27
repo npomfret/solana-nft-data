@@ -1,0 +1,75 @@
+{
+  "name": "Mallorie, the Homeless",
+  "symbol": "LLAMA",
+  "description": "Mallorie, the Homeless is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #830 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/a_7gBxP83j5vOKn4uozDiXe47-sEXqYXwATXH8v_I00",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Mallorie, the Homeless"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Ciggie"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Green Slant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Black Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple Eyeshadow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 830
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Shalom, the Enchanting",
+  "symbol": "LLAMA",
+  "description": "Shalom, the Enchanting is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #4,860 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/iHQQnr7Cwf0KyVvYbGmq61Xja9NMk61Owja07DT2guo",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Shalom, the Enchanting"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Flower"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "White Socks"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Blue Stripes "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Wild Hair"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 4860
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

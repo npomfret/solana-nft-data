@@ -1,0 +1,67 @@
+{
+  "name": "Orly, the Happy",
+  "symbol": "LLAMA",
+  "description": "Orly, the Happy is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #1,870 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/z565N21C3rcrrxLk_8i8tr_ei_3gd1pN9CxSZg7OjlM",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Orly, the Happy"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Snowy Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Large Black Spots"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Sports Sunglasses"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wide Hair"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Red Slant"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 1870
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

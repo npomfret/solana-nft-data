@@ -1,0 +1,63 @@
+{
+  "name": "Sonora, the Interesting",
+  "symbol": "LLAMA",
+  "description": "Sonora, the Interesting is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #5,482 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/UGpkqYOYIEnPgi2VYZ9NMyjPwWOGlNBPbPfTcHRHdDI",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Sonora, the Interesting"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Mushroom Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pony Tail"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Clock"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 5482
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

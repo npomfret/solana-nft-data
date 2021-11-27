@@ -1,0 +1,57 @@
+{
+  "name": "#1558",
+  "symbol": "",
+  "description": "skulls.wtf the hardest 3D HD NFT Collection",
+  "image": "https://www.arweave.net/Wi9WaxyGP-MGDzEcG7KUjllB8sXw3FkHszvas4Q_tSI?ext=png",
+  "edition": 1558,
+  "seller_fee_basis_points": 400,
+  "collection": {
+    "name": "skulls.wtf",
+    "family": "SWTF"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/Wi9WaxyGP-MGDzEcG7KUjllB8sXw3FkHszvas4Q_tSI?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "A9mT7nVrUYSApdRaM1CvoKvWCZNWN8qUMN6MkQSyVpjW",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "ocean"
+    },
+    {
+      "trait_type": "skeleton",
+      "value": "ocean"
+    },
+    {
+      "trait_type": "skull",
+      "value": "devil"
+    },
+    {
+      "trait_type": "teeth",
+      "value": "ocean"
+    },
+    {
+      "trait_type": "hat",
+      "value": "halo"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "earth"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "roses"
+    }
+  ]
+}

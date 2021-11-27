@@ -1,0 +1,82 @@
+{
+  "name": "Snek #851",
+  "symbol": "",
+  "_fee_basis_points": 300,
+  "image": "https://www.arweave.net/l-B47q6mGn-PDHlNvlukhloxy-JCXQ-P3GryHNEK2t0?ext=png",
+  "update_authority": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+  "collection": {
+    "name": "The Sneks Collection #1",
+    "family": "The Sneks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/l-B47q6mGn-PDHlNvlukhloxy-JCXQ-P3GryHNEK2t0?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "purple",
+      "trait_count": 1529
+    },
+    {
+      "trait_type": "fans",
+      "value": "dragon wings purple",
+      "trait_count": 185
+    },
+    {
+      "trait_type": "body",
+      "value": "solana",
+      "trait_count": 27
+    },
+    {
+      "trait_type": "snake type",
+      "value": "2 headed rare",
+      "trait_count": 96
+    },
+    {
+      "trait_type": "stripes",
+      "value": ""
+    },
+    {
+      "trait_type": "spots",
+      "value": ""
+    },
+    {
+      "trait_type": "skin",
+      "value": ""
+    },
+    {
+      "trait_type": "eyes",
+      "value": ""
+    },
+    {
+      "trait_type": "glasses",
+      "value": "monocle",
+      "trait_count": 325
+    },
+    {
+      "trait_type": "hats",
+      "value": "horns purple",
+      "trait_count": 214
+    },
+    {
+      "trait_type": "mouth",
+      "value": "venom spit",
+      "trait_count": 61
+    },
+    {
+      "trait_type": "outfits",
+      "value": ""
+    }
+  ]
+}

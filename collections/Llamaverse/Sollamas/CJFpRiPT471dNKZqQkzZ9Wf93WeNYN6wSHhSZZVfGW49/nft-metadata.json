@@ -1,0 +1,67 @@
+{
+  "name": "Eastin, the Skinny",
+  "symbol": "LLAMA",
+  "description": "Eastin, the Skinny is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #3,343 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/Jod1BrD61tVf7QKza0GB4R-NdLuvAG57V-mA78tVDAo",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Eastin, the Skinny"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Flower Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "White Socks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Front Cap"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "3D Glasses"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 3343
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

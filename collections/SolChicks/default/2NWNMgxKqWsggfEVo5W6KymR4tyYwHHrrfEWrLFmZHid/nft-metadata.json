@@ -1,0 +1,53 @@
+{
+  "name": "3983",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeiddmpdysiaythd7a3g2pvnzqlrucnokv5adzxyzbn2jscxdf6ed3a/solchicks-3983.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Heavens"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Mohawk Hair"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Ugg"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Purple Glasses"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Heavens,2:SolChick,3:none,4:Mohawk Hair,5:Ugg,6:Purple Glasses,7:Bubble Gum,",
+  "rarityScore": 15250
+}

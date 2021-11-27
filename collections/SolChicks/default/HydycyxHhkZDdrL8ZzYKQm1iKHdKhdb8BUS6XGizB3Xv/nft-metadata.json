@@ -1,0 +1,53 @@
+{
+  "name": "2814",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeib2k57yhflyi2e566mtxpyb7kb63glsp2lw4ca7ih4h6m4m7cixci/solchicks-2814.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "City"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Chicago Bulls Jersey"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Pirate Hat"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Sandals"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Lazer Eyes"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:City,2:SolChick,3:Chicago Bulls Jersey,4:Pirate Hat,5:Sandals,6:Lazer Eyes,7:none,",
+  "rarityScore": 17650
+}

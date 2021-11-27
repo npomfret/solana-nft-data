@@ -1,0 +1,67 @@
+{
+  "name": "Jocelin, the Drab",
+  "symbol": "LLAMA",
+  "description": "Jocelin, the Drab is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #286 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/em0SSAsssJIpIkXNciMGp9gx9n7_S0ndIs-qZvc6KxQ",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Jocelin, the Drab"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "White Socks"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Eyepatch"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Gold Unicorn"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 286
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

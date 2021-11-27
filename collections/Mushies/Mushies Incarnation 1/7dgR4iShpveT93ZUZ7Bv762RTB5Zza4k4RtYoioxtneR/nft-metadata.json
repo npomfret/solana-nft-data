@@ -1,0 +1,75 @@
+{
+  "name": "Mushie #3128",
+  "symbol": "MUSH",
+  "description": "The Flamingo Forest has spoken, Mushie #3128 has sprouted.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/AbrOITuZK0T87At4r73C7Jj4sHkPksIyV5416Ko-D08?ext=png",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Sequence",
+      "value": 3128
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Background",
+      "value": "Black Gradient "
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Light Brown"
+    },
+    {
+      "trait_type": "Fin",
+      "value": "Yellow "
+    },
+    {
+      "trait_type": "Top",
+      "value": "Normal Mushie Top"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Trait Count",
+      "value": 4
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Braces"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Fungi"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Peace Sign Chain"
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Chinese Headband"
+    }
+  ],
+  "collection": {
+    "name": "Mushies Incarnation 1",
+    "family": "Mushies"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/AbrOITuZK0T87At4r73C7Jj4sHkPksIyV5416Ko-D08?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4qGdrBFtqHL2ee78rZsZWrPDG8AbUDc2jyeMPMmSfPvR",
+        "share": "100"
+      }
+    ]
+  }
+}

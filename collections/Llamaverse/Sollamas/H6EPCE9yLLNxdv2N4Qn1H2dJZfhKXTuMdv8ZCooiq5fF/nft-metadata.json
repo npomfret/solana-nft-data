@@ -1,0 +1,79 @@
+{
+  "name": "Adiel, the Skinny",
+  "symbol": "LLAMA",
+  "description": "Adiel, the Skinny is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #9,383 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/I6YGNVtWxeILNCo4mOXH1lLn5r_zgleXjWj3Ci7IFno",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Adiel, the Skinny"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Butte Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Large Black Spots"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Wind Hair"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Purple Sunglasses"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Blush"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Bubblegum"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Brown Stuble"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 9383
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

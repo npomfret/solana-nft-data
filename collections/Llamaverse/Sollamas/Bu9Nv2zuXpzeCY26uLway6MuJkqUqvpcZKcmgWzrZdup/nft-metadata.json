@@ -1,0 +1,67 @@
+{
+  "name": "Lucio, the Dauntless",
+  "symbol": "LLAMA",
+  "description": "Lucio, the Dauntless is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #202 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/w4iU-pvJ9hdE_FJbAdPORoKe62Dvd6fUhYrJRL1QiXA",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Lucio, the Dauntless"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Mohawk"
+    },
+    {
+      "trait_type": "Flag",
+      "value": "Spain"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Ciggie"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 202
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

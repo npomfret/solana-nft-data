@@ -1,0 +1,25 @@
+{
+  "key": 4,
+  "updateAuthority": "7BPrveGEsNmr5UU2bSzSmHh8wbhB1NWTw4dXqykqpm1e",
+  "mint": "BxFQoNoQjdpiBFyNDJF1d2v3KyYSEvWa7dkB6iudUiXP",
+  "data": {
+    "name": "solchicks 2017",
+    "symbol": "SOLCHICKS",
+    "uri": "https://ipfs.io/ipfs/bafybeihszuexrg7vuo2s7l7c4mtn7tcblh6dlvkjrahs36s5rrxbvxijwm/solchicks-2017.json",
+    "sellerFeeBasisPoints": 500,
+    "creators": [
+      {
+        "address": "9nicnEJ1pfssv3CWxQFMebFBrs5Cqun8WEmwwLqapLeX",
+        "verified": 1,
+        "share": 0
+      },
+      {
+        "address": "7BPrveGEsNmr5UU2bSzSmHh8wbhB1NWTw4dXqykqpm1e",
+        "verified": 0,
+        "share": 100
+      }
+    ]
+  },
+  "primarySaleHappened": 1,
+  "isMutable": 1
+}

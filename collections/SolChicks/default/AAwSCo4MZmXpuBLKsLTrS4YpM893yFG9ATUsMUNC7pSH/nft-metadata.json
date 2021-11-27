@@ -1,0 +1,53 @@
+{
+  "name": "4588",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeigmhlxekygh3atrdgje6fqom6f4mjj7d2iixztceiiinmklrd4t3i/solchicks-4588.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Light blue"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Pirate_s Suit"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Mohawk Hair"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Dress Shoes"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Minion_s Glasses"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Light blue,2:SolChick,3:Pirate_s Suit,4:Mohawk Hair,5:Dress Shoes,6:Minion_s Glasses,7:none,",
+  "rarityScore": 17050
+}

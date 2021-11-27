@@ -1,0 +1,49 @@
+{
+  "name": "Mech #4078",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/eRSt2zLLQa_vuFN5-O8uFFDzC33Vz46IWVmL9nIlS7M?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dash"
+    },
+    {
+      "trait_type": "Back",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Sword_SILVER"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Offense_PURPLE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Regular_RED"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tron_MATTE"
+    }
+  ],
+  "edition": 4078,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/eRSt2zLLQa_vuFN5-O8uFFDzC33Vz46IWVmL9nIlS7M?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

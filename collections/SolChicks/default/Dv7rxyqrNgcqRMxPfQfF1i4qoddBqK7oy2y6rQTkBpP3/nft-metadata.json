@@ -1,0 +1,53 @@
+{
+  "name": "27",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeid7adrk57kdml7btvem3me25imjsutpq227ob6ubtjs3jqw3rlbqm/solchicks-27.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "base",
+      "value": "Grandmaster SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Gucci T-Shirt"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Minion_s Shoes"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Purple Glasses"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Rapper Gold Chain"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Legendary"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Beach,2:Grandmaster SolChick,3:Gucci T-Shirt,4:none,5:Minion_s Shoes,6:Purple Glasses,7:Rapper Gold Chain,",
+  "rarityScore": 3950
+}

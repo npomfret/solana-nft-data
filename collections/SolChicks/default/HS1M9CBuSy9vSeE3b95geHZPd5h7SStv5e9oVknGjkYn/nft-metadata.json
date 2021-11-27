@@ -1,0 +1,49 @@
+{
+  "name": "572",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeiepccpgpevqobkdunlsic5owqu2xcx4xxfs2gnyjyrqtowvwxjcxq/solchicks-572.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Blue-Green"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Pixel Sunglasses"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Rapper Gold Chain"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Blue-Green,2:SolChick,3:Tuxedo,4:none,5:none,6:Pixel Sunglasses,7:Rapper Gold Chain,",
+  "rarityScore": 18250
+}

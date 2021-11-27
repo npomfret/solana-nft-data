@@ -1,0 +1,80 @@
+{
+  "name": "Aurorian #1222",
+  "symbol": "AUROR",
+  "description": "The villagers from the whole country have gathered in Neftiville for the party, meet the Aurorians.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/dhLZRWRZKdIb4PL5laoY8Ml2JsB3KwlZOntNjtMDCGk",
+  "external_url": "https://app.aurory.io/aurorian/2021/1221",
+  "edition": "2021",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Base Background"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Human"
+    },
+    {
+      "trait_type": "Cloth",
+      "value": "Yellow Stripes"
+    },
+    {
+      "trait_type": "Necklace",
+      "value": "Aurory Necklace"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Oni Mask"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "No Trait"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Black Eyes"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Undercut"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "No Trait"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Aurorian"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "generation",
+      "value": 1
+    },
+    {
+      "display_type": "number",
+      "trait_type": " sequence",
+      "value": 1222
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://arweave.net/dhLZRWRZKdIb4PL5laoY8Ml2JsB3KwlZOntNjtMDCGk",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "8Kag8CqNdCX55s4A5W4iraS71h6mv6uTHqsJbexdrrZm",
+        "share": 65
+      },
+      {
+        "address": "aury7LJUae7a92PBo35vVbP61GX8VbyxFKausvUtBrt",
+        "share": 35
+      }
+    ]
+  }
+}

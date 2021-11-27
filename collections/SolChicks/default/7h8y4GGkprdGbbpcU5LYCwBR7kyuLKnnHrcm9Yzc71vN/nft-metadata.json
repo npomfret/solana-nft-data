@@ -1,0 +1,49 @@
+{
+  "name": "5124",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeihko7inupfoqxgu4wq7aqug34dyunflzkr5hzfw6i3v4ehbjm4wbm/solchicks-5124.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Green"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Cowboy_s Suit"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Spike Hair"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "High Nike Dunk Sneakers"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Common"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Green,2:SolChick,3:Cowboy_s Suit,4:Spike Hair,5:High Nike Dunk Sneakers,6:none,7:none,",
+  "rarityScore": 19450
+}

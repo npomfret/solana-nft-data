@@ -1,0 +1,71 @@
+{
+  "name": "Sundus, the Nutritious",
+  "symbol": "LLAMA",
+  "description": "Sundus, the Nutritious is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #8,766 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/HcWfLilJ3GE6iE82YipKrbAid0anMz9eNScSBi1u0bA",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Sundus, the Nutritious"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Cactus"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Green Wild Hair"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Brown Stripes "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Clown Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Black Bandana"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 8766
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "name": "645",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeifc5mrtnqckm5dfqgi7lnsz2u2c26p53wzqufq6nxyh7wqjbfmcnq/solchicks-645.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Garden"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Afro Hair"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "High Nike Dunk Sneakers"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Heart Eyes"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Silver Cross Earring"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Garden,2:SolChick,3:none,4:Afro Hair,5:High Nike Dunk Sneakers,6:Heart Eyes,7:Silver Cross Earring,",
+  "rarityScore": 17650
+}

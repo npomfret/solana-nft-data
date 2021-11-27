@@ -1,0 +1,66 @@
+{
+  "symbol": "GLOOM",
+  "name": "Gloom Punk #7220",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/tAc0HmtNhmU4A1tGN7zwNmssmhvoQMcFy6h7-DBZdDg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Solana2"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Black Fangs"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Eyebrows",
+      "value": "Small"
+    },
+    {
+      "trait_type": "Face Accessory",
+      "value": "Bandaids"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Monocle Regular"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Bob White"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tshirt"
+    },
+    {
+      "trait_type": "Head Accessory",
+      "value": "Top Hat"
+    }
+  ],
+  "collection": {
+    "name": "Gloom Punk Club",
+    "family": "Gloom Punk Club"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "3jGJHMaCMcz9miRJAHL7sPrkqDXLH3k1Rj8PNBAeimai",
+        "verified": true,
+        "share": 50
+      },
+      {
+        "address": "DjuRrFGySq1C2ZfDja1ddGqeE4XT2FgtVsVamCMs2AAN",
+        "verified": true,
+        "share": 50
+      }
+    ]
+  }
+}

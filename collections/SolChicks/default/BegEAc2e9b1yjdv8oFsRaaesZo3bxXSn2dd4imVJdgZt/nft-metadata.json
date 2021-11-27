@@ -1,0 +1,53 @@
+{
+  "name": "2187",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeifwgvx4m6atnhdeh5ssvhatteuoc77vev226l755bd67a4ggwk4ky/solchicks-2187.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "base",
+      "value": "Grandmaster SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Rapper Purple Cap"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Dress Shoes"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Winking Eye"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Silver Cross Earring"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Mythical"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Pink,2:Grandmaster SolChick,3:none,4:Rapper Purple Cap,5:Dress Shoes,6:Winking Eye,7:Silver Cross Earring,",
+  "rarityScore": 6650
+}

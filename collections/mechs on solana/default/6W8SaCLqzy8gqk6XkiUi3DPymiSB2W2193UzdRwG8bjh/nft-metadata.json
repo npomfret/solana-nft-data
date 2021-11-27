@@ -1,0 +1,49 @@
+{
+  "name": "Mech #6708",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/S5xqdIh_7mIIcB1Ladup_Ce6sRx_xOC7EJCV9ORMdvo?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dash"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Gun_MATTE"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Gun_CHROME"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Defense_PURPLE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Standard_PURPLE"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tron_CHROME"
+    }
+  ],
+  "edition": 6708,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/S5xqdIh_7mIIcB1Ladup_Ce6sRx_xOC7EJCV9ORMdvo?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

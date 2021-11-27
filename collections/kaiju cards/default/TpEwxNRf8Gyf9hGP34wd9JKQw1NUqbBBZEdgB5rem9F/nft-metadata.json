@@ -1,0 +1,37 @@
+{
+  "name": "Bookle #247",
+  "description": "All will be revealed",
+  "external_url": "https://kaijucards.io/",
+  "image": "https://assets.kaijucards.io/stills/bookle-border.png",
+  "animation_url": "https://assets.kaijucards.io/video/bookle-border.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "common"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "none"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "alpha"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://assets.kaijucards.io/video/bookle-border.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  },
+  "category": "video",
+  "creators": [
+    {
+      "address": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+      "share": "100"
+    }
+  ],
+  "sellerFeeBasisPoints": "500"
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Mech #4485",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/Ekcemd4hCSzn4Jk1TxJ3ycX_sEVBE9Y-cj0khsc0Cng?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue_Orbit"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Sickle_BLUE"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Destroyed_RED"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Defense_GOLD"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "BATTLE_SILVER"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Modular_CARBON"
+    }
+  ],
+  "edition": 4485,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/Ekcemd4hCSzn4Jk1TxJ3ycX_sEVBE9Y-cj0khsc0Cng?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

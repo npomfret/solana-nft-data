@@ -1,0 +1,67 @@
+{
+  "name": "Terrick, the Proud",
+  "symbol": "LLAMA",
+  "description": "Terrick, the Proud is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #8,383 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/_jGmEEsQGeT6PIcgn1turMDFEOymibrCISOurC49EVM",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Terrick, the Proud"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Butte Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Stripes"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Brown Goatie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Purple Wind Hair"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Blue Stripes "
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 8383
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

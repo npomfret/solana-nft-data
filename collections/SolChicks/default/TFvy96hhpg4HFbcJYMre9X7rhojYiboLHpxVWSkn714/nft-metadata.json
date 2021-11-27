@@ -1,0 +1,49 @@
+{
+  "name": "2693",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeiesrlpsdosncsfi4rttmoemzcbpmhqlp4x3b6ghdeasdhvykesl24/solchicks-2693.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Heavens"
+    },
+    {
+      "trait_type": "base",
+      "value": "Grand SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Angel Circle"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Minion_s Glasses"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Mythical"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Heavens,2:Grand SolChick,3:none,4:Angel Circle,5:none,6:Minion_s Glasses,7:Bubble Gum,",
+  "rarityScore": 8600
+}

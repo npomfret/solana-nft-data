@@ -1,0 +1,49 @@
+{
+  "name": "Mech #6823",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/fX8K0K-YN60QZsQy-4hxrTl85JWgBSK40rTp8GYAjGQ?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Rocket_CHROME"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Regular_GOLD"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Battle_CHROME"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Standard_GOLD"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Full_MATTE"
+    }
+  ],
+  "edition": 6823,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/fX8K0K-YN60QZsQy-4hxrTl85JWgBSK40rTp8GYAjGQ?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

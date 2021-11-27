@@ -1,0 +1,81 @@
+{
+  "name": "Snek #9225",
+  "symbol": "",
+  "_fee_basis_points": 300,
+  "image": "https://www.arweave.net/SBug9D_ZmAjxIezXBD7I6IM0KKGgEnp-y8zDWB7rY3I?ext=png",
+  "update_authority": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+  "collection": {
+    "name": "The Sneks Collection #1",
+    "family": "The Sneks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/SBug9D_ZmAjxIezXBD7I6IM0KKGgEnp-y8zDWB7rY3I?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "yellow",
+      "trait_count": 1526
+    },
+    {
+      "trait_type": "fans",
+      "value": "dragon wings light brown",
+      "trait_count": 176
+    },
+    {
+      "trait_type": "body",
+      "value": "gold",
+      "trait_count": 864
+    },
+    {
+      "trait_type": "snake type",
+      "value": "default",
+      "trait_count": 9081
+    },
+    {
+      "trait_type": "stripes",
+      "value": ""
+    },
+    {
+      "trait_type": "spots",
+      "value": ""
+    },
+    {
+      "trait_type": "skin",
+      "value": "skin light blue",
+      "trait_count": 292
+    },
+    {
+      "trait_type": "eyes",
+      "value": "brown",
+      "trait_count": 1608
+    },
+    {
+      "trait_type": "glasses",
+      "value": ""
+    },
+    {
+      "trait_type": "hats",
+      "value": ""
+    },
+    {
+      "trait_type": "mouth",
+      "value": ""
+    },
+    {
+      "trait_type": "outfits",
+      "value": ""
+    }
+  ]
+}

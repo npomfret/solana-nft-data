@@ -1,0 +1,81 @@
+{
+  "name": "Galactic Gecko #2055",
+  "symbol": "GGSG",
+  "description": "With the help of your Targari brothers, you've calculated the magnetic fields, mapped the gamma ray bursts, and engineered your racing ship in your favor. May the best gecko win.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/8gKTLrc8VjN5l6vaCQ7J4KSjxgls11sDLigAXWUvGUo?ext=jpeg",
+  "attributes": [
+    {
+      "trait_type": "Faction",
+      "value": "Targari",
+      "trait_count": 2503
+    },
+    {
+      "trait_type": "Body",
+      "value": "Striped Blue",
+      "trait_count": 902
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Solar Insulation",
+      "trait_count": 149
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Pleased",
+      "trait_count": 2626
+    },
+    {
+      "trait_type": "Helmet",
+      "value": "Automatic Rocket",
+      "trait_count": 215
+    },
+    {
+      "trait_type": "Ears",
+      "value": "Gravity Dongal",
+      "trait_count": 258
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sullen Eyes",
+      "trait_count": 292
+    },
+    {
+      "trait_type": "Attribute Count",
+      "value": 7,
+      "max_value": 7,
+      "trait_count": 3863
+    }
+  ],
+  "collection": {
+    "name": "Galactic Gecko Space Garage",
+    "family": "Galactic Gecko"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/8gKTLrc8VjN5l6vaCQ7J4KSjxgls11sDLigAXWUvGUo?ext=jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "B5MPcaEGNF3iZH5kLjPPfhy3ieXbQ8Cgb77zSZD6gNSn",
+        "share": 11
+      },
+      {
+        "address": "F8x4gCzXVWuMEskSwHMRPFh7eGtEtgfkQweb7tPNKSG3",
+        "share": 37
+      },
+      {
+        "address": "uVZUoHE3W7YExtqU6cP7Vygk48noZvrMJorpuvHn1d7",
+        "share": 15
+      },
+      {
+        "address": "6D7pCvdZxhPxys7awkt52DkHmFeLef1q9kpx58mq23xp",
+        "share": 37
+      }
+    ]
+  }
+}

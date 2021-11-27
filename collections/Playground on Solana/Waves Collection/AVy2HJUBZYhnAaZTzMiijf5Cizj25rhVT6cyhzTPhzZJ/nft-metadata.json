@@ -1,0 +1,43 @@
+{
+  "name": "Wave #231",
+  "symbol": "WAV",
+  "description": "Waves, a generative artwork collection by Playground, is inspired by the fluidity of the crypto markets",
+  "seller_fee_basis_points": 1000,
+  "image": "https://www.arweave.net/ZRopX5BZqM3RcS3u8f6FUiuFNFyCtSj5xNBK5p_v-MI?ext=png",
+  "primary_sale_happened": false,
+  "attributes": {
+    "hash_id": 15979709069507424,
+    "Number_of_colors": 2,
+    "width": 13,
+    "stroke_thickness": 8,
+    "speed": 1.1076,
+    "jitter": 0.0033372999999999996,
+    "hue": 12,
+    "saturation": 97,
+    "brightness": 89,
+    "alpha": 25
+  },
+  "collection": {
+    "name": "Waves Collection",
+    "family": "Playground on Solana"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/ZRopX5BZqM3RcS3u8f6FUiuFNFyCtSj5xNBK5p_v-MI?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "3nvBhKcMqpg26nhtw76ZioZ21PbhtKQZwu3YsGUoHkki",
+        "share": 90
+      },
+      {
+        "address": "D1DahDfPyAdRtELhCX9DZWbi1PyNw57xbsaEg3C5HtSD",
+        "share": 10
+      }
+    ],
+    "update_authority": "3nvBhKcMqpg26nhtw76ZioZ21PbhtKQZwu3YsGUoHkki"
+  }
+}

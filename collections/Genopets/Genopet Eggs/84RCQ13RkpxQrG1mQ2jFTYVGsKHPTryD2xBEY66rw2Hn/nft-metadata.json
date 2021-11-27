@@ -1,0 +1,34 @@
+{
+  "name": "Genopet Egg #338",
+  "symbol": "GENOEGG",
+  "description": "A Genesis Genopet Egg - This Egg secures your place as one of the first 1000 players to mint a Genesis Genopet. With this Genopet Egg and enough SOL ready in your wallet, you are guaranteed to mint in the Genopet NFT Drop and get a one-of-a-kind evolved Genesis Genopet before anyone else in the world. The Genoverse awaits.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/5TE96HpI6r3baigwyH1Sslr08lQyeQ9uN5JCW8aL78k?ext=png",
+  "external_url": "https://genopets.me",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "sequence",
+      "value": 338
+    }
+  ],
+  "collection": {
+    "name": "Genopet Eggs",
+    "family": "Genopets"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/5TE96HpI6r3baigwyH1Sslr08lQyeQ9uN5JCW8aL78k?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "GenoS3ck8xbDvYEZ8RxMG3Ln2qcyoAN8CTeZuaWgAoEA",
+        "share": 100
+      }
+    ]
+  }
+}

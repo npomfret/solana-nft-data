@@ -1,0 +1,67 @@
+{
+  "name": "Charlise, the Vain",
+  "symbol": "LLAMA",
+  "description": "Charlise, the Vain is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #195 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/N_HA8GLSgzABY2CwRawGLX_kEFF6tdYj-EDdfl9MMow",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Charlise, the Vain"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Snowy Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Bob"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Eyeshadow"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Red Slant"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 195
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

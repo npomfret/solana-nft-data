@@ -1,0 +1,89 @@
+{
+  "name": "Sahir, the Wicked",
+  "symbol": "LLAMA",
+  "description": "Sahir, the Wicked is a uniquely generated, cute and collectible Llama risen from the dead with proof of ownership on the Solana blockchain.",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/eaaP8SHmMyWDjoVSwfM8shZt35yXI-1XAGwlSEtY6nY",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Sahir, the Wicked"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "?"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Flower"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Blue Bandana"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tophat"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Green Slant"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Left Earring"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Carrot"
+    },
+    {
+      "trait_type": "Poop",
+      "value": "Rainbow Poop"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Artifact"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 2453
+    },
+    {
+      "trait_type": "Resurrected As",
+      "value": "Undead"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://arweave.net/eaaP8SHmMyWDjoVSwfM8shZt35yXI-1XAGwlSEtY6nY",
+        "type": "image/png"
+      }
+    ]
+  }
+}

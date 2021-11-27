@@ -1,0 +1,40 @@
+{
+  "name": "Bold Badger #357",
+  "symbol": "BBS",
+  "description": "BoldBadger #357",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/dfLHnWrmjq5tSgX0lFLPvyXMSytD6RaaYUhi2oVsyok",
+  "external_url": "https://boldbadgers.com",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Skyblue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Army helmet"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Army uniform"
+    },
+    {
+      "trait_type": "Attribute Count",
+      "value": 2
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "TESAinbTL2eBLkWqyGA82y1RS6kArHvuYWfkL9dKkbs",
+        "verified": true,
+        "share": 100
+      }
+    ],
+    "thumbnail": "https://arweave.net/bQQyHEJDFSlZjwGUtAa_4ylPlH6U0QW7Zk_sG8VY3Jk"
+  }
+}

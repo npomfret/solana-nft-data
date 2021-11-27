@@ -1,0 +1,90 @@
+{
+  "name": "17 Jump Street",
+  "symbol": "SOLSTEAD",
+  "description": "A Solstead: Your very own piece of surreal estate.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/onvyvIMA6bqg4xOveY3oy5Waqbf1UB0AJeYkbQy7pK8?ext=png",
+  "external_url": "https://solsteads.com/17-jump-street",
+  "attributes": [
+    {
+      "trait_type": "Biome",
+      "value": "Woods"
+    },
+    {
+      "trait_type": "Sky",
+      "value": "Night"
+    },
+    {
+      "trait_type": "House style",
+      "value": "Cottage"
+    },
+    {
+      "trait_type": "House color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Openings style",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Openings color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Roof style",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Roof color",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Material",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Precipitation",
+      "value": "Rain"
+    },
+    {
+      "trait_type": "Street name",
+      "value": "Jump Street"
+    },
+    {
+      "trait_type": "House number",
+      "value": 17
+    }
+  ],
+  "collection": {
+    "name": "Solsteads",
+    "family": "Solsteads"
+  },
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/onvyvIMA6bqg4xOveY3oy5Waqbf1UB0AJeYkbQy7pK8?ext=png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://cdn.solsteads.com/addresses/17-jump-street.png",
+        "type": "image/png",
+        "cdn": true
+      }
+    ],
+    "creators": [
+      {
+        "address": "85fDijuXEzUW4zjGwgC3kVNdkbZ3D6RHZFFJZndFUEBa",
+        "share": 42
+      },
+      {
+        "address": "ASBsEqEw5bWD2rpiq4JgF8pBjBDVFMDFS5eXXyVf3gDF",
+        "share": 52
+      },
+      {
+        "address": "CL4SAG1ZTVPUVHVf9cLk2nghwQs235NrY4TQXvSKndhi",
+        "share": 6
+      }
+    ]
+  }
+}

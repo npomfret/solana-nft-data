@@ -1,0 +1,67 @@
+{
+  "name": "Brett, el Presidente",
+  "symbol": "LLAMA",
+  "description": "Brett, el Presidente is a Limited Edition Brett Harrison Llama with proof of ownership on the Solana blockchain. He was uniquely minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/EYbr8HbVGqWwwzMPQs2Etjru0LQwsIB5aL5ppqYzOyg",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Brett, el Presidente"
+    },
+    {
+      "trait_type": "Set",
+      "value": "LE Collabs"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Mushroom Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Streaks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Big Salad"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Cool Shades"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Black Stuble"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "FTX"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Limited Edition"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

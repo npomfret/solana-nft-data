@@ -1,0 +1,53 @@
+{
+  "name": "4133",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeigrbmvvwkimiun6tdd6jdeoygii762u6ca43iswuoeqqvx6ykzdrm/solchicks-4133.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "City"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Balenciaga T-Shirt"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Rapper Purple Cap"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Diamond Rings"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "One Eye Patch"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Rare"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:City,2:SolChick,3:Balenciaga T-Shirt,4:Rapper Purple Cap,5:Diamond Rings,6:One Eye Patch,7:none,",
+  "rarityScore": 14700
+}

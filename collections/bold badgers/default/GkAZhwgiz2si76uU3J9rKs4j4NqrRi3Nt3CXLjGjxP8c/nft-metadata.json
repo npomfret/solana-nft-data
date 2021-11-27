@@ -1,0 +1,36 @@
+{
+  "name": "Bold Badger #800",
+  "symbol": "BBS",
+  "description": "BoldBadger #800",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/8PR8ne937ob-X0sJtP1RHZY21yWkPauvYYX335fAiEI",
+  "external_url": "https://boldbadgers.com",
+  "attributes": [
+    {
+      "trait_type": "Fur",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Nose",
+      "value": "Clothespin"
+    },
+    {
+      "trait_type": "Attribute Count",
+      "value": 1
+    }
+  ],
+  "properties": {
+    "creators": [
+      {
+        "address": "TESAinbTL2eBLkWqyGA82y1RS6kArHvuYWfkL9dKkbs",
+        "verified": true,
+        "share": 100
+      }
+    ],
+    "thumbnail": "https://arweave.net/gttMa3P7_dL7fC1VjMZwK7Nt9Fo-WRc4O2zNJh-R4Uw"
+  }
+}

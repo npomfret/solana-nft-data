@@ -1,0 +1,67 @@
+{
+  "name": "Johnny, the Fierce",
+  "symbol": "LLAMA",
+  "description": "Johnny, the Fierce is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #8,453 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/KJck15_vaJG0ULwJftbTghSgtrZuLpyvra_FOk0-2GE",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Johnny, the Fierce"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Muttonchops"
+    },
+    {
+      "trait_type": "Flag",
+      "value": "Peru"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Gold Unicorn"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 8453
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

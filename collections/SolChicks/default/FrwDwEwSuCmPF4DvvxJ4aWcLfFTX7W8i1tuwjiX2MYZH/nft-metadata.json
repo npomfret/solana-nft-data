@@ -1,0 +1,49 @@
+{
+  "name": "227",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeifku3tzyzhz5sy5qyt4w7vyoghsa6uhu6b47qiq4ymvhso53vp6ey/solchicks-227.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Afro Hair"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Low Nike Dunk Sneakers"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "One Eye Patch"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Beach,2:SolChick,3:none,4:Afro Hair,5:Low Nike Dunk Sneakers,6:One Eye Patch,7:none,",
+  "rarityScore": 19300
+}

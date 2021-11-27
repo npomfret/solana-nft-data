@@ -1,0 +1,37 @@
+{
+  "name": "Matcha Gelatin Cube #17",
+  "description": "All will be revealed",
+  "external_url": "https://kaijucards.io/",
+  "image": "https://assets.kaijucards.io/stills/matcha-gelatin-cube-cherry-blossom.png",
+  "animation_url": "https://assets.kaijucards.io/video/matcha-gelatin-cube-cherry-blossom.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "common"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "cherry blossom"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "alpha"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://assets.kaijucards.io/video/matcha-gelatin-cube-cherry-blossom.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  },
+  "category": "video",
+  "creators": [
+    {
+      "address": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+      "share": "100"
+    }
+  ],
+  "sellerFeeBasisPoints": "500"
+}

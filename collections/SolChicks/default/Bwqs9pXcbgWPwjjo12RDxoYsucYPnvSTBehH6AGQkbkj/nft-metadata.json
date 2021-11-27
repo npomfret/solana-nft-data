@@ -1,0 +1,53 @@
+{
+  "name": "1685",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeihpkziqmztksk72vk7morntdyhslk3jgqczqmc3wdikveaajg7gou/solchicks-1685.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "City"
+    },
+    {
+      "trait_type": "base",
+      "value": "Grandmaster SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Balenciaga T-Shirt"
+    },
+    {
+      "trait_type": "hats",
+      "value": "WIzard Hat"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Heart Eyes"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Gold Cross Earring"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Mythical"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:City,2:Grandmaster SolChick,3:Balenciaga T-Shirt,4:WIzard Hat,5:none,6:Heart Eyes,7:Gold Cross Earring,",
+  "rarityScore": 7050
+}

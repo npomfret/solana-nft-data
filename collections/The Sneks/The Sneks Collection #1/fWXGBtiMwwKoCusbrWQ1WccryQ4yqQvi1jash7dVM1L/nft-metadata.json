@@ -1,0 +1,80 @@
+{
+  "name": "Snek #7498",
+  "symbol": "",
+  "_fee_basis_points": 300,
+  "image": "https://www.arweave.net/yd6r2y-MhzzbMzv8WrARfSWUxQIJkheC-iu9L84lH8Y?ext=png",
+  "update_authority": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+  "collection": {
+    "name": "The Sneks Collection #1",
+    "family": "The Sneks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/yd6r2y-MhzzbMzv8WrARfSWUxQIJkheC-iu9L84lH8Y?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue",
+      "trait_count": 1566
+    },
+    {
+      "trait_type": "fans",
+      "value": "solana",
+      "trait_count": 63
+    },
+    {
+      "trait_type": "body",
+      "value": "zebra",
+      "trait_count": 56
+    },
+    {
+      "trait_type": "snake type",
+      "value": "2 headed",
+      "trait_count": 459
+    },
+    {
+      "trait_type": "stripes",
+      "value": ""
+    },
+    {
+      "trait_type": "spots",
+      "value": ""
+    },
+    {
+      "trait_type": "skin",
+      "value": ""
+    },
+    {
+      "trait_type": "eyes",
+      "value": ""
+    },
+    {
+      "trait_type": "glasses",
+      "value": ""
+    },
+    {
+      "trait_type": "hats",
+      "value": "brown hat",
+      "trait_count": 486
+    },
+    {
+      "trait_type": "mouth",
+      "value": ""
+    },
+    {
+      "trait_type": "outfits",
+      "value": ""
+    }
+  ]
+}

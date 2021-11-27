@@ -1,0 +1,49 @@
+{
+  "name": "297",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeigvpo5yu55wl4xs4ppbw3bo5anw4qrt6jdgj6ohi22xd2mu6rmqne/solchicks-297.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "City"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Angel Circle"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Sandals"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Movie Glasses"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:City,2:SolChick,3:none,4:Angel Circle,5:Sandals,6:Movie Glasses,7:none,",
+  "rarityScore": 19350
+}

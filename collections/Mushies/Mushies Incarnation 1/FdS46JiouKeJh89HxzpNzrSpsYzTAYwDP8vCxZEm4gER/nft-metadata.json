@@ -1,0 +1,75 @@
+{
+  "name": "Mushie #4741",
+  "symbol": "MUSH",
+  "description": "The Flamingo Forest has spoken, Mushie #4741 has sprouted.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/aTn3I7BLOhEoZ_bGrlWTKIHyiUV5THHf3OJYH-L_MA8?ext=png",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Sequence",
+      "value": 4741
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Background",
+      "value": "Grey Star Pattern"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Stripes"
+    },
+    {
+      "trait_type": "Fin",
+      "value": "Gray Gradient "
+    },
+    {
+      "trait_type": "Top",
+      "value": "Trippy Jamaica Colours Top"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Trait Count",
+      "value": 4
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Steampunk"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Burning Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dilated Pupils "
+    }
+  ],
+  "collection": {
+    "name": "Mushies Incarnation 1",
+    "family": "Mushies"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/aTn3I7BLOhEoZ_bGrlWTKIHyiUV5THHf3OJYH-L_MA8?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4qGdrBFtqHL2ee78rZsZWrPDG8AbUDc2jyeMPMmSfPvR",
+        "share": "100"
+      }
+    ]
+  }
+}

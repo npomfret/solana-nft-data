@@ -1,0 +1,83 @@
+{
+  "name": "Snek #5876",
+  "symbol": "",
+  "_fee_basis_points": 300,
+  "image": "https://www.arweave.net/A22yZzCYSu9nAfarjIgw-mCXHBT5kCdEFtEQ-ok_rK0?ext=png",
+  "update_authority": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+  "collection": {
+    "name": "The Sneks Collection #1",
+    "family": "The Sneks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/A22yZzCYSu9nAfarjIgw-mCXHBT5kCdEFtEQ-ok_rK0?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "peach",
+      "trait_count": 1362
+    },
+    {
+      "trait_type": "fans",
+      "value": "dragon wings purple",
+      "trait_count": 185
+    },
+    {
+      "trait_type": "body",
+      "value": "zebra",
+      "trait_count": 56
+    },
+    {
+      "trait_type": "snake type",
+      "value": "2 headed",
+      "trait_count": 459
+    },
+    {
+      "trait_type": "stripes",
+      "value": "stripes brown",
+      "trait_count": 550
+    },
+    {
+      "trait_type": "spots",
+      "value": "aqua",
+      "trait_count": 283
+    },
+    {
+      "trait_type": "skin",
+      "value": "skin midtone",
+      "trait_count": 275
+    },
+    {
+      "trait_type": "eyes",
+      "value": "green",
+      "trait_count": 868
+    },
+    {
+      "trait_type": "glasses",
+      "value": ""
+    },
+    {
+      "trait_type": "hats",
+      "value": ""
+    },
+    {
+      "trait_type": "mouth",
+      "value": ""
+    },
+    {
+      "trait_type": "outfits",
+      "value": ""
+    }
+  ]
+}

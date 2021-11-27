@@ -1,0 +1,53 @@
+{
+  "name": "226",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeia6lyu7nhuji2cezjikjua5bh7zcd4tncsl7yxawmsr3zxceipt6a/solchicks-226.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Tuxedo"
+    },
+    {
+      "trait_type": "hats",
+      "value": "WIzard Hat"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Purple Glasses"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Diamond Necklace"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Pink,2:SolChick,3:Tuxedo,4:WIzard Hat,5:none,6:Purple Glasses,7:Diamond Necklace,",
+  "rarityScore": 16850
+}

@@ -1,0 +1,49 @@
+{
+  "name": "3402",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeibwjfaubd5kuiffpwf45b5pqsoj7o4ghog6bj7vyithacuwzjitly/solchicks-3402.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "base",
+      "value": "Grand SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Spike Hair"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Diamond Rings"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Bubble Gum"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Mythical"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Forest,2:Grand SolChick,3:none,4:Spike Hair,5:Diamond Rings,6:none,7:Bubble Gum,",
+  "rarityScore": 7500
+}

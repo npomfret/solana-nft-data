@@ -1,0 +1,57 @@
+{
+  "name": "1728",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeigfpgxkys2sahkucxedd3yibvljirecaj7lgzh4mig57xmde2nvgm/solchicks-1728.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Mountains"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Chicago Bulls Jersey"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Basketball Hair Brand"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Sandals"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Bruised Eyes"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Gold Cross Earring"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Rare"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Mountains,2:SolChick,3:Chicago Bulls Jersey,4:Basketball Hair Brand,5:Sandals,6:Bruised Eyes,7:Gold Cross Earring,",
+  "rarityScore": 15050
+}

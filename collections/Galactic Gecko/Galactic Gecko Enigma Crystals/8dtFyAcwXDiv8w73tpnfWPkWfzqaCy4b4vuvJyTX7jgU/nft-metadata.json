@@ -1,0 +1,65 @@
+{
+  "name": "Enigma Crystal #98",
+  "symbol": "GGSG",
+  "description": "The Enigma Crystal is a highly advanced piece of gecko technology, mostly lost to this age. This is, perhaps, the last of its kind. Scientists studying lost tech from the warrior era are almost certain the Enigma Crystal has many purposes, but they are as yet unknown.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/XsW6U2JPsS3uzKiB1BboSDI-_X6Hlst8R88MV4OEnmM?ext=jpeg",
+  "attributes": [
+    {
+      "trait_type": "Fragment A",
+      "value": 7,
+      "trait_count": 512
+    },
+    {
+      "trait_type": "Fragment B",
+      "value": 7,
+      "trait_count": 512
+    },
+    {
+      "trait_type": "Fragment C",
+      "value": 5,
+      "trait_count": 512
+    },
+    {
+      "trait_type": "Fragment D",
+      "value": 2,
+      "trait_count": 512
+    },
+    {
+      "trait_type": "BUILD",
+      "value": "2963",
+      "trait_count": 1
+    }
+  ],
+  "collection": {
+    "name": "Galactic Gecko Enigma Crystals",
+    "family": "Galactic Gecko"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/XsW6U2JPsS3uzKiB1BboSDI-_X6Hlst8R88MV4OEnmM?ext=jpeg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GEky9DoicNUpZv2oWo3wRhCe3pJ3m3VWPMDFEgxxDGVk",
+        "share": 20
+      },
+      {
+        "address": "F8x4gCzXVWuMEskSwHMRPFh7eGtEtgfkQweb7tPNKSG3",
+        "share": 37
+      },
+      {
+        "address": "6MNBhhhos295PmjUVTWQPQHrKJWMcF2LErJLLSSfDe9J",
+        "share": 18
+      },
+      {
+        "address": "GUC8xez2URn4BgaeWGLpjA22vqxsh2mtEy3kD4k4toQj",
+        "share": 25
+      }
+    ]
+  }
+}

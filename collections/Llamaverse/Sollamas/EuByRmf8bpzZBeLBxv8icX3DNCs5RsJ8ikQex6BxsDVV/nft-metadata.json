@@ -1,0 +1,71 @@
+{
+  "name": "Teddy, the Shy",
+  "symbol": "LLAMA",
+  "description": "Teddy, the Shy is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #2,066 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/F4-Z7E1VbvI08XD3sgpELqTZrgwwseu9DRKPlSM-B70",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Teddy, the Shy"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Snowy Mountain"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Blue Clown Eyes"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Clock"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 2066
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

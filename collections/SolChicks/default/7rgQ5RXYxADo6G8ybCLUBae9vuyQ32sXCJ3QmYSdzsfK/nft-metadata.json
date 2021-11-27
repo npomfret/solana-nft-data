@@ -1,0 +1,57 @@
+{
+  "name": "5004",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeibzmd2rrcueszhc5y4hzkjusu64w2u6rwo7vygx4rzwy6fp4rviea/solchicks-5004.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "base",
+      "value": "Grand SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Leather Jacket"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Afro Hair"
+    },
+    {
+      "trait_type": "shoes",
+      "value": "Cowboy boots"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Cyclop_s Google"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Silver Cross Earring"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Mythical"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Forest,2:Grand SolChick,3:Leather Jacket,4:Afro Hair,5:Cowboy boots,6:Cyclop_s Google,7:Silver Cross Earring,",
+  "rarityScore": 4900
+}

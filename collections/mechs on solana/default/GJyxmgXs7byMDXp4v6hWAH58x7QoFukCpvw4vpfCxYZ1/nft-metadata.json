@@ -1,0 +1,49 @@
+{
+  "name": "Mech #8436",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/p2KYy7j3Y-2Ey_JnE_UI9mOBJejmoBE6WdY6dtpdWsU?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Gun_MATTE"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Shield_MATTE"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Battle_MATTE"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "BATTLE_CARBON"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Tron_GOLD"
+    }
+  ],
+  "edition": 8436,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/p2KYy7j3Y-2Ey_JnE_UI9mOBJejmoBE6WdY6dtpdWsU?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

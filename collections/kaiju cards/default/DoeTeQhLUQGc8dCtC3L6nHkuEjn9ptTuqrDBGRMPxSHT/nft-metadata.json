@@ -1,0 +1,37 @@
+{
+  "name": "Mushroom Farmer #200",
+  "description": "All will be revealed",
+  "external_url": "https://kaijucards.io/",
+  "image": "https://assets.kaijucards.io/stills/mushroom-farmer-poison.png",
+  "animation_url": "https://assets.kaijucards.io/video/mushroom-farmer-poison.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "uncommon"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "poison"
+    },
+    {
+      "trait_type": "Generation",
+      "value": "alpha"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://assets.kaijucards.io/video/mushroom-farmer-poison.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  },
+  "category": "video",
+  "creators": [
+    {
+      "address": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+      "share": "100"
+    }
+  ],
+  "sellerFeeBasisPoints": "500"
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Austin, the Adventurer",
+  "symbol": "LLAMA",
+  "description": "Austin, the Adventurer is a Limited Edition SollamasNFT X Austin Virts Llama with proof of ownership on the Solana blockchain. He was uniquely minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/DdZIniX3LX-UVzpYfeJc8FnVJvaEqbHpFu7AKQNYomI",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Austin, the Adventurer"
+    },
+    {
+      "trait_type": "Set",
+      "value": "LE Collabs"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Joshua Tree"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Stripes"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Adventure Hat"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "VR Headset"
+    },
+    {
+      "trait_type": "MouthAccessory",
+      "value": "Green Juice"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Gold Chain"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Patagonia"
+    },
+    {
+      "trait_type": "Poop",
+      "value": "Rainbow Poop"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Limited Edition"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

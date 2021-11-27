@@ -1,0 +1,71 @@
+{
+  "name": "Logan, the Zany",
+  "symbol": "LLAMA",
+  "description": "Logan, the Zany is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #3,995 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/Uti-WJOk-DI-d-tk_qirjGI7EdURANwy05stHPO51zs",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Logan, the Zany"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Flower Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Spots "
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Looking Right"
+    },
+    {
+      "trait_type": "Blanket",
+      "value": "Blue Slant"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Backwards Cap"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Black Beard "
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Unusual"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 3995
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

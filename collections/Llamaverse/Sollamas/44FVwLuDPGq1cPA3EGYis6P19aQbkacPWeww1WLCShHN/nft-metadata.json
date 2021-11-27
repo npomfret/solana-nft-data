@@ -1,0 +1,63 @@
+{
+  "name": "Pablo, the Space Invader",
+  "symbol": "LLAMA",
+  "description": "Pablo, the Space Invader is a Limited Edition SollamasNFT X Pablo Quiroga Llama with proof of ownership on the Solana blockchain. He was uniquely minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/5o5XCZcgjQ07_Ec8Sn9SHNZ8tv8e6UQeaJYWAU9E5Tk",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Pablo, the Space Invader"
+    },
+    {
+      "trait_type": "Set",
+      "value": "LE Collabs"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Mushroom Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Large Black Spots"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Star Helmet"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Red Sunglasses"
+    },
+    {
+      "trait_type": "Flag",
+      "value": "Peru"
+    },
+    {
+      "trait_type": "FacialHair",
+      "value": "Black Stuble"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Limited Edition"
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

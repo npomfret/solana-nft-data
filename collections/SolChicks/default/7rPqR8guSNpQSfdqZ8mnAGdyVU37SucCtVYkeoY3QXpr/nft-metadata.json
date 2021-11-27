@@ -1,0 +1,49 @@
+{
+  "name": "3797",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeibpnn4nky7vshpdzs7ms2fixe2xvxisxir4ynh2d6hjy7s5x62wqm/solchicks-3797.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Mountains"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Rapper Durag"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Michael Jackson_s Sunglasses"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Rapper Gold Chain"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Common"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Mountains,2:SolChick,3:none,4:Rapper Durag,5:none,6:Michael Jackson_s Sunglasses,7:Rapper Gold Chain,",
+  "rarityScore": 19700
+}

@@ -1,0 +1,49 @@
+{
+  "name": "5068",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeidjnv24drtlbbivlkdffk7fc5htpk6hnmb7c3m3rnkd7ju2ki6wte/solchicks-5068.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Mountains"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Balenciaga T-Shirt"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Cowboy Hat"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Cyclop_s Google"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Common"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Mountains,2:SolChick,3:Balenciaga T-Shirt,4:Cowboy Hat,5:none,6:Cyclop_s Google,7:none,",
+  "rarityScore": 20350
+}

@@ -1,0 +1,49 @@
+{
+  "name": "Mech #8000",
+  "symbol": "MECH",
+  "description": "Mechs on Solana",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/QmdorWX5Ifs-VPNTajkAyCDCAFtHCLg_zDQQYM0pwIw?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Flare"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Sickle_WHITE"
+    },
+    {
+      "trait_type": "Arms_back",
+      "value": "Gun_BLUE"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Battle_RED"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "BATTLE_GOLD"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Destroyed_CHROME"
+    }
+  ],
+  "edition": 8000,
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://www.arweave.net/QmdorWX5Ifs-VPNTajkAyCDCAFtHCLg_zDQQYM0pwIw?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "5VNbPYPh9UBcS5PwjHM8obcsz9bs5pVBRYA7nG96WHE7",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "name": "Mushie #869",
+  "symbol": "MUSH",
+  "description": "The Flamingo Forest has spoken, Mushie #869 has sprouted.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/GHeDpusslDja1dkwT82IVQ1OMk9EMHtoWWwQuSUmUHo?ext=png",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Sequence",
+      "value": 869
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Background",
+      "value": "Red "
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Stripes"
+    },
+    {
+      "trait_type": "Fin",
+      "value": "Multi Color"
+    },
+    {
+      "trait_type": "Top",
+      "value": "Mushie Eating worm Top"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Trait Count",
+      "value": 3
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Italian Mustache"
+    },
+    {
+      "trait_type": "Neck",
+      "value": "Peace Sign Chain"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser Eyes"
+    }
+  ],
+  "collection": {
+    "name": "Mushies Incarnation 1",
+    "family": "Mushies"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/GHeDpusslDja1dkwT82IVQ1OMk9EMHtoWWwQuSUmUHo?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4qGdrBFtqHL2ee78rZsZWrPDG8AbUDc2jyeMPMmSfPvR",
+        "share": "100"
+      }
+    ]
+  }
+}

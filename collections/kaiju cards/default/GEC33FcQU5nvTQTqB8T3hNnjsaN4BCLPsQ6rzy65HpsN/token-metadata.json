@@ -1,0 +1,20 @@
+{
+  "key": 4,
+  "updateAuthority": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+  "mint": "GEC33FcQU5nvTQTqB8T3hNnjsaN4BCLPsQ6rzy65HpsN",
+  "data": {
+    "name": "Snacky",
+    "symbol": "KAIJU",
+    "uri": "https://assets.kaijucards.io/json/sn-45.json",
+    "sellerFeeBasisPoints": 500,
+    "creators": [
+      {
+        "address": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+        "verified": 1,
+        "share": 100
+      }
+    ]
+  },
+  "primarySaleHappened": 0,
+  "isMutable": 1
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Stormy, the Broken",
+  "symbol": "LLAMA",
+  "description": "Stormy, the Broken is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. She was #7,623 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/5DEeTKXDnX681LHHQKyoCR8fwMyZsgckZU7DzJm5jEs",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Stormy, the Broken"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Female"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Barn Fence"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Wide Hair"
+    },
+    {
+      "trait_type": "Flag",
+      "value": "Chile"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 7623
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

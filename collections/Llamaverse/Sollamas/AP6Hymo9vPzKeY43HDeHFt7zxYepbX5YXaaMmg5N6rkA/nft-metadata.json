@@ -1,0 +1,63 @@
+{
+  "name": "Antuan, the Alcoholic",
+  "symbol": "LLAMA",
+  "description": "Antuan, the Alcoholic is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #610 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/pNhBn3NkoFTXtnBIEHAedVyaKeXfDD5pDJ_UE9JJwx8",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Antuan, the Alcoholic"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Desert Cactus"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Black Socks"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Backwards Cap"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Unibrow"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 610
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

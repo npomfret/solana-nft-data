@@ -1,0 +1,67 @@
+{
+  "name": "Mushie #7410",
+  "symbol": "MUSH",
+  "description": "The Flamingo Forest has spoken, Mushie #7410 has sprouted.",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/Y5dyptIjQ-MNxW-07yMYKL_4J6hnQPfOz5NVWpjNpOk?ext=png",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "Sequence",
+      "value": 7410
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    },
+    {
+      "trait_type": "Background",
+      "value": "Light Blue "
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Stripes"
+    },
+    {
+      "trait_type": "Fin",
+      "value": "Purple "
+    },
+    {
+      "trait_type": "Top",
+      "value": "Normal Mushie Top"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Trait Count",
+      "value": 2
+    },
+    {
+      "trait_type": "Forehead",
+      "value": "Music"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Alien Eyes"
+    }
+  ],
+  "collection": {
+    "name": "Mushies Incarnation 1",
+    "family": "Mushies"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/Y5dyptIjQ-MNxW-07yMYKL_4J6hnQPfOz5NVWpjNpOk?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4qGdrBFtqHL2ee78rZsZWrPDG8AbUDc2jyeMPMmSfPvR",
+        "share": "100"
+      }
+    ]
+  }
+}

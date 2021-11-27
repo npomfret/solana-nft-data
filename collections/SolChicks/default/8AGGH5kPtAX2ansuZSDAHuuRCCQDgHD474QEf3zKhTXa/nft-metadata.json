@@ -1,0 +1,53 @@
+{
+  "name": "2140",
+  "symbol": "SOLCHICKS",
+  "description": "From the original SolChicks collection minted at solchicks.io. Collect, breed and train your own unique SolChicks in a revolutionary gaming ecosystem.",
+  "seller_fee_basis_points": 500,
+  "image": "https://ipfs.io/ipfs/bafybeianj44krxmp4pi3dkr2n2x4kgxu3n6wraueu3sft2bqcaptpidr7u/solchicks-2140.png",
+  "animation_url": "",
+  "external_url": "https://www.solchicks.io/",
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "base",
+      "value": "SolChick"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "Pirate_s Suit"
+    },
+    {
+      "trait_type": "hats",
+      "value": "Basketball Hair Brand"
+    },
+    {
+      "trait_type": "eyeware",
+      "value": "Regular Glasses"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "Rapper Gold Chain"
+    },
+    {
+      "trait_type": "rarity",
+      "value": "Uncommon"
+    }
+  ],
+  "collection": {
+    "name": "SolChicks",
+    "family": "SolChicks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "H5ZQGeTv23nJRcFmEprRLuM9cTeJMajYvf2k1JhuLhE2",
+        "share": 100
+      }
+    ]
+  },
+  "hashString": "1:Forest,2:SolChick,3:Pirate_s Suit,4:Basketball Hair Brand,5:none,6:Regular Glasses,7:Rapper Gold Chain,",
+  "rarityScore": 18450
+}

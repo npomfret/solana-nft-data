@@ -1,0 +1,67 @@
+{
+  "name": "Cove, the Educated",
+  "symbol": "LLAMA",
+  "description": "Cove, the Educated is a uniquely generated, cute and collectible Llama with proof of ownership on the Solana blockchain. He was #663 to be minted!",
+  "seller_fee_basis_points": 500,
+  "image": "https://arweave.net/ZRYHflDGBBgQ0sjBmiPDbPV6NQsdjEP214LeqMQFzXU",
+  "external_url": "https://sollamas.com",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "Cove, the Educated"
+    },
+    {
+      "trait_type": "Set",
+      "value": "Base Set"
+    },
+    {
+      "trait_type": "Breed",
+      "value": "Llama"
+    },
+    {
+      "trait_type": "Gender",
+      "value": "Male"
+    },
+    {
+      "trait_type": "Scenery",
+      "value": "Flower Meadow"
+    },
+    {
+      "trait_type": "Pattern",
+      "value": "Stringy"
+    },
+    {
+      "trait_type": "Flag",
+      "value": "Brazil"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Red Mohawk"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Buck Teeth"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Sequence",
+      "value": 663
+    }
+  ],
+  "collection": {
+    "name": "Sollamas",
+    "family": "Llamaverse"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "LamapQPXuMYEuvsyZqK2UPqn1XCT2sW1soURj7ZJkZF",
+        "share": 100
+      }
+    ]
+  }
+}

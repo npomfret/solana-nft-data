@@ -1,0 +1,83 @@
+{
+  "name": "Snek #1370",
+  "symbol": "",
+  "_fee_basis_points": 300,
+  "image": "https://www.arweave.net/jpA2lvKVD1u3w5LS_LQZrn8mzLk5BKEZBZ5kt3hYDoI?ext=png",
+  "update_authority": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+  "collection": {
+    "name": "The Sneks Collection #1",
+    "family": "The Sneks"
+  },
+  "properties": {
+    "creators": [
+      {
+        "address": "E1bZ99d56AK9vCFq9Y5nC7ZVz2z8CcxVECsDTyZVksmS",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/jpA2lvKVD1u3w5LS_LQZrn8mzLk5BKEZBZ5kt3hYDoI?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "pink",
+      "trait_count": 985
+    },
+    {
+      "trait_type": "fans",
+      "value": ""
+    },
+    {
+      "trait_type": "body",
+      "value": "green",
+      "trait_count": 1690
+    },
+    {
+      "trait_type": "snake type",
+      "value": "default",
+      "trait_count": 9081
+    },
+    {
+      "trait_type": "stripes",
+      "value": "stripes aqua",
+      "trait_count": 573
+    },
+    {
+      "trait_type": "spots",
+      "value": "orange",
+      "trait_count": 307
+    },
+    {
+      "trait_type": "skin",
+      "value": ""
+    },
+    {
+      "trait_type": "eyes",
+      "value": ""
+    },
+    {
+      "trait_type": "glasses",
+      "value": "pink viper sunglasses",
+      "trait_count": 90
+    },
+    {
+      "trait_type": "hats",
+      "value": "angel halo purple",
+      "trait_count": 160
+    },
+    {
+      "trait_type": "mouth",
+      "value": "bubblegum",
+      "trait_count": 88
+    },
+    {
+      "trait_type": "outfits",
+      "value": ""
+    }
+  ]
+}

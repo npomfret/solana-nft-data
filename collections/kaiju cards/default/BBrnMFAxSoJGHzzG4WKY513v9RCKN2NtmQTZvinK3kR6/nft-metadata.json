@@ -1,0 +1,37 @@
+{
+  "name": "Samo Warrior #1",
+  "description": "Special Edition Samoyed Warrior, in honor of our friends at Samoyed Token. 3 total in circulation.",
+  "external_url": "https://kaijucards.io/",
+  "image": "https://assets.kaijucards.io/stills/samo-warrior.png",
+  "animation_url": "https://assets.kaijucards.io/video/samo-warrior.mp4",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "special edition"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "good boy"
+    },
+    {
+      "trait_type": "Border",
+      "value": "yes"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://assets.kaijucards.io/video/samo-warrior.mp4",
+        "type": "video/mp4"
+      }
+    ]
+  },
+  "category": "video",
+  "creators": [
+    {
+      "address": "FGr9rJSQFP4ypFbJMhCotZh94ciMvcU3dApuDeXRi6vb",
+      "share": "100"
+    }
+  ],
+  "sellerFeeBasisPoints": "500"
+}
