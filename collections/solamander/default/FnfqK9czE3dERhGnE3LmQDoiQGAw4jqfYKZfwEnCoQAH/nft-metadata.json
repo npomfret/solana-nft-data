@@ -1,0 +1,65 @@
+{
+  "name": "Solamander #8552",
+  "symbol": "SMNDR",
+  "image": "https://d1b6hed00dtfsr.cloudfront.net/8551.png",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Gender"
+    },
+    {
+      "value": "Desert",
+      "trait_type": "Environment"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "LightBlue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "WhiteBeanie",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "Lazereyes",
+      "trait_type": "Eyewear"
+    },
+    {
+      "value": "BubbleGum",
+      "trait_type": "Accessories"
+    }
+  ],
+  "edition": "elder",
+  "seller_fee_basis_points": 500,
+  "external_url": "https://www.solamanders.com/elder/8551",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://d1b6hed00dtfsr.cloudfront.net/8551.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "37M6hd5KQpYuRJfWPGi75Jp7MzFrnuvfRVXc2K2FBaRQ",
+        "share": 40
+      },
+      {
+        "address": "8hvWS2zjco3sghpBwaxcKRqNNAAGtQasVrLr2akBywRo",
+        "share": 20
+      },
+      {
+        "address": "DyBgokUBvCRiwfTymCtEKh7aDdckJRMaLohiByjFFB7q",
+        "share": 20
+      },
+      {
+        "address": "6vQVrqUeW4phVLeQnFDnYiizTwVF9XZePzF9sZuVGBxc",
+        "share": 20
+      }
+    ]
+  }
+}

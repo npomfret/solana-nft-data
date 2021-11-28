@@ -1,0 +1,61 @@
+{
+  "name": "Solamander #398",
+  "symbol": "SMNDR",
+  "image": "https://d1b6hed00dtfsr.cloudfront.net/397.png",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Gender"
+    },
+    {
+      "value": "TradingDesk",
+      "trait_type": "Environment"
+    },
+    {
+      "value": "LightGreen",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Blue",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Monocle",
+      "trait_type": "Eyewear"
+    },
+    {
+      "value": "Mustache",
+      "trait_type": "Accessories"
+    }
+  ],
+  "edition": "elder",
+  "seller_fee_basis_points": 500,
+  "external_url": "https://www.solamanders.com/elder/397",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://d1b6hed00dtfsr.cloudfront.net/397.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "37M6hd5KQpYuRJfWPGi75Jp7MzFrnuvfRVXc2K2FBaRQ",
+        "share": 40
+      },
+      {
+        "address": "8hvWS2zjco3sghpBwaxcKRqNNAAGtQasVrLr2akBywRo",
+        "share": 20
+      },
+      {
+        "address": "DyBgokUBvCRiwfTymCtEKh7aDdckJRMaLohiByjFFB7q",
+        "share": 20
+      },
+      {
+        "address": "6vQVrqUeW4phVLeQnFDnYiizTwVF9XZePzF9sZuVGBxc",
+        "share": 20
+      }
+    ]
+  }
+}

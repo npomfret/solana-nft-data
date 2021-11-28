@@ -1,0 +1,69 @@
+{
+  "name": "Solamander #4193",
+  "symbol": "SMNDR",
+  "image": "https://d1b6hed00dtfsr.cloudfront.net/4192.png",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Gender"
+    },
+    {
+      "value": "Sunset",
+      "trait_type": "Environment"
+    },
+    {
+      "value": "Purple",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Salmon",
+      "trait_type": "Spots"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "BlackBeanie",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "SunGlasses",
+      "trait_type": "Eyewear"
+    },
+    {
+      "value": "Pipe",
+      "trait_type": "Accessories"
+    }
+  ],
+  "edition": "elder",
+  "seller_fee_basis_points": 500,
+  "external_url": "https://www.solamanders.com/elder/4192",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://d1b6hed00dtfsr.cloudfront.net/4192.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "37M6hd5KQpYuRJfWPGi75Jp7MzFrnuvfRVXc2K2FBaRQ",
+        "share": 40
+      },
+      {
+        "address": "8hvWS2zjco3sghpBwaxcKRqNNAAGtQasVrLr2akBywRo",
+        "share": 20
+      },
+      {
+        "address": "DyBgokUBvCRiwfTymCtEKh7aDdckJRMaLohiByjFFB7q",
+        "share": 20
+      },
+      {
+        "address": "6vQVrqUeW4phVLeQnFDnYiizTwVF9XZePzF9sZuVGBxc",
+        "share": 20
+      }
+    ]
+  }
+}

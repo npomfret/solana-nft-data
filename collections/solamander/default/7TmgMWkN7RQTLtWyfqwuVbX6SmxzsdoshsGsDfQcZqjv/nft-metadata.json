@@ -1,0 +1,65 @@
+{
+  "name": "Solamander #7102",
+  "symbol": "SMNDR",
+  "image": "https://d1b6hed00dtfsr.cloudfront.net/7101.png",
+  "attributes": [
+    {
+      "value": "Male",
+      "trait_type": "Gender"
+    },
+    {
+      "value": "Grass",
+      "trait_type": "Environment"
+    },
+    {
+      "value": "Maroon",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "Spots"
+    },
+    {
+      "value": "Grey",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "BlondSpikeHair",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "ClassicGreyGlasses",
+      "trait_type": "Eyewear"
+    }
+  ],
+  "edition": "elder",
+  "seller_fee_basis_points": 500,
+  "external_url": "https://www.solamanders.com/elder/7101",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://d1b6hed00dtfsr.cloudfront.net/7101.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "37M6hd5KQpYuRJfWPGi75Jp7MzFrnuvfRVXc2K2FBaRQ",
+        "share": 40
+      },
+      {
+        "address": "8hvWS2zjco3sghpBwaxcKRqNNAAGtQasVrLr2akBywRo",
+        "share": 20
+      },
+      {
+        "address": "DyBgokUBvCRiwfTymCtEKh7aDdckJRMaLohiByjFFB7q",
+        "share": 20
+      },
+      {
+        "address": "6vQVrqUeW4phVLeQnFDnYiizTwVF9XZePzF9sZuVGBxc",
+        "share": 20
+      }
+    ]
+  }
+}

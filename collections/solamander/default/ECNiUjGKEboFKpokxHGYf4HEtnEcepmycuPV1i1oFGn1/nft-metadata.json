@@ -1,0 +1,69 @@
+{
+  "name": "Solamander #7230",
+  "symbol": "SMNDR",
+  "image": "https://d1b6hed00dtfsr.cloudfront.net/7229.png",
+  "attributes": [
+    {
+      "value": "Female",
+      "trait_type": "Gender"
+    },
+    {
+      "value": "CyberSpace",
+      "trait_type": "Environment"
+    },
+    {
+      "value": "Green",
+      "trait_type": "Skin"
+    },
+    {
+      "value": "Grey",
+      "trait_type": "Spots"
+    },
+    {
+      "value": "Brown",
+      "trait_type": "Eyes"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Headwear"
+    },
+    {
+      "value": "VRrainbow",
+      "trait_type": "Eyewear"
+    },
+    {
+      "value": "BubbleGum",
+      "trait_type": "Accessories"
+    }
+  ],
+  "edition": "elder",
+  "seller_fee_basis_points": 500,
+  "external_url": "https://www.solamanders.com/elder/7229",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://d1b6hed00dtfsr.cloudfront.net/7229.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "37M6hd5KQpYuRJfWPGi75Jp7MzFrnuvfRVXc2K2FBaRQ",
+        "share": 40
+      },
+      {
+        "address": "8hvWS2zjco3sghpBwaxcKRqNNAAGtQasVrLr2akBywRo",
+        "share": 20
+      },
+      {
+        "address": "DyBgokUBvCRiwfTymCtEKh7aDdckJRMaLohiByjFFB7q",
+        "share": 20
+      },
+      {
+        "address": "6vQVrqUeW4phVLeQnFDnYiizTwVF9XZePzF9sZuVGBxc",
+        "share": 20
+      }
+    ]
+  }
+}
