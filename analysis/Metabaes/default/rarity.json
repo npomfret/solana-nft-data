@@ -1,0 +1,2426 @@
+[
+  {
+    "traitName": "RARITY",
+    "traitValue": "ULTRA RARE",
+    "frequency": 10,
+    "pct": 0.12677484787018256,
+    "desc": "10 of 7888 (0.13%)",
+    "example": "https://www.arweave.net/1j1IGp49BIOnazziZXmAVHar7yUjWAwceOld309llw4?ext=png"
+  },
+  {
+    "traitName": "RARITY",
+    "traitValue": "HONORARY",
+    "frequency": 11,
+    "pct": 0.1394523326572008,
+    "desc": "11 of 7888 (0.14%)",
+    "example": "https://www.arweave.net/MeNRNTUqSOBr2soq6BoYAbtSiMD_7ZH1Ma4zjQwIIrY?ext=png"
+  },
+  {
+    "traitName": "Effect",
+    "traitValue": "Sparkles",
+    "frequency": 27,
+    "pct": 0.3422920892494929,
+    "desc": "27 of 7888 (0.34%)",
+    "example": "https://www.arweave.net/yg8jMaUMM26Nh13xWVF-61k7zPEmpGSYSsiZNDikfoQ?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Crossed Out",
+    "frequency": 27,
+    "pct": 0.3422920892494929,
+    "desc": "27 of 7888 (0.34%)",
+    "example": "https://www.arweave.net/houa4JMJka-YIpGPP2gt0KN95fSNbc7WJ4iqe49PEF0?ext=png"
+  },
+  {
+    "traitName": "Pet",
+    "traitValue": "Bee",
+    "frequency": 30,
+    "pct": 0.3803245436105477,
+    "desc": "30 of 7888 (0.38%)",
+    "example": "https://www.arweave.net/HMtKaXNKugsiBTT7XgVDJfvnXnQQcX3r_DaPxd35SRo?ext=png"
+  },
+  {
+    "traitName": "Hair Strand",
+    "traitValue": "Black White",
+    "frequency": 33,
+    "pct": 0.4183569979716024,
+    "desc": "33 of 7888 (0.42%)",
+    "example": "https://www.arweave.net/Kt8MBuP4d6IsEOxOn4c7lH3VijPXV6FrbpXhqxWT6z4?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Sexy",
+    "frequency": 34,
+    "pct": 0.43103448275862066,
+    "desc": "34 of 7888 (0.43%)",
+    "example": "https://www.arweave.net/b7zoAVUzHQGI6SnmeLdcvGmHepnNA60U1bzaZ0LXfWY?ext=png"
+  },
+  {
+    "traitName": "Overhead",
+    "traitValue": "Crown",
+    "frequency": 39,
+    "pct": 0.49442190669371194,
+    "desc": "39 of 7888 (0.49%)",
+    "example": "https://www.arweave.net/xE59MInif2yv0rmnRZGDK1eHhiguhnyX09tTsDmbPRU?ext=png"
+  },
+  {
+    "traitName": "Hair Accessory",
+    "traitValue": "Diamonds",
+    "frequency": 39,
+    "pct": 0.49442190669371194,
+    "desc": "39 of 7888 (0.49%)",
+    "example": "https://www.arweave.net/MAHXEIqwHghketamz0kcwS_VSDZtG5fzfgmJyB5x-nE?ext=png"
+  },
+  {
+    "traitName": "Wings",
+    "traitValue": "Devil",
+    "frequency": 43,
+    "pct": 0.545131845841785,
+    "desc": "43 of 7888 (0.55%)",
+    "example": "https://www.arweave.net/iCk_2ee7nHT2pRUUuwWRToqe_brzKh7sRzCNW8mdfMs?ext=png"
+  },
+  {
+    "traitName": "Head Accesory",
+    "traitValue": "Bunny",
+    "frequency": 45,
+    "pct": 0.5704868154158215,
+    "desc": "45 of 7888 (0.57%)",
+    "example": "https://www.arweave.net/FfqCB3k3oqB6E-sez_NsMV0Gx94H7mPXiXDUJjxFGYo?ext=png"
+  },
+  {
+    "traitName": "Effect",
+    "traitValue": "Roses",
+    "frequency": 47,
+    "pct": 0.595841784989858,
+    "desc": "47 of 7888 (0.60%)",
+    "example": "https://www.arweave.net/E3R-FSt-Gq9P-BW0e4n6nHLxiLMFbLTI5dHJI8gI_2I?ext=png"
+  },
+  {
+    "traitName": "Lower Neck",
+    "traitValue": "Gold Chain",
+    "frequency": 47,
+    "pct": 0.595841784989858,
+    "desc": "47 of 7888 (0.60%)",
+    "example": "https://www.arweave.net/f-fQ-BIdIzeHjD2bqF0R3OPc_A7fUMNo19FFRy8-nJE?ext=png"
+  },
+  {
+    "traitName": "Hair Updo",
+    "traitValue": "Blue Braids",
+    "frequency": 47,
+    "pct": 0.595841784989858,
+    "desc": "47 of 7888 (0.60%)",
+    "example": "https://www.arweave.net/PTlgc_vUo1EvvbGdIP4oFciDWlWERGt5w1Kdu7s5K1g?ext=png"
+  },
+  {
+    "traitName": "Wings",
+    "traitValue": "Bat",
+    "frequency": 55,
+    "pct": 0.697261663286004,
+    "desc": "55 of 7888 (0.70%)",
+    "example": "https://www.arweave.net/U6WVFYGzGbsMJxIFr33Vg1oYgk2LV8gkXBQXgyY_Ng8?ext=png"
+  },
+  {
+    "traitName": "Pet",
+    "traitValue": "Star",
+    "frequency": 60,
+    "pct": 0.7606490872210954,
+    "desc": "60 of 7888 (0.76%)",
+    "example": "https://www.arweave.net/9gcpszR0ngYrbBzE1rcpqtWbpEtjgQV2u2UiRVAe_CM?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Black Sleeveless Dress",
+    "frequency": 72,
+    "pct": 0.9127789046653144,
+    "desc": "72 of 7888 (0.91%)",
+    "example": "https://www.arweave.net/iZ9EU5ncPMBQe8gNxSu6T_S9RS-I7cBO58UA3KRb248?ext=png"
+  },
+  {
+    "traitName": "Wings",
+    "traitValue": "Insect",
+    "frequency": 76,
+    "pct": 0.9634888438133874,
+    "desc": "76 of 7888 (0.96%)",
+    "example": "https://www.arweave.net/GnAwA_d5EXn8h_xm1umT1eswlAuLkcrYNfZwyuQlbp0?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "White Sleeveless Dress",
+    "frequency": 76,
+    "pct": 0.9634888438133874,
+    "desc": "76 of 7888 (0.96%)",
+    "example": "https://www.arweave.net/9zybKqv2U5TP7tXgdAN0WUoBR-IZkhROObXrnmx_rrU?ext=png"
+  },
+  {
+    "traitName": "Shirt",
+    "traitValue": "Black Samurai Vest",
+    "frequency": 77,
+    "pct": 0.9761663286004058,
+    "desc": "77 of 7888 (0.98%)",
+    "example": "https://www.arweave.net/ZsMlakIo2-NHispcemaik-31njgDLq6Q1eGvX0ZLNrg?ext=png"
+  },
+  {
+    "traitName": "Pet",
+    "traitValue": "Flower",
+    "frequency": 81,
+    "pct": 1.0268762677484788,
+    "desc": "81 of 7888 (1.03%)",
+    "example": "https://www.arweave.net/GlzFTy8HFAQiBO4WAQQ0DeOZ_Ajxsy0zabYRQApoKy4?ext=png"
+  },
+  {
+    "traitName": "Lower Neck",
+    "traitValue": "Ruby Necklace",
+    "frequency": 82,
+    "pct": 1.039553752535497,
+    "desc": "82 of 7888 (1.04%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Shirt",
+    "traitValue": "Red Samurai Vest",
+    "frequency": 83,
+    "pct": 1.0522312373225153,
+    "desc": "83 of 7888 (1.05%)",
+    "example": "https://www.arweave.net/M80OtLUr6qJ9FdCq-UnGvOyFhy4PFEJ5f9bgItVANts?ext=png"
+  },
+  {
+    "traitName": "Hair Updo",
+    "traitValue": "Brown Twintails",
+    "frequency": 84,
+    "pct": 1.0649087221095335,
+    "desc": "84 of 7888 (1.06%)",
+    "example": "https://www.arweave.net/5ef-KDZomGXr5kiNJ5kBp-AOpkPqhObwCfjyJbqiwUs?ext=png"
+  },
+  {
+    "traitName": "Head Accesory",
+    "traitValue": "Dog",
+    "frequency": 91,
+    "pct": 1.1536511156186613,
+    "desc": "91 of 7888 (1.15%)",
+    "example": "https://www.arweave.net/qblIYev9Cv9NHJYQ5tG-RU0Zp8pWEp5to6_U3sop9RM?ext=png"
+  },
+  {
+    "traitName": "Facial Expression",
+    "traitValue": "Sweat",
+    "frequency": 93,
+    "pct": 1.1790060851926978,
+    "desc": "93 of 7888 (1.18%)",
+    "example": "https://www.arweave.net/u40sMOyEOsrlPxHMhOu9lzSe0lMew08OcK4yU1_zdwg?ext=png"
+  },
+  {
+    "traitName": "Shirt",
+    "traitValue": "Pink Cardigan",
+    "frequency": 98,
+    "pct": 1.2423935091277891,
+    "desc": "98 of 7888 (1.24%)",
+    "example": "https://www.arweave.net/hgdbM9X8c7pRHrdKb-JXUxiWBr9oDQa_XWFbueiZzzY?ext=png"
+  },
+  {
+    "traitName": "Skin Mark",
+    "traitValue": "Stitches",
+    "frequency": 106,
+    "pct": 1.343813387423935,
+    "desc": "106 of 7888 (1.34%)",
+    "example": "https://www.arweave.net/qblIYev9Cv9NHJYQ5tG-RU0Zp8pWEp5to6_U3sop9RM?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Sky",
+    "frequency": 108,
+    "pct": 1.3691683569979716,
+    "desc": "108 of 7888 (1.37%)",
+    "example": "https://www.arweave.net/pS8SkXso-KrOcQdvsljVHW4yJUddsPINzgdykXP95Wo?ext=png"
+  },
+  {
+    "traitName": "Ears",
+    "traitValue": "Bat Wings",
+    "frequency": 109,
+    "pct": 1.38184584178499,
+    "desc": "109 of 7888 (1.38%)",
+    "example": "https://www.arweave.net/E3R-FSt-Gq9P-BW0e4n6nHLxiLMFbLTI5dHJI8gI_2I?ext=png"
+  },
+  {
+    "traitName": "Overhead",
+    "traitValue": "Heart Rainbow",
+    "frequency": 113,
+    "pct": 1.432555780933063,
+    "desc": "113 of 7888 (1.43%)",
+    "example": "https://www.arweave.net/m-U_CvczoFwq4opdURAR8jYffrH244fg2KLrDLLY-SA?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Blue Racing",
+    "frequency": 114,
+    "pct": 1.445233265720081,
+    "desc": "114 of 7888 (1.45%)",
+    "example": "https://www.arweave.net/zx9zA2v7xQimfeNbeeYjQxv7fbvs1VUR82-O2Gfc3mI?ext=png"
+  },
+  {
+    "traitName": "Hair Strand",
+    "traitValue": "Magenta",
+    "frequency": 121,
+    "pct": 1.533975659229209,
+    "desc": "121 of 7888 (1.53%)",
+    "example": "https://www.arweave.net/hEpcYKW4y31a4DQYQX9jHp_GCYn-mHP5cTxxNUmQIDU?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Sleeveless Hoodie",
+    "frequency": 124,
+    "pct": 1.5720081135902637,
+    "desc": "124 of 7888 (1.57%)",
+    "example": "https://www.arweave.net/Xwglbt2NE0S-T_pHn_NIqsp1YmsnYc-Gx3wUB9lCDwc?ext=png"
+  },
+  {
+    "traitName": "Shirt",
+    "traitValue": "Purple Cardigan",
+    "frequency": 125,
+    "pct": 1.584685598377282,
+    "desc": "125 of 7888 (1.58%)",
+    "example": "https://www.arweave.net/jTxIPfbnz3Rrq9mjsTt1ljMVxXv3MftSO3vzoUTSm9c?ext=png"
+  },
+  {
+    "traitName": "Hat",
+    "traitValue": "Pumpkin",
+    "frequency": 132,
+    "pct": 1.6734279918864097,
+    "desc": "132 of 7888 (1.67%)",
+    "example": "https://www.arweave.net/Kt8MBuP4d6IsEOxOn4c7lH3VijPXV6FrbpXhqxWT6z4?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Space",
+    "frequency": 133,
+    "pct": 1.686105476673428,
+    "desc": "133 of 7888 (1.69%)",
+    "example": "https://www.arweave.net/DxsAGY8KrryGD-lLIg3oAzQcHgbgD8CSj1R18aIwy-U?ext=png"
+  },
+  {
+    "traitName": "Eye Wear",
+    "traitValue": "Rockstar Glasses",
+    "frequency": 135,
+    "pct": 1.7114604462474643,
+    "desc": "135 of 7888 (1.71%)",
+    "example": "https://www.arweave.net/EPew30bLuSFrlKbGTUiW5UvPGQ5nMb_TgJpFqjoB7oQ?ext=png"
+  },
+  {
+    "traitName": "Pet",
+    "traitValue": "Cat",
+    "frequency": 138,
+    "pct": 1.7494929006085194,
+    "desc": "138 of 7888 (1.75%)",
+    "example": "https://www.arweave.net/C80SNhTBkpFimkppNlw4lnkwl00c83NGFZa_bxqS8HI?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Cherry Blossom",
+    "frequency": 141,
+    "pct": 1.7875253549695742,
+    "desc": "141 of 7888 (1.79%)",
+    "example": "https://www.arweave.net/A70C-aEWiv5WWUlw7-0FIjIxWBmEIEcvFpFPK4Vtyoc?ext=png"
+  },
+  {
+    "traitName": "Hair Accessory",
+    "traitValue": "Wings",
+    "frequency": 142,
+    "pct": 1.8002028397565923,
+    "desc": "142 of 7888 (1.80%)",
+    "example": "https://www.arweave.net/hfBvdHYzWCVC3ox016jmUJUAhXHYsCJ2lZ8im6WUKPc?ext=png"
+  },
+  {
+    "traitName": "Pet",
+    "traitValue": "Grey Hamster",
+    "frequency": 144,
+    "pct": 1.8255578093306288,
+    "desc": "144 of 7888 (1.83%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Red Racing",
+    "frequency": 145,
+    "pct": 1.8382352941176472,
+    "desc": "145 of 7888 (1.84%)",
+    "example": "https://www.arweave.net/Nm7yW2WioYr6VVsYVVtvEr6nt5BQ3MGUxJyhcxqRBwc?ext=png"
+  },
+  {
+    "traitName": "Lower Neck",
+    "traitValue": "Pearlescent Pearls",
+    "frequency": 146,
+    "pct": 1.8509127789046655,
+    "desc": "146 of 7888 (1.85%)",
+    "example": "https://www.arweave.net/HMtKaXNKugsiBTT7XgVDJfvnXnQQcX3r_DaPxd35SRo?ext=png"
+  },
+  {
+    "traitName": "Effect",
+    "traitValue": "Confetti",
+    "frequency": 149,
+    "pct": 1.8889452332657202,
+    "desc": "149 of 7888 (1.89%)",
+    "example": "https://www.arweave.net/uSoZLJRVE5DQgnVpYH-MSWHVUs50qG6hDf4fY4Xy2G4?ext=png"
+  },
+  {
+    "traitName": "Upper Neck",
+    "traitValue": "Bloody Stitches",
+    "frequency": 151,
+    "pct": 1.9143002028397564,
+    "desc": "151 of 7888 (1.91%)",
+    "example": "https://www.arweave.net/Tr44_juXe0BSDD_o7FUqwjEi6db-uu2-mqgQIRhjSWM?ext=png"
+  },
+  {
+    "traitName": "Wings",
+    "traitValue": "Mech",
+    "frequency": 155,
+    "pct": 1.9650101419878294,
+    "desc": "155 of 7888 (1.97%)",
+    "example": "https://www.arweave.net/TBHN4svRiskAglRb3aagn1-Wpkdle3A8Q3prZT4zP4k?ext=png"
+  },
+  {
+    "traitName": "Eye Wear",
+    "traitValue": "Red Rose",
+    "frequency": 156,
+    "pct": 1.9776876267748478,
+    "desc": "156 of 7888 (1.98%)",
+    "example": "https://www.arweave.net/Tr44_juXe0BSDD_o7FUqwjEi6db-uu2-mqgQIRhjSWM?ext=png"
+  },
+  {
+    "traitName": "Pet",
+    "traitValue": "Brown Hamster",
+    "frequency": 156,
+    "pct": 1.9776876267748478,
+    "desc": "156 of 7888 (1.98%)",
+    "example": "https://www.arweave.net/f-fQ-BIdIzeHjD2bqF0R3OPc_A7fUMNo19FFRy8-nJE?ext=png"
+  },
+  {
+    "traitName": "Overhead",
+    "traitValue": "Meteors",
+    "frequency": 157,
+    "pct": 1.9903651115618661,
+    "desc": "157 of 7888 (1.99%)",
+    "example": "https://www.arweave.net/A3UD3RLPaJKjRa6Vzzt1ViLBG5wjY6ZPa1FGPPRe2UI?ext=png"
+  },
+  {
+    "traitName": "Lower Neck",
+    "traitValue": "White Pearls",
+    "frequency": 157,
+    "pct": 1.9903651115618661,
+    "desc": "157 of 7888 (1.99%)",
+    "example": "https://www.arweave.net/LpfZ_v44Etz2VbH_ibpVMD09WWSBv6DyRdKAj0kQuI0?ext=png"
+  },
+  {
+    "traitName": "Wings",
+    "traitValue": "Fairy",
+    "frequency": 158,
+    "pct": 2.0030425963488847,
+    "desc": "158 of 7888 (2.00%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Facial Expression",
+    "traitValue": "Tears",
+    "frequency": 160,
+    "pct": 2.028397565922921,
+    "desc": "160 of 7888 (2.03%)",
+    "example": "https://www.arweave.net/GH2RBJfFF5bl-fF_notj0S-ml4sVLeEv3KYLGsUiFxg?ext=png"
+  },
+  {
+    "traitName": "Eye Wear",
+    "traitValue": "Bandages",
+    "frequency": 160,
+    "pct": 2.028397565922921,
+    "desc": "160 of 7888 (2.03%)",
+    "example": "https://www.arweave.net/zx9zA2v7xQimfeNbeeYjQxv7fbvs1VUR82-O2Gfc3mI?ext=png"
+  },
+  {
+    "traitName": "Facial Accessory",
+    "traitValue": "Patch",
+    "frequency": 161,
+    "pct": 2.041075050709939,
+    "desc": "161 of 7888 (2.04%)",
+    "example": "https://www.arweave.net/CN8swUqM9ztsmhqUjd2PlZK2zjE59y3iXJUm98jpPck?ext=png"
+  },
+  {
+    "traitName": "Eye Wear",
+    "traitValue": "Purple Rose",
+    "frequency": 162,
+    "pct": 2.0537525354969577,
+    "desc": "162 of 7888 (2.05%)",
+    "example": "https://www.arweave.net/hEpcYKW4y31a4DQYQX9jHp_GCYn-mHP5cTxxNUmQIDU?ext=png"
+  },
+  {
+    "traitName": "Overhead",
+    "traitValue": "Crystals",
+    "frequency": 167,
+    "pct": 2.1171399594320484,
+    "desc": "167 of 7888 (2.12%)",
+    "example": "https://www.arweave.net/ZO8GWCGaUmzVSWytAg7o7YE9dNUtbeYBI07D73jcUys?ext=png"
+  },
+  {
+    "traitName": "Pet",
+    "traitValue": "Panda",
+    "frequency": 170,
+    "pct": 2.1551724137931036,
+    "desc": "170 of 7888 (2.16%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Hair Accessory",
+    "traitValue": "Egg",
+    "frequency": 170,
+    "pct": 2.1551724137931036,
+    "desc": "170 of 7888 (2.16%)",
+    "example": "https://www.arweave.net/ZO8GWCGaUmzVSWytAg7o7YE9dNUtbeYBI07D73jcUys?ext=png"
+  },
+  {
+    "traitName": "Undershirt",
+    "traitValue": "Pink Smocked Dress",
+    "frequency": 176,
+    "pct": 2.231237322515213,
+    "desc": "176 of 7888 (2.23%)",
+    "example": "https://www.arweave.net/y48nMfBZ4q1c396MTJkj1-kCkODdBNR9nP7Zh7A9m9c?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Neon Kimono",
+    "frequency": 180,
+    "pct": 2.281947261663286,
+    "desc": "180 of 7888 (2.28%)",
+    "example": "https://www.arweave.net/BEs2bsG3BQQ4Lr-jAy7OJmLxCj9IxzDtj8l8YMKUqkE?ext=png"
+  },
+  {
+    "traitName": "Shirt",
+    "traitValue": "Pink Patterned Cardigan",
+    "frequency": 186,
+    "pct": 2.3580121703853956,
+    "desc": "186 of 7888 (2.36%)",
+    "example": "https://www.arweave.net/f4ghjafqH2PkZw-bhED_kVR-TnMpNMFQg7BaTRUUMTo?ext=png"
+  },
+  {
+    "traitName": "Pet",
+    "traitValue": "Blue Bunny Plush",
+    "frequency": 186,
+    "pct": 2.3580121703853956,
+    "desc": "186 of 7888 (2.36%)",
+    "example": "https://www.arweave.net/BAEtRMmBD2RSLrOpXAlDN6v1M2T7wFYg7ql7d0GGMb0?ext=png"
+  },
+  {
+    "traitName": "Undershirt",
+    "traitValue": "Blue Medieval Dress",
+    "frequency": 188,
+    "pct": 2.383367139959432,
+    "desc": "188 of 7888 (2.38%)",
+    "example": "https://www.arweave.net/A3UD3RLPaJKjRa6Vzzt1ViLBG5wjY6ZPa1FGPPRe2UI?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Pink Pajama",
+    "frequency": 190,
+    "pct": 2.4087221095334685,
+    "desc": "190 of 7888 (2.41%)",
+    "example": "https://www.arweave.net/A70C-aEWiv5WWUlw7-0FIjIxWBmEIEcvFpFPK4Vtyoc?ext=png"
+  },
+  {
+    "traitName": "Pet",
+    "traitValue": "Pink Bunny Plush",
+    "frequency": 192,
+    "pct": 2.434077079107505,
+    "desc": "192 of 7888 (2.43%)",
+    "example": "https://www.arweave.net/qblIYev9Cv9NHJYQ5tG-RU0Zp8pWEp5to6_U3sop9RM?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Purple Pajama",
+    "frequency": 196,
+    "pct": 2.4847870182555782,
+    "desc": "196 of 7888 (2.48%)",
+    "example": "https://www.arweave.net/QHoKw4fD6TEtPRN8KBotb20Z8DDgx1mK3KOVCa40yOw?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Blue Suspenders",
+    "frequency": 199,
+    "pct": 2.5228194726166326,
+    "desc": "199 of 7888 (2.52%)",
+    "example": "https://www.arweave.net/WKl__XnFqQUU4EEarJMXL4WmOwbPIrXumxqeyLxO8VE?ext=png"
+  },
+  {
+    "traitName": "Ears",
+    "traitValue": "Chewed Zombie",
+    "frequency": 200,
+    "pct": 2.535496957403651,
+    "desc": "200 of 7888 (2.54%)",
+    "example": "https://www.arweave.net/eQIlG7PthH09pa5-qyoYgVDffLGK1JXhFj83bb_Pxmo?ext=png"
+  },
+  {
+    "traitName": "Wings",
+    "traitValue": "Angel",
+    "frequency": 201,
+    "pct": 2.5481744421906694,
+    "desc": "201 of 7888 (2.55%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Brown Suspenders",
+    "frequency": 201,
+    "pct": 2.5481744421906694,
+    "desc": "201 of 7888 (2.55%)",
+    "example": "https://www.arweave.net/GTRcqKGiEUmzzOACCPRawDsMVA2HAS4sDtCMZRvmra8?ext=png"
+  },
+  {
+    "traitName": "Head Accesory",
+    "traitValue": "Bear",
+    "frequency": 202,
+    "pct": 2.560851926977688,
+    "desc": "202 of 7888 (2.56%)",
+    "example": "https://www.arweave.net/E3R-FSt-Gq9P-BW0e4n6nHLxiLMFbLTI5dHJI8gI_2I?ext=png"
+  },
+  {
+    "traitName": "Hair Updo",
+    "traitValue": "Blonde Twin Buns",
+    "frequency": 206,
+    "pct": 2.611561866125761,
+    "desc": "206 of 7888 (2.61%)",
+    "example": "https://www.arweave.net/uSoZLJRVE5DQgnVpYH-MSWHVUs50qG6hDf4fY4Xy2G4?ext=png"
+  },
+  {
+    "traitName": "Pet",
+    "traitValue": "Bear",
+    "frequency": 207,
+    "pct": 2.6242393509127786,
+    "desc": "207 of 7888 (2.62%)",
+    "example": "https://www.arweave.net/EpmaRL8IDd1daOdJmm3581VsrysBmVtBfE6SKjFxFg0?ext=png"
+  },
+  {
+    "traitName": "Wings",
+    "traitValue": "Raven",
+    "frequency": 208,
+    "pct": 2.636916835699797,
+    "desc": "208 of 7888 (2.64%)",
+    "example": "https://www.arweave.net/5dB8kor-NUsjras_xx5BfZhl7hhfQUYtp9jhcEai6Fw?ext=png"
+  },
+  {
+    "traitName": "Back Hair",
+    "traitValue": "Messy Blonde",
+    "frequency": 209,
+    "pct": 2.6495943204868153,
+    "desc": "209 of 7888 (2.65%)",
+    "example": "https://www.arweave.net/EpmaRL8IDd1daOdJmm3581VsrysBmVtBfE6SKjFxFg0?ext=png"
+  },
+  {
+    "traitName": "Shirt",
+    "traitValue": "Beige Patterned Cardigan",
+    "frequency": 209,
+    "pct": 2.6495943204868153,
+    "desc": "209 of 7888 (2.65%)",
+    "example": "https://www.arweave.net/u8ItehtZyut6Lb3D-ZmxZzO8FgtISFe5Fmx3TZnKzmk?ext=png"
+  },
+  {
+    "traitName": "Head Accesory",
+    "traitValue": "Fairy",
+    "frequency": 210,
+    "pct": 2.662271805273834,
+    "desc": "210 of 7888 (2.66%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Peach Kimono",
+    "frequency": 212,
+    "pct": 2.68762677484787,
+    "desc": "212 of 7888 (2.69%)",
+    "example": "https://www.arweave.net/u-1f6Te5U7HMGEqxEjAB4HomKUuq2Se2wXZTSKX82dE?ext=png"
+  },
+  {
+    "traitName": "Lower Neck",
+    "traitValue": "Green Thick Ribbon",
+    "frequency": 212,
+    "pct": 2.68762677484787,
+    "desc": "212 of 7888 (2.69%)",
+    "example": "https://www.arweave.net/f4ghjafqH2PkZw-bhED_kVR-TnMpNMFQg7BaTRUUMTo?ext=png"
+  },
+  {
+    "traitName": "Back Hair",
+    "traitValue": "Wavy Dark Blonde",
+    "frequency": 213,
+    "pct": 2.7003042596348883,
+    "desc": "213 of 7888 (2.70%)",
+    "example": "https://www.arweave.net/uerMKh5HhZFa1Hwpsfpu9uTNOvl9fzrOp7dqzMsSqgM?ext=png"
+  },
+  {
+    "traitName": "Head Accesory",
+    "traitValue": "Antlers",
+    "frequency": 219,
+    "pct": 2.776369168356998,
+    "desc": "219 of 7888 (2.78%)",
+    "example": "https://www.arweave.net/b7zoAVUzHQGI6SnmeLdcvGmHepnNA60U1bzaZ0LXfWY?ext=png"
+  },
+  {
+    "traitName": "Upper Neck",
+    "traitValue": "Lock Choker",
+    "frequency": 220,
+    "pct": 2.789046653144016,
+    "desc": "220 of 7888 (2.79%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Hat",
+    "traitValue": "Fireman",
+    "frequency": 224,
+    "pct": 2.839756592292089,
+    "desc": "224 of 7888 (2.84%)",
+    "example": "https://www.arweave.net/FB7g1YNhIi4jP4_TmorenwqHZ5qwUtwPgzeRuq0syZs?ext=png"
+  },
+  {
+    "traitName": "Upper Neck",
+    "traitValue": "Stitches",
+    "frequency": 225,
+    "pct": 2.8524340770791077,
+    "desc": "225 of 7888 (2.85%)",
+    "example": "https://www.arweave.net/EhDGWIjHXamVolgX9hUn3mrhQM-VdGNXmF0MH4FbcyA?ext=png"
+  },
+  {
+    "traitName": "Hat",
+    "traitValue": "Chef",
+    "frequency": 228,
+    "pct": 2.890466531440162,
+    "desc": "228 of 7888 (2.89%)",
+    "example": "https://www.arweave.net/qblIYev9Cv9NHJYQ5tG-RU0Zp8pWEp5to6_U3sop9RM?ext=png"
+  },
+  {
+    "traitName": "Undershirt",
+    "traitValue": "Green Smocked Dress",
+    "frequency": 229,
+    "pct": 2.9031440162271807,
+    "desc": "229 of 7888 (2.90%)",
+    "example": "https://www.arweave.net/_P3bQ7hqp8-Tpk4VeldbhAO_KsooOh4lhvnogAs36s4?ext=png"
+  },
+  {
+    "traitName": "Eyes",
+    "traitValue": "Button",
+    "frequency": 231,
+    "pct": 2.928498985801217,
+    "desc": "231 of 7888 (2.93%)",
+    "example": "https://www.arweave.net/SxKLVw_VafsbB2WbkIGMDMsLoOrI9XBBOVhwqPexz4Q?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Drowsy",
+    "frequency": 231,
+    "pct": 2.928498985801217,
+    "desc": "231 of 7888 (2.93%)",
+    "example": "https://www.arweave.net/CN8swUqM9ztsmhqUjd2PlZK2zjE59y3iXJUm98jpPck?ext=png"
+  },
+  {
+    "traitName": "Eyebrows",
+    "traitValue": "Devil",
+    "frequency": 232,
+    "pct": 2.941176470588235,
+    "desc": "232 of 7888 (2.94%)",
+    "example": "https://www.arweave.net/E3GGa00FJxEXXo8eNTlI3LXfrCq9PbFDZ6a6QZHZeMg?ext=png"
+  },
+  {
+    "traitName": "Sideburns",
+    "traitValue": "Brunette",
+    "frequency": 233,
+    "pct": 2.9538539553752536,
+    "desc": "233 of 7888 (2.95%)",
+    "example": "https://www.arweave.net/hEpcYKW4y31a4DQYQX9jHp_GCYn-mHP5cTxxNUmQIDU?ext=png"
+  },
+  {
+    "traitName": "Hair Updo",
+    "traitValue": "Ginger Ponytail",
+    "frequency": 233,
+    "pct": 2.9538539553752536,
+    "desc": "233 of 7888 (2.95%)",
+    "example": "https://www.arweave.net/Kt8MBuP4d6IsEOxOn4c7lH3VijPXV6FrbpXhqxWT6z4?ext=png"
+  },
+  {
+    "traitName": "Effect",
+    "traitValue": "Rain",
+    "frequency": 234,
+    "pct": 2.9665314401622718,
+    "desc": "234 of 7888 (2.97%)",
+    "example": "https://www.arweave.net/1kc-v7lUiWV52u9eHijIbhJOW7MiO1XPOACObZK5Nhs?ext=png"
+  },
+  {
+    "traitName": "Overhead",
+    "traitValue": "Roses",
+    "frequency": 235,
+    "pct": 2.97920892494929,
+    "desc": "235 of 7888 (2.98%)",
+    "example": "https://www.arweave.net/X-XY0qSUr6S9ZBJdM8JqOaU5plkrGoE66behQ8H8ZhI?ext=png"
+  },
+  {
+    "traitName": "Undershirt",
+    "traitValue": "Blue Smocked Dress",
+    "frequency": 236,
+    "pct": 2.9918864097363085,
+    "desc": "236 of 7888 (2.99%)",
+    "example": "https://www.arweave.net/61fOsSTGu0nFl-IFA9HKeBronNR5wdBvzKRtS_rPtYE?ext=png"
+  },
+  {
+    "traitName": "Upper Neck",
+    "traitValue": "Bell Choker",
+    "frequency": 238,
+    "pct": 3.0172413793103448,
+    "desc": "238 of 7888 (3.02%)",
+    "example": "https://www.arweave.net/2KjPP7zjwCzeqTOWQ9hpKA6NXf10McsU7egb2cmQ_E0?ext=png"
+  },
+  {
+    "traitName": "Hair Updo",
+    "traitValue": "Purple Ponytails",
+    "frequency": 239,
+    "pct": 3.029918864097363,
+    "desc": "239 of 7888 (3.03%)",
+    "example": "https://www.arweave.net/5dB8kor-NUsjras_xx5BfZhl7hhfQUYtp9jhcEai6Fw?ext=png"
+  },
+  {
+    "traitName": "Birth Marks",
+    "traitValue": "Cheek Hearts",
+    "frequency": 239,
+    "pct": 3.029918864097363,
+    "desc": "239 of 7888 (3.03%)",
+    "example": "https://www.arweave.net/TBHN4svRiskAglRb3aagn1-Wpkdle3A8Q3prZT4zP4k?ext=png"
+  },
+  {
+    "traitName": "Facial Accessory",
+    "traitValue": "Nose Bandaid",
+    "frequency": 242,
+    "pct": 3.067951318458418,
+    "desc": "242 of 7888 (3.07%)",
+    "example": "https://www.arweave.net/u40sMOyEOsrlPxHMhOu9lzSe0lMew08OcK4yU1_zdwg?ext=png"
+  },
+  {
+    "traitName": "Upper Neck",
+    "traitValue": "Ring Choker",
+    "frequency": 244,
+    "pct": 3.0933062880324544,
+    "desc": "244 of 7888 (3.09%)",
+    "example": "https://www.arweave.net/bUD-fBBswL4Rvc1Qnz3hehkAU88RbJAQH8La8CXth4o?ext=png"
+  },
+  {
+    "traitName": "Facial Expression",
+    "traitValue": "Cartoon Blush",
+    "frequency": 246,
+    "pct": 3.118661257606491,
+    "desc": "246 of 7888 (3.12%)",
+    "example": "https://www.arweave.net/A3UD3RLPaJKjRa6Vzzt1ViLBG5wjY6ZPa1FGPPRe2UI?ext=png"
+  },
+  {
+    "traitName": "Lower Neck",
+    "traitValue": "Blue Thick Ribbon",
+    "frequency": 248,
+    "pct": 3.1440162271805274,
+    "desc": "248 of 7888 (3.14%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Skin",
+    "traitValue": "Alien",
+    "frequency": 249,
+    "pct": 3.156693711967545,
+    "desc": "249 of 7888 (3.16%)",
+    "example": "https://www.arweave.net/6dkM-Uwp4BCVc7tqLKpu0T4XkWd-7oBSYAnkqSC6_sc?ext=png"
+  },
+  {
+    "traitName": "Back Hair",
+    "traitValue": "Braided Dirty Ginger",
+    "frequency": 249,
+    "pct": 3.156693711967545,
+    "desc": "249 of 7888 (3.16%)",
+    "example": "https://www.arweave.net/Xwglbt2NE0S-T_pHn_NIqsp1YmsnYc-Gx3wUB9lCDwc?ext=png"
+  },
+  {
+    "traitName": "Sideburns",
+    "traitValue": "Light Brown",
+    "frequency": 253,
+    "pct": 3.2074036511156185,
+    "desc": "253 of 7888 (3.21%)",
+    "example": "https://www.arweave.net/61fOsSTGu0nFl-IFA9HKeBronNR5wdBvzKRtS_rPtYE?ext=png"
+  },
+  {
+    "traitName": "Shirt",
+    "traitValue": "Green Sleeveless Cardigan",
+    "frequency": 257,
+    "pct": 3.2581135902636915,
+    "desc": "257 of 7888 (3.26%)",
+    "example": "https://www.arweave.net/-e7bcpR0wtG184K7QwxnW_bteOxkdfoCyVOQpIYfEN4?ext=png"
+  },
+  {
+    "traitName": "Lower Neck",
+    "traitValue": "Red Thick Ribbon",
+    "frequency": 263,
+    "pct": 3.3341784989858017,
+    "desc": "263 of 7888 (3.33%)",
+    "example": "https://www.arweave.net/JG0j9li-cau9BcbPIWLLYZUyWdT4KdpjEbs1UoPRgv0?ext=png"
+  },
+  {
+    "traitName": "Hair Updo",
+    "traitValue": "Pink Bun",
+    "frequency": 263,
+    "pct": 3.3341784989858017,
+    "desc": "263 of 7888 (3.33%)",
+    "example": "https://www.arweave.net/12NXiHNs1MgwEppjFa-2-32797KSh57VnskrNmabBEg?ext=png"
+  },
+  {
+    "traitName": "Wings",
+    "traitValue": "Pixie",
+    "frequency": 269,
+    "pct": 3.410243407707911,
+    "desc": "269 of 7888 (3.41%)",
+    "example": "https://www.arweave.net/WykKMB88AGhIuDGWNqqVFokF8HQYhmzvtFiGXb2IiY0?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Track Jacket",
+    "frequency": 270,
+    "pct": 3.4229208924949286,
+    "desc": "270 of 7888 (3.42%)",
+    "example": "https://www.arweave.net/hfBvdHYzWCVC3ox016jmUJUAhXHYsCJ2lZ8im6WUKPc?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Raincoat",
+    "frequency": 271,
+    "pct": 3.4355983772819476,
+    "desc": "271 of 7888 (3.44%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Shirt",
+    "traitValue": "Brown Sleeveless Cardigan",
+    "frequency": 272,
+    "pct": 3.4482758620689653,
+    "desc": "272 of 7888 (3.45%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Black Turtleneck",
+    "frequency": 274,
+    "pct": 3.473630831643002,
+    "desc": "274 of 7888 (3.47%)",
+    "example": "https://www.arweave.net/DVTzT085yEe-HpJtdQcC-FVCdP6xKBFxXVUqmSMOPuc?ext=png"
+  },
+  {
+    "traitName": "Hair Strand",
+    "traitValue": "Yellow",
+    "frequency": 285,
+    "pct": 3.613083164300203,
+    "desc": "285 of 7888 (3.61%)",
+    "example": "https://www.arweave.net/Nm7yW2WioYr6VVsYVVtvEr6nt5BQ3MGUxJyhcxqRBwc?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Fanged",
+    "frequency": 286,
+    "pct": 3.625760649087221,
+    "desc": "286 of 7888 (3.63%)",
+    "example": "https://www.arweave.net/hfBvdHYzWCVC3ox016jmUJUAhXHYsCJ2lZ8im6WUKPc?ext=png"
+  },
+  {
+    "traitName": "Shirt",
+    "traitValue": "Magenta Jersey",
+    "frequency": 286,
+    "pct": 3.625760649087221,
+    "desc": "286 of 7888 (3.63%)",
+    "example": "https://www.arweave.net/H8dpwKnlipiQwNUUbwUtpliYcktSwJ95mM7XS-DR0BM?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Green Fade",
+    "frequency": 288,
+    "pct": 3.6511156186612577,
+    "desc": "288 of 7888 (3.65%)",
+    "example": "https://www.arweave.net/u-1f6Te5U7HMGEqxEjAB4HomKUuq2Se2wXZTSKX82dE?ext=png"
+  },
+  {
+    "traitName": "Sideburns",
+    "traitValue": "Light Purple",
+    "frequency": 291,
+    "pct": 3.689148073022312,
+    "desc": "291 of 7888 (3.69%)",
+    "example": "https://www.arweave.net/EhDGWIjHXamVolgX9hUn3mrhQM-VdGNXmF0MH4FbcyA?ext=png"
+  },
+  {
+    "traitName": "Shirt",
+    "traitValue": "Blue Jersey",
+    "frequency": 292,
+    "pct": 3.701825557809331,
+    "desc": "292 of 7888 (3.70%)",
+    "example": "https://www.arweave.net/DxsAGY8KrryGD-lLIg3oAzQcHgbgD8CSj1R18aIwy-U?ext=png"
+  },
+  {
+    "traitName": "Ears",
+    "traitValue": "Angel Wings",
+    "frequency": 294,
+    "pct": 3.727180527383367,
+    "desc": "294 of 7888 (3.73%)",
+    "example": "https://www.arweave.net/A70C-aEWiv5WWUlw7-0FIjIxWBmEIEcvFpFPK4Vtyoc?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Beige Turtleneck",
+    "frequency": 297,
+    "pct": 3.7652129817444218,
+    "desc": "297 of 7888 (3.77%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Skin Mark",
+    "traitValue": "Cheek Rip",
+    "frequency": 298,
+    "pct": 3.7778904665314403,
+    "desc": "298 of 7888 (3.78%)",
+    "example": "https://www.arweave.net/Tr44_juXe0BSDD_o7FUqwjEi6db-uu2-mqgQIRhjSWM?ext=png"
+  },
+  {
+    "traitName": "Hair Updo",
+    "traitValue": "Red Bun",
+    "frequency": 300,
+    "pct": 3.803245436105477,
+    "desc": "300 of 7888 (3.80%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Facial Expression",
+    "traitValue": "Dot Blush",
+    "frequency": 300,
+    "pct": 3.803245436105477,
+    "desc": "300 of 7888 (3.80%)",
+    "example": "https://www.arweave.net/hfBvdHYzWCVC3ox016jmUJUAhXHYsCJ2lZ8im6WUKPc?ext=png"
+  },
+  {
+    "traitName": "Back Hair",
+    "traitValue": "Crazy Green",
+    "frequency": 301,
+    "pct": 3.815922920892495,
+    "desc": "301 of 7888 (3.82%)",
+    "example": "https://www.arweave.net/A70C-aEWiv5WWUlw7-0FIjIxWBmEIEcvFpFPK4Vtyoc?ext=png"
+  },
+  {
+    "traitName": "Effect",
+    "traitValue": "Orbs",
+    "frequency": 304,
+    "pct": 3.8539553752535496,
+    "desc": "304 of 7888 (3.85%)",
+    "example": "https://www.arweave.net/e2tAfcFLnMvpejsYSy_aG_SbPYFDNdvxQwbXcH5KJwM?ext=png"
+  },
+  {
+    "traitName": "Hair Accessory",
+    "traitValue": "Black Leaves",
+    "frequency": 306,
+    "pct": 3.8793103448275863,
+    "desc": "306 of 7888 (3.88%)",
+    "example": "https://www.arweave.net/uerMKh5HhZFa1Hwpsfpu9uTNOvl9fzrOp7dqzMsSqgM?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Purple Fade",
+    "frequency": 308,
+    "pct": 3.904665314401623,
+    "desc": "308 of 7888 (3.90%)",
+    "example": "https://www.arweave.net/m-U_CvczoFwq4opdURAR8jYffrH244fg2KLrDLLY-SA?ext=png"
+  },
+  {
+    "traitName": "Hat",
+    "traitValue": "Star Ribbon",
+    "frequency": 309,
+    "pct": 3.917342799188641,
+    "desc": "309 of 7888 (3.92%)",
+    "example": "https://www.arweave.net/to_uzB2SUn6PrCVWGz4e7zMb1Z4lC-16EdSHHqMo4Cs?ext=png"
+  },
+  {
+    "traitName": "Upper Neck",
+    "traitValue": "Bandages",
+    "frequency": 309,
+    "pct": 3.917342799188641,
+    "desc": "309 of 7888 (3.92%)",
+    "example": "https://www.arweave.net/BAEtRMmBD2RSLrOpXAlDN6v1M2T7wFYg7ql7d0GGMb0?ext=png"
+  },
+  {
+    "traitName": "Facial Accessory",
+    "traitValue": "Bandaids",
+    "frequency": 310,
+    "pct": 3.930020283975659,
+    "desc": "310 of 7888 (3.93%)",
+    "example": "https://www.arweave.net/C80SNhTBkpFimkppNlw4lnkwl00c83NGFZa_bxqS8HI?ext=png"
+  },
+  {
+    "traitName": "Eyes",
+    "traitValue": "Crazy",
+    "frequency": 311,
+    "pct": 3.942697768762678,
+    "desc": "311 of 7888 (3.94%)",
+    "example": "https://www.arweave.net/bUD-fBBswL4Rvc1Qnz3hehkAU88RbJAQH8La8CXth4o?ext=png"
+  },
+  {
+    "traitName": "Overhead",
+    "traitValue": "Halo",
+    "frequency": 311,
+    "pct": 3.942697768762678,
+    "desc": "311 of 7888 (3.94%)",
+    "example": "https://www.arweave.net/61fOsSTGu0nFl-IFA9HKeBronNR5wdBvzKRtS_rPtYE?ext=png"
+  },
+  {
+    "traitName": "Skin Mark",
+    "traitValue": "Whisker Paint",
+    "frequency": 312,
+    "pct": 3.9553752535496955,
+    "desc": "312 of 7888 (3.96%)",
+    "example": "https://www.arweave.net/GTRcqKGiEUmzzOACCPRawDsMVA2HAS4sDtCMZRvmra8?ext=png"
+  },
+  {
+    "traitName": "Eye Wear",
+    "traitValue": "Bandage Patch",
+    "frequency": 313,
+    "pct": 3.9680527383367137,
+    "desc": "313 of 7888 (3.97%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Eyes",
+    "traitValue": "Scary",
+    "frequency": 313,
+    "pct": 3.9680527383367137,
+    "desc": "313 of 7888 (3.97%)",
+    "example": "https://www.arweave.net/KZn5Oe3S85FhocGnXXIOSWIqRqlVPA7Dq1ntcDr3-ek?ext=png"
+  },
+  {
+    "traitName": "Hair Updo",
+    "traitValue": "Green Ponytail",
+    "frequency": 314,
+    "pct": 3.9807302231237323,
+    "desc": "314 of 7888 (3.98%)",
+    "example": "https://www.arweave.net/A3UD3RLPaJKjRa6Vzzt1ViLBG5wjY6ZPa1FGPPRe2UI?ext=png"
+  },
+  {
+    "traitName": "Effect",
+    "traitValue": "Cherry Blossoms",
+    "frequency": 315,
+    "pct": 3.9934077079107504,
+    "desc": "315 of 7888 (3.99%)",
+    "example": "https://www.arweave.net/WykKMB88AGhIuDGWNqqVFokF8HQYhmzvtFiGXb2IiY0?ext=png"
+  },
+  {
+    "traitName": "Ears",
+    "traitValue": "Long Zombie",
+    "frequency": 316,
+    "pct": 4.006085192697769,
+    "desc": "316 of 7888 (4.01%)",
+    "example": "https://www.arweave.net/u-1f6Te5U7HMGEqxEjAB4HomKUuq2Se2wXZTSKX82dE?ext=png"
+  },
+  {
+    "traitName": "Undershirt",
+    "traitValue": "Crossneck",
+    "frequency": 316,
+    "pct": 4.006085192697769,
+    "desc": "316 of 7888 (4.01%)",
+    "example": "https://www.arweave.net/uSoZLJRVE5DQgnVpYH-MSWHVUs50qG6hDf4fY4Xy2G4?ext=png"
+  },
+  {
+    "traitName": "Head Accesory",
+    "traitValue": "Fox",
+    "frequency": 317,
+    "pct": 4.018762677484787,
+    "desc": "317 of 7888 (4.02%)",
+    "example": "https://www.arweave.net/A3UD3RLPaJKjRa6Vzzt1ViLBG5wjY6ZPa1FGPPRe2UI?ext=png"
+  },
+  {
+    "traitName": "Back Hair",
+    "traitValue": "Wavy Brown",
+    "frequency": 317,
+    "pct": 4.018762677484787,
+    "desc": "317 of 7888 (4.02%)",
+    "example": "https://www.arweave.net/QHoKw4fD6TEtPRN8KBotb20Z8DDgx1mK3KOVCa40yOw?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Smiley Tongue",
+    "frequency": 317,
+    "pct": 4.018762677484787,
+    "desc": "317 of 7888 (4.02%)",
+    "example": "https://www.arweave.net/OaZ42EJGxsUd93SIu4JHpKZ87nKtPAKoUfGS65klQ3c?ext=png"
+  },
+  {
+    "traitName": "Facial Accessory",
+    "traitValue": "Gold Dangle",
+    "frequency": 319,
+    "pct": 4.044117647058823,
+    "desc": "319 of 7888 (4.04%)",
+    "example": "https://www.arweave.net/A3UD3RLPaJKjRa6Vzzt1ViLBG5wjY6ZPa1FGPPRe2UI?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Orange Fade",
+    "frequency": 321,
+    "pct": 4.06947261663286,
+    "desc": "321 of 7888 (4.07%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Skin Mark",
+    "traitValue": "Cheek Scar",
+    "frequency": 324,
+    "pct": 4.107505070993915,
+    "desc": "324 of 7888 (4.11%)",
+    "example": "https://www.arweave.net/_P3bQ7hqp8-Tpk4VeldbhAO_KsooOh4lhvnogAs36s4?ext=png"
+  },
+  {
+    "traitName": "Lower Neck",
+    "traitValue": "Pink Ribbon",
+    "frequency": 325,
+    "pct": 4.120182555780933,
+    "desc": "325 of 7888 (4.12%)",
+    "example": "https://www.arweave.net/GH2RBJfFF5bl-fF_notj0S-ml4sVLeEv3KYLGsUiFxg?ext=png"
+  },
+  {
+    "traitName": "Effect",
+    "traitValue": "Feathers",
+    "frequency": 326,
+    "pct": 4.132860040567951,
+    "desc": "326 of 7888 (4.13%)",
+    "example": "https://www.arweave.net/to_uzB2SUn6PrCVWGz4e7zMb1Z4lC-16EdSHHqMo4Cs?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Scared",
+    "frequency": 328,
+    "pct": 4.158215010141988,
+    "desc": "328 of 7888 (4.16%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Sideburns",
+    "traitValue": "Dark Purple",
+    "frequency": 329,
+    "pct": 4.170892494929006,
+    "desc": "329 of 7888 (4.17%)",
+    "example": "https://www.arweave.net/DVTzT085yEe-HpJtdQcC-FVCdP6xKBFxXVUqmSMOPuc?ext=png"
+  },
+  {
+    "traitName": "Facial Accessory",
+    "traitValue": "Silver Dangle",
+    "frequency": 330,
+    "pct": 4.183569979716024,
+    "desc": "330 of 7888 (4.18%)",
+    "example": "https://www.arweave.net/hfBvdHYzWCVC3ox016jmUJUAhXHYsCJ2lZ8im6WUKPc?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Tasty",
+    "frequency": 331,
+    "pct": 4.196247464503043,
+    "desc": "331 of 7888 (4.20%)",
+    "example": "https://www.arweave.net/-e7bcpR0wtG184K7QwxnW_bteOxkdfoCyVOQpIYfEN4?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Pink Fade",
+    "frequency": 333,
+    "pct": 4.221602434077079,
+    "desc": "333 of 7888 (4.22%)",
+    "example": "https://www.arweave.net/to_uzB2SUn6PrCVWGz4e7zMb1Z4lC-16EdSHHqMo4Cs?ext=png"
+  },
+  {
+    "traitName": "Sideburns",
+    "traitValue": "Green",
+    "frequency": 334,
+    "pct": 4.234279918864097,
+    "desc": "334 of 7888 (4.23%)",
+    "example": "https://www.arweave.net/abuIO1LrVu9g9_VgqujgwmG_ryzmJwanFnVS5m5nsIA?ext=png"
+  },
+  {
+    "traitName": "Lower Neck",
+    "traitValue": "Gold Ribbon",
+    "frequency": 335,
+    "pct": 4.246957403651116,
+    "desc": "335 of 7888 (4.25%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Eye Wear",
+    "traitValue": "Blue Techglass",
+    "frequency": 335,
+    "pct": 4.246957403651116,
+    "desc": "335 of 7888 (4.25%)",
+    "example": "https://www.arweave.net/DVTzT085yEe-HpJtdQcC-FVCdP6xKBFxXVUqmSMOPuc?ext=png"
+  },
+  {
+    "traitName": "Sideburns",
+    "traitValue": "Dirty Blonde",
+    "frequency": 337,
+    "pct": 4.272312373225152,
+    "desc": "337 of 7888 (4.27%)",
+    "example": "https://www.arweave.net/f4ghjafqH2PkZw-bhED_kVR-TnMpNMFQg7BaTRUUMTo?ext=png"
+  },
+  {
+    "traitName": "Lower Neck",
+    "traitValue": "Blue Ribbon",
+    "frequency": 338,
+    "pct": 4.28498985801217,
+    "desc": "338 of 7888 (4.28%)",
+    "example": "https://www.arweave.net/uP3fs7qjH1fhdsqIjtEO9iTRjpfw8nAgZ_gJoG3OAvw?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Blue Fade",
+    "frequency": 343,
+    "pct": 4.348377281947262,
+    "desc": "343 of 7888 (4.35%)",
+    "example": "https://www.arweave.net/Tr44_juXe0BSDD_o7FUqwjEi6db-uu2-mqgQIRhjSWM?ext=png"
+  },
+  {
+    "traitName": "Eyes",
+    "traitValue": "Kawaii",
+    "frequency": 344,
+    "pct": 4.36105476673428,
+    "desc": "344 of 7888 (4.36%)",
+    "example": "https://www.arweave.net/b7zoAVUzHQGI6SnmeLdcvGmHepnNA60U1bzaZ0LXfWY?ext=png"
+  },
+  {
+    "traitName": "Hair Accessory",
+    "traitValue": "Leaves",
+    "frequency": 355,
+    "pct": 4.500507099391481,
+    "desc": "355 of 7888 (4.50%)",
+    "example": "https://www.arweave.net/SxKLVw_VafsbB2WbkIGMDMsLoOrI9XBBOVhwqPexz4Q?ext=png"
+  },
+  {
+    "traitName": "Eye Wear",
+    "traitValue": "Green Techglass",
+    "frequency": 363,
+    "pct": 4.601926977687627,
+    "desc": "363 of 7888 (4.60%)",
+    "example": "https://www.arweave.net/EhDGWIjHXamVolgX9hUn3mrhQM-VdGNXmF0MH4FbcyA?ext=png"
+  },
+  {
+    "traitName": "Nose",
+    "traitValue": "Double",
+    "frequency": 364,
+    "pct": 4.614604462474645,
+    "desc": "364 of 7888 (4.61%)",
+    "example": "https://www.arweave.net/f4ghjafqH2PkZw-bhED_kVR-TnMpNMFQg7BaTRUUMTo?ext=png"
+  },
+  {
+    "traitName": "Back Hair",
+    "traitValue": "Short Green",
+    "frequency": 364,
+    "pct": 4.614604462474645,
+    "desc": "364 of 7888 (4.61%)",
+    "example": "https://www.arweave.net/rzsOs-n2f0rMUn6EnN7-T5Ht6bwusPHjQTbbtroQxA0?ext=png"
+  },
+  {
+    "traitName": "Head Accesory",
+    "traitValue": "Devil",
+    "frequency": 370,
+    "pct": 4.690669371196755,
+    "desc": "370 of 7888 (4.69%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Sideburns",
+    "traitValue": "Purple Fade",
+    "frequency": 371,
+    "pct": 4.703346855983773,
+    "desc": "371 of 7888 (4.70%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Skin Mark",
+    "traitValue": "Triangle Paint",
+    "frequency": 372,
+    "pct": 4.716024340770791,
+    "desc": "372 of 7888 (4.72%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Eyes",
+    "traitValue": "Alien",
+    "frequency": 376,
+    "pct": 4.766734279918864,
+    "desc": "376 of 7888 (4.77%)",
+    "example": "https://www.arweave.net/-e7bcpR0wtG184K7QwxnW_bteOxkdfoCyVOQpIYfEN4?ext=png"
+  },
+  {
+    "traitName": "Front Hair",
+    "traitValue": "Blonde Braided",
+    "frequency": 379,
+    "pct": 4.8047667342799185,
+    "desc": "379 of 7888 (4.80%)",
+    "example": "https://www.arweave.net/Oq2x8MIga7janFYgtFVgaWHnfiewKZUUCmQqV1WnUMA?ext=png"
+  },
+  {
+    "traitName": "Sideburns",
+    "traitValue": "Blue",
+    "frequency": 380,
+    "pct": 4.817444219066937,
+    "desc": "380 of 7888 (4.82%)",
+    "example": "https://www.arweave.net/GH2RBJfFF5bl-fF_notj0S-ml4sVLeEv3KYLGsUiFxg?ext=png"
+  },
+  {
+    "traitName": "Skin Mark",
+    "traitValue": "Scratches",
+    "frequency": 382,
+    "pct": 4.842799188640973,
+    "desc": "382 of 7888 (4.84%)",
+    "example": "https://www.arweave.net/rzsOs-n2f0rMUn6EnN7-T5Ht6bwusPHjQTbbtroQxA0?ext=png"
+  },
+  {
+    "traitName": "Eyebrows",
+    "traitValue": "Fancy",
+    "frequency": 386,
+    "pct": 4.893509127789047,
+    "desc": "386 of 7888 (4.89%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Skin Mark",
+    "traitValue": "Nose Scar",
+    "frequency": 386,
+    "pct": 4.893509127789047,
+    "desc": "386 of 7888 (4.89%)",
+    "example": "https://www.arweave.net/5dB8kor-NUsjras_xx5BfZhl7hhfQUYtp9jhcEai6Fw?ext=png"
+  },
+  {
+    "traitName": "Sideburns",
+    "traitValue": "Black Purple",
+    "frequency": 393,
+    "pct": 4.982251521298174,
+    "desc": "393 of 7888 (4.98%)",
+    "example": "https://www.arweave.net/-e7bcpR0wtG184K7QwxnW_bteOxkdfoCyVOQpIYfEN4?ext=png"
+  },
+  {
+    "traitName": "Undershirt",
+    "traitValue": "Black Polo",
+    "frequency": 394,
+    "pct": 4.994929006085193,
+    "desc": "394 of 7888 (4.99%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Nose",
+    "traitValue": "Red Pig",
+    "frequency": 397,
+    "pct": 5.032961460446248,
+    "desc": "397 of 7888 (5.03%)",
+    "example": "https://www.arweave.net/WykKMB88AGhIuDGWNqqVFokF8HQYhmzvtFiGXb2IiY0?ext=png"
+  },
+  {
+    "traitName": "Front Hair",
+    "traitValue": "White",
+    "frequency": 398,
+    "pct": 5.045638945233265,
+    "desc": "398 of 7888 (5.05%)",
+    "example": "https://www.arweave.net/DxsAGY8KrryGD-lLIg3oAzQcHgbgD8CSj1R18aIwy-U?ext=png"
+  },
+  {
+    "traitName": "Hair Updo",
+    "traitValue": "Pink Fade Twintails",
+    "frequency": 400,
+    "pct": 5.070993914807302,
+    "desc": "400 of 7888 (5.07%)",
+    "example": "https://www.arweave.net/_P3bQ7hqp8-Tpk4VeldbhAO_KsooOh4lhvnogAs36s4?ext=png"
+  },
+  {
+    "traitName": "Skin",
+    "traitValue": "Zombie",
+    "frequency": 401,
+    "pct": 5.08367139959432,
+    "desc": "401 of 7888 (5.08%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Undershirt",
+    "traitValue": "Blue Polo",
+    "frequency": 403,
+    "pct": 5.109026369168356,
+    "desc": "403 of 7888 (5.11%)",
+    "example": "https://www.arweave.net/qblIYev9Cv9NHJYQ5tG-RU0Zp8pWEp5to6_U3sop9RM?ext=png"
+  },
+  {
+    "traitName": "Hat",
+    "traitValue": "Multicolor Ribbon",
+    "frequency": 406,
+    "pct": 5.147058823529411,
+    "desc": "406 of 7888 (5.15%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Back Hair",
+    "traitValue": "Spiky Purple",
+    "frequency": 408,
+    "pct": 5.172413793103448,
+    "desc": "408 of 7888 (5.17%)",
+    "example": "https://www.arweave.net/H8dpwKnlipiQwNUUbwUtpliYcktSwJ95mM7XS-DR0BM?ext=png"
+  },
+  {
+    "traitName": "Hair Strand",
+    "traitValue": "Blue",
+    "frequency": 409,
+    "pct": 5.185091277890466,
+    "desc": "409 of 7888 (5.19%)",
+    "example": "https://www.arweave.net/u-1f6Te5U7HMGEqxEjAB4HomKUuq2Se2wXZTSKX82dE?ext=png"
+  },
+  {
+    "traitName": "Eye Wear",
+    "traitValue": "Eyepatch",
+    "frequency": 411,
+    "pct": 5.210446247464503,
+    "desc": "411 of 7888 (5.21%)",
+    "example": "https://www.arweave.net/f4ghjafqH2PkZw-bhED_kVR-TnMpNMFQg7BaTRUUMTo?ext=png"
+  },
+  {
+    "traitName": "Head Accesory",
+    "traitValue": "Bull",
+    "frequency": 432,
+    "pct": 5.476673427991886,
+    "desc": "432 of 7888 (5.48%)",
+    "example": "https://www.arweave.net/DxsAGY8KrryGD-lLIg3oAzQcHgbgD8CSj1R18aIwy-U?ext=png"
+  },
+  {
+    "traitName": "Jacket",
+    "traitValue": "Suit",
+    "frequency": 433,
+    "pct": 5.489350912778904,
+    "desc": "433 of 7888 (5.49%)",
+    "example": "https://www.arweave.net/Mo9Vawel0aMHGzxaEljmpgCN7JJlamsgO6ypac_MtVo?ext=png"
+  },
+  {
+    "traitName": "Facial Expression",
+    "traitValue": "Comic Blush",
+    "frequency": 435,
+    "pct": 5.514705882352941,
+    "desc": "435 of 7888 (5.51%)",
+    "example": "https://www.arweave.net/bUD-fBBswL4Rvc1Qnz3hehkAU88RbJAQH8La8CXth4o?ext=png"
+  },
+  {
+    "traitName": "Upper Neck",
+    "traitValue": "Black Cords",
+    "frequency": 435,
+    "pct": 5.514705882352941,
+    "desc": "435 of 7888 (5.51%)",
+    "example": "https://www.arweave.net/DxsAGY8KrryGD-lLIg3oAzQcHgbgD8CSj1R18aIwy-U?ext=png"
+  },
+  {
+    "traitName": "Hair Accessory",
+    "traitValue": "Pins",
+    "frequency": 439,
+    "pct": 5.5654158215010145,
+    "desc": "439 of 7888 (5.57%)",
+    "example": "https://www.arweave.net/A70C-aEWiv5WWUlw7-0FIjIxWBmEIEcvFpFPK4Vtyoc?ext=png"
+  },
+  {
+    "traitName": "Birth Marks",
+    "traitValue": "Forehead",
+    "frequency": 441,
+    "pct": 5.59077079107505,
+    "desc": "441 of 7888 (5.59%)",
+    "example": "https://www.arweave.net/bUD-fBBswL4Rvc1Qnz3hehkAU88RbJAQH8La8CXth4o?ext=png"
+  },
+  {
+    "traitName": "Skin",
+    "traitValue": "Robot",
+    "frequency": 445,
+    "pct": 5.641480730223123,
+    "desc": "445 of 7888 (5.64%)",
+    "example": "https://www.arweave.net/hEpcYKW4y31a4DQYQX9jHp_GCYn-mHP5cTxxNUmQIDU?ext=png"
+  },
+  {
+    "traitName": "Upper Neck",
+    "traitValue": "Mini Bell Choker",
+    "frequency": 448,
+    "pct": 5.679513184584178,
+    "desc": "448 of 7888 (5.68%)",
+    "example": "https://www.arweave.net/BEs2bsG3BQQ4Lr-jAy7OJmLxCj9IxzDtj8l8YMKUqkE?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Disappointed",
+    "frequency": 450,
+    "pct": 5.704868154158215,
+    "desc": "450 of 7888 (5.70%)",
+    "example": "https://www.arweave.net/A70C-aEWiv5WWUlw7-0FIjIxWBmEIEcvFpFPK4Vtyoc?ext=png"
+  },
+  {
+    "traitName": "Back Hair",
+    "traitValue": "Spiky Deep Purple",
+    "frequency": 462,
+    "pct": 5.856997971602434,
+    "desc": "462 of 7888 (5.86%)",
+    "example": "https://www.arweave.net/A3UD3RLPaJKjRa6Vzzt1ViLBG5wjY6ZPa1FGPPRe2UI?ext=png"
+  },
+  {
+    "traitName": "Upper Neck",
+    "traitValue": "Bronze Cords",
+    "frequency": 463,
+    "pct": 5.869675456389452,
+    "desc": "463 of 7888 (5.87%)",
+    "example": "https://www.arweave.net/EpmaRL8IDd1daOdJmm3581VsrysBmVtBfE6SKjFxFg0?ext=png"
+  },
+  {
+    "traitName": "Birth Marks",
+    "traitValue": "Cheeks",
+    "frequency": 466,
+    "pct": 5.907707910750507,
+    "desc": "466 of 7888 (5.91%)",
+    "example": "https://www.arweave.net/A70C-aEWiv5WWUlw7-0FIjIxWBmEIEcvFpFPK4Vtyoc?ext=png"
+  },
+  {
+    "traitName": "Birth Marks",
+    "traitValue": "Multi Face Left",
+    "frequency": 466,
+    "pct": 5.907707910750507,
+    "desc": "466 of 7888 (5.91%)",
+    "example": "https://www.arweave.net/DxsAGY8KrryGD-lLIg3oAzQcHgbgD8CSj1R18aIwy-U?ext=png"
+  },
+  {
+    "traitName": "Lower Neck",
+    "traitValue": "Black Bandana",
+    "frequency": 469,
+    "pct": 5.945740365111562,
+    "desc": "469 of 7888 (5.95%)",
+    "example": "https://www.arweave.net/bUD-fBBswL4Rvc1Qnz3hehkAU88RbJAQH8La8CXth4o?ext=png"
+  },
+  {
+    "traitName": "Lower Neck",
+    "traitValue": "Purple Bandana",
+    "frequency": 473,
+    "pct": 5.996450304259635,
+    "desc": "473 of 7888 (6.00%)",
+    "example": "https://www.arweave.net/GTRcqKGiEUmzzOACCPRawDsMVA2HAS4sDtCMZRvmra8?ext=png"
+  },
+  {
+    "traitName": "Birth Marks",
+    "traitValue": "Dual Eyes",
+    "frequency": 479,
+    "pct": 6.072515212981744,
+    "desc": "479 of 7888 (6.07%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Sideburns",
+    "traitValue": "Neon",
+    "frequency": 479,
+    "pct": 6.072515212981744,
+    "desc": "479 of 7888 (6.07%)",
+    "example": "https://www.arweave.net/WykKMB88AGhIuDGWNqqVFokF8HQYhmzvtFiGXb2IiY0?ext=png"
+  },
+  {
+    "traitName": "Ears",
+    "traitValue": "Long Albino",
+    "frequency": 484,
+    "pct": 6.135902636916836,
+    "desc": "484 of 7888 (6.14%)",
+    "example": "https://www.arweave.net/uerMKh5HhZFa1Hwpsfpu9uTNOvl9fzrOp7dqzMsSqgM?ext=png"
+  },
+  {
+    "traitName": "Facial Expression",
+    "traitValue": "Darkened",
+    "frequency": 485,
+    "pct": 6.148580121703854,
+    "desc": "485 of 7888 (6.15%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Lower Neck",
+    "traitValue": "Red Bandana",
+    "frequency": 486,
+    "pct": 6.161257606490872,
+    "desc": "486 of 7888 (6.16%)",
+    "example": "https://www.arweave.net/hEpcYKW4y31a4DQYQX9jHp_GCYn-mHP5cTxxNUmQIDU?ext=png"
+  },
+  {
+    "traitName": "Hair Accessory",
+    "traitValue": "Butterflies",
+    "frequency": 488,
+    "pct": 6.186612576064909,
+    "desc": "488 of 7888 (6.19%)",
+    "example": "https://www.arweave.net/KZn5Oe3S85FhocGnXXIOSWIqRqlVPA7Dq1ntcDr3-ek?ext=png"
+  },
+  {
+    "traitName": "Hair Strand",
+    "traitValue": "Leaf",
+    "frequency": 494,
+    "pct": 6.262677484787019,
+    "desc": "494 of 7888 (6.26%)",
+    "example": "https://www.arweave.net/-e7bcpR0wtG184K7QwxnW_bteOxkdfoCyVOQpIYfEN4?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Sad",
+    "frequency": 496,
+    "pct": 6.288032454361055,
+    "desc": "496 of 7888 (6.29%)",
+    "example": "https://www.arweave.net/EpmaRL8IDd1daOdJmm3581VsrysBmVtBfE6SKjFxFg0?ext=png"
+  },
+  {
+    "traitName": "Birth Marks",
+    "traitValue": "Right Eye",
+    "frequency": 500,
+    "pct": 6.338742393509128,
+    "desc": "500 of 7888 (6.34%)",
+    "example": "https://www.arweave.net/Tr44_juXe0BSDD_o7FUqwjEi6db-uu2-mqgQIRhjSWM?ext=png"
+  },
+  {
+    "traitName": "Eye Wear",
+    "traitValue": "Reading Glasses",
+    "frequency": 500,
+    "pct": 6.338742393509128,
+    "desc": "500 of 7888 (6.34%)",
+    "example": "https://www.arweave.net/A70C-aEWiv5WWUlw7-0FIjIxWBmEIEcvFpFPK4Vtyoc?ext=png"
+  },
+  {
+    "traitName": "Ears",
+    "traitValue": "Long White",
+    "frequency": 503,
+    "pct": 6.376774847870183,
+    "desc": "503 of 7888 (6.38%)",
+    "example": "https://www.arweave.net/X-XY0qSUr6S9ZBJdM8JqOaU5plkrGoE66behQ8H8ZhI?ext=png"
+  },
+  {
+    "traitName": "Hair Strand",
+    "traitValue": "Pink",
+    "frequency": 504,
+    "pct": 6.389452332657202,
+    "desc": "504 of 7888 (6.39%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Birth Marks",
+    "traitValue": "Chin",
+    "frequency": 504,
+    "pct": 6.389452332657202,
+    "desc": "504 of 7888 (6.39%)",
+    "example": "https://www.arweave.net/qblIYev9Cv9NHJYQ5tG-RU0Zp8pWEp5to6_U3sop9RM?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Shocked",
+    "frequency": 504,
+    "pct": 6.389452332657202,
+    "desc": "504 of 7888 (6.39%)",
+    "example": "https://www.arweave.net/KZn5Oe3S85FhocGnXXIOSWIqRqlVPA7Dq1ntcDr3-ek?ext=png"
+  },
+  {
+    "traitName": "Hat",
+    "traitValue": "Pink Ribbon",
+    "frequency": 504,
+    "pct": 6.389452332657202,
+    "desc": "504 of 7888 (6.39%)",
+    "example": "https://www.arweave.net/KZn5Oe3S85FhocGnXXIOSWIqRqlVPA7Dq1ntcDr3-ek?ext=png"
+  },
+  {
+    "traitName": "Hair Strand",
+    "traitValue": "Ginger",
+    "frequency": 512,
+    "pct": 6.490872210953347,
+    "desc": "512 of 7888 (6.49%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Hair Accessory",
+    "traitValue": "Candies",
+    "frequency": 519,
+    "pct": 6.579614604462475,
+    "desc": "519 of 7888 (6.58%)",
+    "example": "https://www.arweave.net/f4ghjafqH2PkZw-bhED_kVR-TnMpNMFQg7BaTRUUMTo?ext=png"
+  },
+  {
+    "traitName": "Hair Accessory",
+    "traitValue": "Heart Candy",
+    "frequency": 520,
+    "pct": 6.592292089249494,
+    "desc": "520 of 7888 (6.59%)",
+    "example": "https://www.arweave.net/X-XY0qSUr6S9ZBJdM8JqOaU5plkrGoE66behQ8H8ZhI?ext=png"
+  },
+  {
+    "traitName": "Ears",
+    "traitValue": "Zombie",
+    "frequency": 523,
+    "pct": 6.6303245436105485,
+    "desc": "523 of 7888 (6.63%)",
+    "example": "https://www.arweave.net/uSoZLJRVE5DQgnVpYH-MSWHVUs50qG6hDf4fY4Xy2G4?ext=png"
+  },
+  {
+    "traitName": "Undershirt",
+    "traitValue": "Black Casual",
+    "frequency": 527,
+    "pct": 6.68103448275862,
+    "desc": "527 of 7888 (6.68%)",
+    "example": "https://www.arweave.net/BEs2bsG3BQQ4Lr-jAy7OJmLxCj9IxzDtj8l8YMKUqkE?ext=png"
+  },
+  {
+    "traitName": "Birth Marks",
+    "traitValue": "Multi Face Right",
+    "frequency": 527,
+    "pct": 6.68103448275862,
+    "desc": "527 of 7888 (6.68%)",
+    "example": "https://www.arweave.net/9gcpszR0ngYrbBzE1rcpqtWbpEtjgQV2u2UiRVAe_CM?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Blue Dot",
+    "frequency": 529,
+    "pct": 6.706389452332657,
+    "desc": "529 of 7888 (6.71%)",
+    "example": "https://www.arweave.net/WykKMB88AGhIuDGWNqqVFokF8HQYhmzvtFiGXb2IiY0?ext=png"
+  },
+  {
+    "traitName": "Nose",
+    "traitValue": "Pig",
+    "frequency": 546,
+    "pct": 6.921906693711967,
+    "desc": "546 of 7888 (6.92%)",
+    "example": "https://www.arweave.net/EpmaRL8IDd1daOdJmm3581VsrysBmVtBfE6SKjFxFg0?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Purple Dot",
+    "frequency": 549,
+    "pct": 6.959939148073023,
+    "desc": "549 of 7888 (6.96%)",
+    "example": "https://www.arweave.net/f4ghjafqH2PkZw-bhED_kVR-TnMpNMFQg7BaTRUUMTo?ext=png"
+  },
+  {
+    "traitName": "Hair Accessory",
+    "traitValue": "Sakura",
+    "frequency": 552,
+    "pct": 6.9979716024340775,
+    "desc": "552 of 7888 (7.00%)",
+    "example": "https://www.arweave.net/hEpcYKW4y31a4DQYQX9jHp_GCYn-mHP5cTxxNUmQIDU?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Green Dot",
+    "frequency": 552,
+    "pct": 6.9979716024340775,
+    "desc": "552 of 7888 (7.00%)",
+    "example": "https://www.arweave.net/Mo9Vawel0aMHGzxaEljmpgCN7JJlamsgO6ypac_MtVo?ext=png"
+  },
+  {
+    "traitName": "Undershirt",
+    "traitValue": "White Casual",
+    "frequency": 553,
+    "pct": 7.010649087221095,
+    "desc": "553 of 7888 (7.01%)",
+    "example": "https://www.arweave.net/hEpcYKW4y31a4DQYQX9jHp_GCYn-mHP5cTxxNUmQIDU?ext=png"
+  },
+  {
+    "traitName": "Undergarment",
+    "traitValue": "Red Leather",
+    "frequency": 555,
+    "pct": 7.036004056795132,
+    "desc": "555 of 7888 (7.04%)",
+    "example": "https://www.arweave.net/Nm7yW2WioYr6VVsYVVtvEr6nt5BQ3MGUxJyhcxqRBwc?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Yellow Dot",
+    "frequency": 558,
+    "pct": 7.074036511156187,
+    "desc": "558 of 7888 (7.07%)",
+    "example": "https://www.arweave.net/hEpcYKW4y31a4DQYQX9jHp_GCYn-mHP5cTxxNUmQIDU?ext=png"
+  },
+  {
+    "traitName": "Eye Wear",
+    "traitValue": "Circular Glasses",
+    "frequency": 566,
+    "pct": 7.175456389452332,
+    "desc": "566 of 7888 (7.18%)",
+    "example": "https://www.arweave.net/-e7bcpR0wtG184K7QwxnW_bteOxkdfoCyVOQpIYfEN4?ext=png"
+  },
+  {
+    "traitName": "Skin Mark",
+    "traitValue": "Freckles",
+    "frequency": 571,
+    "pct": 7.238843813387424,
+    "desc": "571 of 7888 (7.24%)",
+    "example": "https://www.arweave.net/y48nMfBZ4q1c396MTJkj1-kCkODdBNR9nP7Zh7A9m9c?ext=png"
+  },
+  {
+    "traitName": "Hair Strand",
+    "traitValue": "Purple",
+    "frequency": 582,
+    "pct": 7.378296146044624,
+    "desc": "582 of 7888 (7.38%)",
+    "example": "https://www.arweave.net/GH2RBJfFF5bl-fF_notj0S-ml4sVLeEv3KYLGsUiFxg?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Pink Dot",
+    "frequency": 590,
+    "pct": 7.479716024340771,
+    "desc": "590 of 7888 (7.48%)",
+    "example": "https://www.arweave.net/A3UD3RLPaJKjRa6Vzzt1ViLBG5wjY6ZPa1FGPPRe2UI?ext=png"
+  },
+  {
+    "traitName": "Back Hair",
+    "traitValue": "Long Black",
+    "frequency": 590,
+    "pct": 7.479716024340771,
+    "desc": "590 of 7888 (7.48%)",
+    "example": "https://www.arweave.net/Tr44_juXe0BSDD_o7FUqwjEi6db-uu2-mqgQIRhjSWM?ext=png"
+  },
+  {
+    "traitName": "Nose",
+    "traitValue": "Long",
+    "frequency": 597,
+    "pct": 7.568458417849899,
+    "desc": "597 of 7888 (7.57%)",
+    "example": "https://www.arweave.net/Mo9Vawel0aMHGzxaEljmpgCN7JJlamsgO6ypac_MtVo?ext=png"
+  },
+  {
+    "traitName": "Facial Accessory",
+    "traitValue": "Gold Tridot",
+    "frequency": 599,
+    "pct": 7.5938133874239355,
+    "desc": "599 of 7888 (7.59%)",
+    "example": "https://www.arweave.net/X-XY0qSUr6S9ZBJdM8JqOaU5plkrGoE66behQ8H8ZhI?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Green Sphere",
+    "frequency": 606,
+    "pct": 7.682555780933063,
+    "desc": "606 of 7888 (7.68%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Yellow Sphere",
+    "frequency": 606,
+    "pct": 7.682555780933063,
+    "desc": "606 of 7888 (7.68%)",
+    "example": "https://www.arweave.net/Yt-vRdWqxilhPMlkPiWNFV10bIK3KvPx6r2pkjhEpvc?ext=png"
+  },
+  {
+    "traitName": "Eyebrows",
+    "traitValue": "Enraged",
+    "frequency": 607,
+    "pct": 7.695233265720081,
+    "desc": "607 of 7888 (7.70%)",
+    "example": "https://www.arweave.net/KZn5Oe3S85FhocGnXXIOSWIqRqlVPA7Dq1ntcDr3-ek?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Blue Sphere",
+    "frequency": 608,
+    "pct": 7.707910750507099,
+    "desc": "608 of 7888 (7.71%)",
+    "example": "https://www.arweave.net/hfBvdHYzWCVC3ox016jmUJUAhXHYsCJ2lZ8im6WUKPc?ext=png"
+  },
+  {
+    "traitName": "Hair Accessory",
+    "traitValue": "Heart",
+    "frequency": 611,
+    "pct": 7.745943204868154,
+    "desc": "611 of 7888 (7.75%)",
+    "example": "https://www.arweave.net/u-1f6Te5U7HMGEqxEjAB4HomKUuq2Se2wXZTSKX82dE?ext=png"
+  },
+  {
+    "traitName": "Undershirt",
+    "traitValue": "Black Tank",
+    "frequency": 611,
+    "pct": 7.745943204868154,
+    "desc": "611 of 7888 (7.75%)",
+    "example": "https://www.arweave.net/WykKMB88AGhIuDGWNqqVFokF8HQYhmzvtFiGXb2IiY0?ext=png"
+  },
+  {
+    "traitName": "Facial Accessory",
+    "traitValue": "Steel Tridot",
+    "frequency": 616,
+    "pct": 7.809330628803246,
+    "desc": "616 of 7888 (7.81%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Hat",
+    "traitValue": "Maid",
+    "frequency": 618,
+    "pct": 7.834685598377282,
+    "desc": "618 of 7888 (7.83%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Eyes",
+    "traitValue": "Tweaky",
+    "frequency": 621,
+    "pct": 7.872718052738337,
+    "desc": "621 of 7888 (7.87%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Back Hair",
+    "traitValue": "Long Blonde Fade",
+    "frequency": 637,
+    "pct": 8.075557809330629,
+    "desc": "637 of 7888 (8.08%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Pink Sphere",
+    "frequency": 639,
+    "pct": 8.100912778904664,
+    "desc": "639 of 7888 (8.10%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Undershirt",
+    "traitValue": "Grey Tank",
+    "frequency": 640,
+    "pct": 8.113590263691684,
+    "desc": "640 of 7888 (8.11%)",
+    "example": "https://www.arweave.net/DxsAGY8KrryGD-lLIg3oAzQcHgbgD8CSj1R18aIwy-U?ext=png"
+  },
+  {
+    "traitName": "Front Hair",
+    "traitValue": "Green",
+    "frequency": 642,
+    "pct": 8.13894523326572,
+    "desc": "642 of 7888 (8.14%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Hair Accessory",
+    "traitValue": "Moonstar",
+    "frequency": 644,
+    "pct": 8.164300202839756,
+    "desc": "644 of 7888 (8.16%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Facial Accessory",
+    "traitValue": "Silver Tridot",
+    "frequency": 647,
+    "pct": 8.202332657200811,
+    "desc": "647 of 7888 (8.20%)",
+    "example": "https://www.arweave.net/Tr44_juXe0BSDD_o7FUqwjEi6db-uu2-mqgQIRhjSWM?ext=png"
+  },
+  {
+    "traitName": "Effect",
+    "traitValue": "Hearts",
+    "frequency": 650,
+    "pct": 8.240365111561866,
+    "desc": "650 of 7888 (8.24%)",
+    "example": "https://www.arweave.net/qblIYev9Cv9NHJYQ5tG-RU0Zp8pWEp5to6_U3sop9RM?ext=png"
+  },
+  {
+    "traitName": "Eyebrows",
+    "traitValue": "Dotted",
+    "frequency": 650,
+    "pct": 8.240365111561866,
+    "desc": "650 of 7888 (8.24%)",
+    "example": "https://www.arweave.net/u-1f6Te5U7HMGEqxEjAB4HomKUuq2Se2wXZTSKX82dE?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Purple Sphere",
+    "frequency": 655,
+    "pct": 8.303752535496956,
+    "desc": "655 of 7888 (8.30%)",
+    "example": "https://www.arweave.net/X-XY0qSUr6S9ZBJdM8JqOaU5plkrGoE66behQ8H8ZhI?ext=png"
+  },
+  {
+    "traitName": "Back Hair",
+    "traitValue": "Long Pink",
+    "frequency": 671,
+    "pct": 8.506592292089248,
+    "desc": "671 of 7888 (8.51%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Facial Accessory",
+    "traitValue": "Gold Ring",
+    "frequency": 684,
+    "pct": 8.671399594320487,
+    "desc": "684 of 7888 (8.67%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Eyebrows",
+    "traitValue": "Questionable",
+    "frequency": 690,
+    "pct": 8.747464503042595,
+    "desc": "690 of 7888 (8.75%)",
+    "example": "https://www.arweave.net/b7zoAVUzHQGI6SnmeLdcvGmHepnNA60U1bzaZ0LXfWY?ext=png"
+  },
+  {
+    "traitName": "Undergarment",
+    "traitValue": "Red Loop",
+    "frequency": 695,
+    "pct": 8.810851926977687,
+    "desc": "695 of 7888 (8.81%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Eyebrows",
+    "traitValue": "Angry",
+    "frequency": 697,
+    "pct": 8.836206896551724,
+    "desc": "697 of 7888 (8.84%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Front Hair",
+    "traitValue": "Pink Split",
+    "frequency": 708,
+    "pct": 8.975659229208926,
+    "desc": "708 of 7888 (8.98%)",
+    "example": "https://www.arweave.net/A70C-aEWiv5WWUlw7-0FIjIxWBmEIEcvFpFPK4Vtyoc?ext=png"
+  },
+  {
+    "traitName": "Back Hair",
+    "traitValue": "Long Blue",
+    "frequency": 713,
+    "pct": 9.039046653144016,
+    "desc": "713 of 7888 (9.04%)",
+    "example": "https://www.arweave.net/f4ghjafqH2PkZw-bhED_kVR-TnMpNMFQg7BaTRUUMTo?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Welcoming",
+    "frequency": 733,
+    "pct": 9.29259634888438,
+    "desc": "733 of 7888 (9.29%)",
+    "example": "https://www.arweave.net/X-XY0qSUr6S9ZBJdM8JqOaU5plkrGoE66behQ8H8ZhI?ext=png"
+  },
+  {
+    "traitName": "Undergarment",
+    "traitValue": "Bandages",
+    "frequency": 733,
+    "pct": 9.29259634888438,
+    "desc": "733 of 7888 (9.29%)",
+    "example": "https://www.arweave.net/EpmaRL8IDd1daOdJmm3581VsrysBmVtBfE6SKjFxFg0?ext=png"
+  },
+  {
+    "traitName": "Undergarment",
+    "traitValue": "Blue Dotted",
+    "frequency": 735,
+    "pct": 9.317951318458418,
+    "desc": "735 of 7888 (9.32%)",
+    "example": "https://www.arweave.net/Mo9Vawel0aMHGzxaEljmpgCN7JJlamsgO6ypac_MtVo?ext=png"
+  },
+  {
+    "traitName": "Front Hair",
+    "traitValue": "Ginger",
+    "frequency": 741,
+    "pct": 9.394016227180527,
+    "desc": "741 of 7888 (9.39%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Undergarment",
+    "traitValue": "Pink Lingerie",
+    "frequency": 758,
+    "pct": 9.609533468559837,
+    "desc": "758 of 7888 (9.61%)",
+    "example": "https://www.arweave.net/Tr44_juXe0BSDD_o7FUqwjEi6db-uu2-mqgQIRhjSWM?ext=png"
+  },
+  {
+    "traitName": "Facial Accessory",
+    "traitValue": "Silver Ring",
+    "frequency": 763,
+    "pct": 9.672920892494929,
+    "desc": "763 of 7888 (9.67%)",
+    "example": "https://www.arweave.net/hEpcYKW4y31a4DQYQX9jHp_GCYn-mHP5cTxxNUmQIDU?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Grinning",
+    "frequency": 764,
+    "pct": 9.685598377281947,
+    "desc": "764 of 7888 (9.69%)",
+    "example": "https://www.arweave.net/hEpcYKW4y31a4DQYQX9jHp_GCYn-mHP5cTxxNUmQIDU?ext=png"
+  },
+  {
+    "traitName": "Undergarment",
+    "traitValue": "Silk",
+    "frequency": 784,
+    "pct": 9.939148073022313,
+    "desc": "784 of 7888 (9.94%)",
+    "example": "https://www.arweave.net/A3UD3RLPaJKjRa6Vzzt1ViLBG5wjY6ZPa1FGPPRe2UI?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Smile",
+    "frequency": 796,
+    "pct": 10.09127789046653,
+    "desc": "796 of 7888 (10.09%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Front Hair",
+    "traitValue": "Brunette Fade",
+    "frequency": 820,
+    "pct": 10.39553752535497,
+    "desc": "820 of 7888 (10.40%)",
+    "example": "https://www.arweave.net/f4ghjafqH2PkZw-bhED_kVR-TnMpNMFQg7BaTRUUMTo?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Rough",
+    "frequency": 847,
+    "pct": 10.737829614604461,
+    "desc": "847 of 7888 (10.74%)",
+    "example": "https://www.arweave.net/A3UD3RLPaJKjRa6Vzzt1ViLBG5wjY6ZPa1FGPPRe2UI?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Content",
+    "frequency": 852,
+    "pct": 10.801217038539553,
+    "desc": "852 of 7888 (10.80%)",
+    "example": "https://www.arweave.net/u-1f6Te5U7HMGEqxEjAB4HomKUuq2Se2wXZTSKX82dE?ext=png"
+  },
+  {
+    "traitName": "Undergarment",
+    "traitValue": "Pink Loose",
+    "frequency": 854,
+    "pct": 10.82657200811359,
+    "desc": "854 of 7888 (10.83%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Undergarment",
+    "traitValue": "Black Leather",
+    "frequency": 854,
+    "pct": 10.82657200811359,
+    "desc": "854 of 7888 (10.83%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Nose",
+    "traitValue": "Wide",
+    "frequency": 855,
+    "pct": 10.839249492900608,
+    "desc": "855 of 7888 (10.84%)",
+    "example": "https://www.arweave.net/hEpcYKW4y31a4DQYQX9jHp_GCYn-mHP5cTxxNUmQIDU?ext=png"
+  },
+  {
+    "traitName": "Lips",
+    "traitValue": "Happy",
+    "frequency": 871,
+    "pct": 11.0420892494929,
+    "desc": "871 of 7888 (11.04%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Undergarment",
+    "traitValue": "Red Crossed",
+    "frequency": 878,
+    "pct": 11.130831643002029,
+    "desc": "878 of 7888 (11.13%)",
+    "example": "https://www.arweave.net/qblIYev9Cv9NHJYQ5tG-RU0Zp8pWEp5to6_U3sop9RM?ext=png"
+  },
+  {
+    "traitName": "Eyebrows",
+    "traitValue": "Excited",
+    "frequency": 930,
+    "pct": 11.790060851926977,
+    "desc": "930 of 7888 (11.79%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Eyes",
+    "traitValue": "Smug",
+    "frequency": 938,
+    "pct": 11.891480730223124,
+    "desc": "938 of 7888 (11.89%)",
+    "example": "https://www.arweave.net/hEpcYKW4y31a4DQYQX9jHp_GCYn-mHP5cTxxNUmQIDU?ext=png"
+  },
+  {
+    "traitName": "Undergarment",
+    "traitValue": "Neck lace",
+    "frequency": 941,
+    "pct": 11.929513184584179,
+    "desc": "941 of 7888 (11.93%)",
+    "example": "https://www.arweave.net/u-1f6Te5U7HMGEqxEjAB4HomKUuq2Se2wXZTSKX82dE?ext=png"
+  },
+  {
+    "traitName": "Eyebrows",
+    "traitValue": "Sorrowful",
+    "frequency": 952,
+    "pct": 12.068965517241379,
+    "desc": "952 of 7888 (12.07%)",
+    "example": "https://www.arweave.net/X-XY0qSUr6S9ZBJdM8JqOaU5plkrGoE66behQ8H8ZhI?ext=png"
+  },
+  {
+    "traitName": "Eyebrows",
+    "traitValue": "Realistic",
+    "frequency": 963,
+    "pct": 12.20841784989858,
+    "desc": "963 of 7888 (12.21%)",
+    "example": "https://www.arweave.net/hEpcYKW4y31a4DQYQX9jHp_GCYn-mHP5cTxxNUmQIDU?ext=png"
+  },
+  {
+    "traitName": "Front Hair",
+    "traitValue": "Black Bangs",
+    "frequency": 990,
+    "pct": 12.550709939148073,
+    "desc": "990 of 7888 (12.55%)",
+    "example": "https://www.arweave.net/qblIYev9Cv9NHJYQ5tG-RU0Zp8pWEp5to6_U3sop9RM?ext=png"
+  },
+  {
+    "traitName": "Front Hair",
+    "traitValue": "Blue",
+    "frequency": 1011,
+    "pct": 12.816937119675456,
+    "desc": "1011 of 7888 (12.82%)",
+    "example": "https://www.arweave.net/Tr44_juXe0BSDD_o7FUqwjEi6db-uu2-mqgQIRhjSWM?ext=png"
+  },
+  {
+    "traitName": "Front Hair",
+    "traitValue": "Brown",
+    "frequency": 1040,
+    "pct": 13.184584178498987,
+    "desc": "1040 of 7888 (13.18%)",
+    "example": "https://www.arweave.net/hEpcYKW4y31a4DQYQX9jHp_GCYn-mHP5cTxxNUmQIDU?ext=png"
+  },
+  {
+    "traitName": "Skin",
+    "traitValue": "Albino",
+    "frequency": 1060,
+    "pct": 13.43813387423935,
+    "desc": "1060 of 7888 (13.44%)",
+    "example": "https://www.arweave.net/hfBvdHYzWCVC3ox016jmUJUAhXHYsCJ2lZ8im6WUKPc?ext=png"
+  },
+  {
+    "traitName": "Eyes",
+    "traitValue": "Tired",
+    "frequency": 1115,
+    "pct": 14.135395537525355,
+    "desc": "1115 of 7888 (14.14%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Front Hair",
+    "traitValue": "Neon Bangs",
+    "frequency": 1138,
+    "pct": 14.426977687626774,
+    "desc": "1138 of 7888 (14.43%)",
+    "example": "https://www.arweave.net/A3UD3RLPaJKjRa6Vzzt1ViLBG5wjY6ZPa1FGPPRe2UI?ext=png"
+  },
+  {
+    "traitName": "Facial Expression",
+    "traitValue": "Hyper Blush",
+    "frequency": 1236,
+    "pct": 15.669371196754565,
+    "desc": "1236 of 7888 (15.67%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Skin",
+    "traitValue": "Brown",
+    "frequency": 1372,
+    "pct": 17.39350912778905,
+    "desc": "1372 of 7888 (17.39%)",
+    "example": "https://www.arweave.net/A70C-aEWiv5WWUlw7-0FIjIxWBmEIEcvFpFPK4Vtyoc?ext=png"
+  },
+  {
+    "traitName": "Skin",
+    "traitValue": "Black",
+    "frequency": 1395,
+    "pct": 17.685091277890468,
+    "desc": "1395 of 7888 (17.69%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Nose",
+    "traitValue": "Mini",
+    "frequency": 1402,
+    "pct": 17.773833671399593,
+    "desc": "1402 of 7888 (17.77%)",
+    "example": "https://www.arweave.net/X-XY0qSUr6S9ZBJdM8JqOaU5plkrGoE66behQ8H8ZhI?ext=png"
+  },
+  {
+    "traitName": "Skin",
+    "traitValue": "White",
+    "frequency": 1410,
+    "pct": 17.875253549695742,
+    "desc": "1410 of 7888 (17.88%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Nose",
+    "traitValue": "Dotted",
+    "frequency": 1417,
+    "pct": 17.963995943204868,
+    "desc": "1417 of 7888 (17.96%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Eyes",
+    "traitValue": "Shocked",
+    "frequency": 1434,
+    "pct": 18.179513184584177,
+    "desc": "1434 of 7888 (18.18%)",
+    "example": "https://www.arweave.net/A3UD3RLPaJKjRa6Vzzt1ViLBG5wjY6ZPa1FGPPRe2UI?ext=png"
+  },
+  {
+    "traitName": "Skin",
+    "traitValue": "Yellow",
+    "frequency": 1535,
+    "pct": 19.459939148073023,
+    "desc": "1535 of 7888 (19.46%)",
+    "example": "https://www.arweave.net/Tr44_juXe0BSDD_o7FUqwjEi6db-uu2-mqgQIRhjSWM?ext=png"
+  },
+  {
+    "traitName": "Facial Expression",
+    "traitValue": "Blush",
+    "frequency": 1705,
+    "pct": 21.615111561866126,
+    "desc": "1705 of 7888 (21.62%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Eyebrows",
+    "traitValue": "Normal",
+    "frequency": 1760,
+    "pct": 22.31237322515213,
+    "desc": "1760 of 7888 (22.31%)",
+    "example": "https://www.arweave.net/Mo9Vawel0aMHGzxaEljmpgCN7JJlamsgO6ypac_MtVo?ext=png"
+  },
+  {
+    "traitName": "Ears",
+    "traitValue": "Black",
+    "frequency": 1789,
+    "pct": 22.68002028397566,
+    "desc": "1789 of 7888 (22.68%)",
+    "example": "https://www.arweave.net/_UPMDjnpxaaNEmNszHvTHKUi0-VA-dQ9RPJMnOOyN5Y?ext=png"
+  },
+  {
+    "traitName": "Ears",
+    "traitValue": "White",
+    "frequency": 1809,
+    "pct": 22.933569979716022,
+    "desc": "1809 of 7888 (22.93%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Ears",
+    "traitValue": "Albino",
+    "frequency": 1840,
+    "pct": 23.32657200811359,
+    "desc": "1840 of 7888 (23.33%)",
+    "example": "https://www.arweave.net/bKc2oq62eJmHwxwdx6ZFwn4TEOUw72HD2HLZk8ukjRo?ext=png"
+  },
+  {
+    "traitName": "Eyes",
+    "traitValue": "Happy",
+    "frequency": 2184,
+    "pct": 27.687626774847867,
+    "desc": "2184 of 7888 (27.69%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  },
+  {
+    "traitName": "Nose",
+    "traitValue": "Triangle",
+    "frequency": 2289,
+    "pct": 29.018762677484787,
+    "desc": "2289 of 7888 (29.02%)",
+    "example": "https://www.arweave.net/eXm8HKZtaVh1bWe5E2VDu0dsqpUXHStny6ZZ091U5kU?ext=png"
+  }
+]
