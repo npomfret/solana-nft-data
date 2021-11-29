@@ -1,0 +1,930 @@
+[
+  {
+    "traitName": "Hands",
+    "traitValue": "Liquid Rhodium",
+    "frequency": 48,
+    "pct": 1.007979840403192,
+    "desc": "48 of 4762 (1.01%)",
+    "example": "https://www.arweave.net/KgrcmhDcRPN0EIBIm-FsIJnOlJspmmUVdd7T_06HPVs?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Gold Mushroom",
+    "frequency": 52,
+    "pct": 1.0919781604367913,
+    "desc": "52 of 4762 (1.09%)",
+    "example": "https://www.arweave.net/pZPpJRW2JRDC3ittX9pXZUtc9BWf2wQKyDhGau1GdPE?ext=png"
+  },
+  {
+    "traitName": "Hands",
+    "traitValue": "Aether",
+    "frequency": 54,
+    "pct": 1.133977320453591,
+    "desc": "54 of 4762 (1.13%)",
+    "example": "https://www.arweave.net/Ei_Rw0eADx5KkbS1h6JyxhMe25ADTNOnkYxqkaWhq5s?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Red",
+    "frequency": 56,
+    "pct": 1.1759764804703907,
+    "desc": "56 of 4762 (1.18%)",
+    "example": "https://www.arweave.net/lexuqjh5SQO-9_CX12DcAoc0VTrxcrNZJackHcG8G8Y?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Electromagnetic",
+    "frequency": 56,
+    "pct": 1.1759764804703907,
+    "desc": "56 of 4762 (1.18%)",
+    "example": "https://www.arweave.net/gRc0GWzMC_mIKbRbf-42oay_6VLN2wpo4VhN3o136pI?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Gold Lotus",
+    "frequency": 58,
+    "pct": 1.2179756404871904,
+    "desc": "58 of 4762 (1.22%)",
+    "example": "https://www.arweave.net/PznvJRubMWLApxdTYo6NdlV3soaN5Nu5aSFDxMUmpS4?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Concrete",
+    "frequency": 59,
+    "pct": 1.2389752204955902,
+    "desc": "59 of 4762 (1.24%)",
+    "example": "https://www.arweave.net/cTAy6ztEgKdTjKtPu_HDH342_3wL_1HiKQmHPcAnZ30?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Templar",
+    "frequency": 60,
+    "pct": 1.25997480050399,
+    "desc": "60 of 4762 (1.26%)",
+    "example": "https://www.arweave.net/iX6NlpjX2AEoILw_8g00nrfimRpc-YKic6_PrimtMqs?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Gold Droid",
+    "frequency": 60,
+    "pct": 1.25997480050399,
+    "desc": "60 of 4762 (1.26%)",
+    "example": "https://www.arweave.net/Jh3yRrQrh3M052Tt7yJkVJbbBA2cWsyylzcTc_ds4nY?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Black Lab Coat",
+    "frequency": 62,
+    "pct": 1.3019739605207896,
+    "desc": "62 of 4762 (1.30%)",
+    "example": "https://www.arweave.net/ccxc1QGpxdBAq5uBOfGSaRwCJVsQm_jCy2Z-jkr7LPs?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Broken",
+    "frequency": 62,
+    "pct": 1.3019739605207896,
+    "desc": "62 of 4762 (1.30%)",
+    "example": "https://www.arweave.net/lvf_AEqh1r7zGOeaMlbeENVehjkTi-wYMDUbDsdcGg0?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Liquid Rose Gold",
+    "frequency": 63,
+    "pct": 1.3229735405291896,
+    "desc": "63 of 4762 (1.32%)",
+    "example": "https://www.arweave.net/J_1Rt389pxp6-O2xCGQaB_qBCBI0KU4NwmlRr60cUiE?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Liquid Rhodium",
+    "frequency": 63,
+    "pct": 1.3229735405291896,
+    "desc": "63 of 4762 (1.32%)",
+    "example": "https://www.arweave.net/57_6ciOkWJ6vvSvSWjBOAcPRoBXy6pNHanRlLis0hUM?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Master",
+    "frequency": 64,
+    "pct": 1.3439731205375893,
+    "desc": "64 of 4762 (1.34%)",
+    "example": "https://www.arweave.net/urbJgXp_3scMbtA9JT5ieyqRMyLyTt-lDd4nhWyEwp4?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Ascended Robe",
+    "frequency": 64,
+    "pct": 1.3439731205375893,
+    "desc": "64 of 4762 (1.34%)",
+    "example": "https://www.arweave.net/rxrpcGImf0PAd94DmGzvxLyMBYvIffS7QdL-mkDfGrY?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Gold Cannabis",
+    "frequency": 64,
+    "pct": 1.3439731205375893,
+    "desc": "64 of 4762 (1.34%)",
+    "example": "https://www.arweave.net/L2cHavBpGRu_qFVmMFH-YBhccHWHodqWK8CYpEV21yc?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Silver",
+    "frequency": 65,
+    "pct": 1.364972700545989,
+    "desc": "65 of 4762 (1.36%)",
+    "example": "https://www.arweave.net/S5bQYoKLMTJcZ0fuLNyIzC-tKeMN6cMAlQxj6XbU6Ts?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Diamonds",
+    "frequency": 69,
+    "pct": 1.4489710205795885,
+    "desc": "69 of 4762 (1.45%)",
+    "example": "https://www.arweave.net/Bh6KiiOGo8kwmpz-_g_KsugBBhS0l9hE0cGoIt2V9jo?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Gilead",
+    "frequency": 69,
+    "pct": 1.4489710205795885,
+    "desc": "69 of 4762 (1.45%)",
+    "example": "https://www.arweave.net/j2T5U2PTdHLx8KW3oPQMmBXomP_ehIH2HGhsMfGuQ8I?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Glitch",
+    "frequency": 72,
+    "pct": 1.5119697606047877,
+    "desc": "72 of 4762 (1.51%)",
+    "example": "https://www.arweave.net/RiGPiDk4_QXlTMeyI7RfOUMVBbQTuu0GzA4wz-FNWAU?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Fire Salamander",
+    "frequency": 72,
+    "pct": 1.5119697606047877,
+    "desc": "72 of 4762 (1.51%)",
+    "example": "https://www.arweave.net/Ge2ou1H08c6BrJf4y_C7IkBVSUYrBgH0YVA_hwd4McA?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Light Pink",
+    "frequency": 73,
+    "pct": 1.5329693406131877,
+    "desc": "73 of 4762 (1.53%)",
+    "example": "https://www.arweave.net/Db_317Zy04fexXPLpe4UketAYEMb1PeYuX4vTxUqUAo?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Liquid Rhodium",
+    "frequency": 74,
+    "pct": 1.5539689206215874,
+    "desc": "74 of 4762 (1.55%)",
+    "example": "https://www.arweave.net/iX6NlpjX2AEoILw_8g00nrfimRpc-YKic6_PrimtMqs?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Fog",
+    "frequency": 77,
+    "pct": 1.6169676606467869,
+    "desc": "77 of 4762 (1.62%)",
+    "example": "https://www.arweave.net/fKjP8mBfxVkog6xBsFwFhbqVDAIpL6s6rAbVRXP-Pq8?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Psilocybe Azurescens",
+    "frequency": 78,
+    "pct": 1.637967240655187,
+    "desc": "78 of 4762 (1.64%)",
+    "example": "https://www.arweave.net/FCGazu1B734YMUmujiP2sLEdkcwIRDAI217f-DtsPc0?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Ergot",
+    "frequency": 78,
+    "pct": 1.637967240655187,
+    "desc": "78 of 4762 (1.64%)",
+    "example": "https://www.arweave.net/lO_uU1bnblqrKtoSzp-hmeh8PJ0eigxfMJQ4TFLDGUs?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Indigo",
+    "frequency": 80,
+    "pct": 1.6799664006719865,
+    "desc": "80 of 4762 (1.68%)",
+    "example": "https://www.arweave.net/qvrxH8U_mh1xtpJPEPPRDUvEHzrfagteJLtRsyVr_Dk?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Fractal",
+    "frequency": 80,
+    "pct": 1.6799664006719865,
+    "desc": "80 of 4762 (1.68%)",
+    "example": "https://www.arweave.net/f4-IsPAKjSW0Gd_43oJQvkeDCII8zCOQdlHdk38GkL8?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Scope",
+    "frequency": 83,
+    "pct": 1.742965140697186,
+    "desc": "83 of 4762 (1.74%)",
+    "example": "https://www.arweave.net/q4K8Qe2l0lkxWFGG-8B6Y5FVNKZtvuGbB7VGXRLqS_0?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Soul 2",
+    "frequency": 86,
+    "pct": 1.8059638807223857,
+    "desc": "86 of 4762 (1.81%)",
+    "example": "https://www.arweave.net/rnKC-fzGQ_yerKMES3SJs3cxhVvfrZRQblulEoUT8BU?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Golden Robe",
+    "frequency": 87,
+    "pct": 1.8269634607307854,
+    "desc": "87 of 4762 (1.83%)",
+    "example": "https://www.arweave.net/RiGPiDk4_QXlTMeyI7RfOUMVBbQTuu0GzA4wz-FNWAU?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Dream Fish",
+    "frequency": 87,
+    "pct": 1.8269634607307854,
+    "desc": "87 of 4762 (1.83%)",
+    "example": "https://www.arweave.net/J_1Rt389pxp6-O2xCGQaB_qBCBI0KU4NwmlRr60cUiE?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Master Robe",
+    "frequency": 88,
+    "pct": 1.8479630407391854,
+    "desc": "88 of 4762 (1.85%)",
+    "example": "https://www.arweave.net/C2QwjHYe5gT3Zut79_8Ba8-aUr_iKz-vxTIWprrqhaY?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Guard",
+    "frequency": 89,
+    "pct": 1.868962620747585,
+    "desc": "89 of 4762 (1.87%)",
+    "example": "https://www.arweave.net/-D9ScSHgSvE5380hBAWPxS0FByltSaNwT6dCjlxavac?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Leather Lab Coat",
+    "frequency": 91,
+    "pct": 1.9109617807643846,
+    "desc": "91 of 4762 (1.91%)",
+    "example": "https://www.arweave.net/U2DxLbZeH4HrmkQLEKKPQpMlgwm83jfibFn6mnHeOaE?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Purple",
+    "frequency": 92,
+    "pct": 1.9319613607727846,
+    "desc": "92 of 4762 (1.93%)",
+    "example": "https://www.arweave.net/qtdcm3Y6IWB4eahb9T3WosmSXPPs8uswPNNGQ7QQIkI?ext=png"
+  },
+  {
+    "traitName": "Hands",
+    "traitValue": "Lotus",
+    "frequency": 92,
+    "pct": 1.9319613607727846,
+    "desc": "92 of 4762 (1.93%)",
+    "example": "https://www.arweave.net/kt7stGTvGpA47cMKTQe5Xlo7KXxEG3Ew-ZI6CCVaMOY?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Crystal",
+    "frequency": 93,
+    "pct": 1.9529609407811843,
+    "desc": "93 of 4762 (1.95%)",
+    "example": "https://www.arweave.net/qe-RVuEUzoRs_sS5TTY5TXhj2tUwDV5ku0QWZrWaf_4?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Moss",
+    "frequency": 94,
+    "pct": 1.9739605207895843,
+    "desc": "94 of 4762 (1.97%)",
+    "example": "https://www.arweave.net/u3Vy1xEcbPed8rq4V6rim7Q5g3J2IMSNN2n0H_q3vg0?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Rose Gold Droid",
+    "frequency": 95,
+    "pct": 1.994960100797984,
+    "desc": "95 of 4762 (1.99%)",
+    "example": "https://www.arweave.net/FCGazu1B734YMUmujiP2sLEdkcwIRDAI217f-DtsPc0?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Soul",
+    "frequency": 96,
+    "pct": 2.015959680806384,
+    "desc": "96 of 4762 (2.02%)",
+    "example": "https://www.arweave.net/NmTKW5BOyI37AmCwOcmVnS3_GOissKW82lTSXZG7N0s?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Vintage",
+    "frequency": 101,
+    "pct": 2.120957580848383,
+    "desc": "101 of 4762 (2.12%)",
+    "example": "https://www.arweave.net/vKn3ptTkT76As9P-58b81VnxlFnhJWh9lO6qf590-Xs?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Polkadot",
+    "frequency": 103,
+    "pct": 2.162956740865183,
+    "desc": "103 of 4762 (2.16%)",
+    "example": "https://www.arweave.net/J_1Rt389pxp6-O2xCGQaB_qBCBI0KU4NwmlRr60cUiE?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Sentry",
+    "frequency": 104,
+    "pct": 2.1839563208735826,
+    "desc": "104 of 4762 (2.18%)",
+    "example": "https://www.arweave.net/lexuqjh5SQO-9_CX12DcAoc0VTrxcrNZJackHcG8G8Y?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "French Sorrel",
+    "frequency": 109,
+    "pct": 2.2889542209155818,
+    "desc": "109 of 4762 (2.29%)",
+    "example": "https://www.arweave.net/CaCz7KUieEllDL11GhLKjT0RdUIo-GsAFcRUinqZInE?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "DMT Toad",
+    "frequency": 113,
+    "pct": 2.372952540949181,
+    "desc": "113 of 4762 (2.37%)",
+    "example": "https://www.arweave.net/l0_v4dKh-UoN1KXEWOfej2OypnIfRctBM3r4JF9vgNM?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Gold Wire",
+    "frequency": 129,
+    "pct": 2.7089458210835784,
+    "desc": "129 of 4762 (2.71%)",
+    "example": "https://www.arweave.net/J_1Rt389pxp6-O2xCGQaB_qBCBI0KU4NwmlRr60cUiE?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Plasma 1",
+    "frequency": 130,
+    "pct": 2.729945401091978,
+    "desc": "130 of 4762 (2.73%)",
+    "example": "https://www.arweave.net/I-DoJDrwqBHvpQwHmco2Wo-nyYMFw2f6iSxYxba9Lf4?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Indica",
+    "frequency": 131,
+    "pct": 2.750944981100378,
+    "desc": "131 of 4762 (2.75%)",
+    "example": "https://www.arweave.net/iY1N-rCW2BEKe8f4hDPZiyhwjzRqlFw6-osn8ilv2f0?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Psilocybe Cubensis",
+    "frequency": 131,
+    "pct": 2.750944981100378,
+    "desc": "131 of 4762 (2.75%)",
+    "example": "https://www.arweave.net/UJ52tm-DpbOjz1rggVXyx_63lHjPn7peFtYb-xWnzG0?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Peyote",
+    "frequency": 133,
+    "pct": 2.792944141117178,
+    "desc": "133 of 4762 (2.79%)",
+    "example": "https://www.arweave.net/qe-RVuEUzoRs_sS5TTY5TXhj2tUwDV5ku0QWZrWaf_4?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Violet",
+    "frequency": 133,
+    "pct": 2.792944141117178,
+    "desc": "133 of 4762 (2.79%)",
+    "example": "https://www.arweave.net/ccxc1QGpxdBAq5uBOfGSaRwCJVsQm_jCy2Z-jkr7LPs?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Plasma 2",
+    "frequency": 139,
+    "pct": 2.9189416211675767,
+    "desc": "139 of 4762 (2.92%)",
+    "example": "https://www.arweave.net/HjhfOlqfIZogo8NTwvJpiSz9rBSQjuP-AzC7U_Du3n4?ext=png"
+  },
+  {
+    "traitName": "Hands",
+    "traitValue": "Hologram",
+    "frequency": 149,
+    "pct": 3.128937421251575,
+    "desc": "149 of 4762 (3.13%)",
+    "example": "https://www.arweave.net/vnfOZlHSW8mJ0txqjNg2Q955uU_wzc75_WgmO-K8u-A?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Samurai Robe",
+    "frequency": 161,
+    "pct": 3.380932381352373,
+    "desc": "161 of 4762 (3.38%)",
+    "example": "https://www.arweave.net/-shYbsvS5-xDDz6kantOJdnJ8Q6GKpLHTyr46pRo0JM?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "White Robe",
+    "frequency": 180,
+    "pct": 3.77992440151197,
+    "desc": "180 of 4762 (3.78%)",
+    "example": "https://www.arweave.net/cO8KhvVKd0BHw6leMBklacNtmwgLSimi97Ig6lRbbvs?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Liquid Rose Gold",
+    "frequency": 187,
+    "pct": 3.9269214615707684,
+    "desc": "187 of 4762 (3.93%)",
+    "example": "https://www.arweave.net/U2DxLbZeH4HrmkQLEKKPQpMlgwm83jfibFn6mnHeOaE?ext=png"
+  },
+  {
+    "traitName": "Hands",
+    "traitValue": "Liquid Rose Gold",
+    "frequency": 204,
+    "pct": 4.283914321713566,
+    "desc": "204 of 4762 (4.28%)",
+    "example": "https://www.arweave.net/cO8KhvVKd0BHw6leMBklacNtmwgLSimi97Ig6lRbbvs?ext=png"
+  },
+  {
+    "traitName": "Hands",
+    "traitValue": "Liquid Gold",
+    "frequency": 217,
+    "pct": 4.556908861822763,
+    "desc": "217 of 4762 (4.56%)",
+    "example": "https://www.arweave.net/J_1Rt389pxp6-O2xCGQaB_qBCBI0KU4NwmlRr60cUiE?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Abyss",
+    "frequency": 219,
+    "pct": 4.598908021839563,
+    "desc": "219 of 4762 (4.60%)",
+    "example": "https://www.arweave.net/U2DxLbZeH4HrmkQLEKKPQpMlgwm83jfibFn6mnHeOaE?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Rays",
+    "frequency": 221,
+    "pct": 4.640907181856363,
+    "desc": "221 of 4762 (4.64%)",
+    "example": "https://www.arweave.net/F-ZqmxWArKPG-QxPXyifzSRLZ-6KssCLz5-TarKAzHY?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Hologram",
+    "frequency": 223,
+    "pct": 4.682906341873163,
+    "desc": "223 of 4762 (4.68%)",
+    "example": "https://www.arweave.net/lexuqjh5SQO-9_CX12DcAoc0VTrxcrNZJackHcG8G8Y?ext=png"
+  },
+  {
+    "traitName": "Hands",
+    "traitValue": "Liquid Bronze",
+    "frequency": 282,
+    "pct": 5.921881562368752,
+    "desc": "282 of 4762 (5.92%)",
+    "example": "https://www.arweave.net/lexuqjh5SQO-9_CX12DcAoc0VTrxcrNZJackHcG8G8Y?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Liquid Gold",
+    "frequency": 287,
+    "pct": 6.026879462410752,
+    "desc": "287 of 4762 (6.03%)",
+    "example": "https://www.arweave.net/iX6NlpjX2AEoILw_8g00nrfimRpc-YKic6_PrimtMqs?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Ayahuasca",
+    "frequency": 289,
+    "pct": 6.068878622427552,
+    "desc": "289 of 4762 (6.07%)",
+    "example": "https://www.arweave.net/TX_ZckOEW_xXD1S6xNPWfOkKUpvOC2v-d1kaqQSOkrY?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Liquid Gold",
+    "frequency": 291,
+    "pct": 6.1108777824443505,
+    "desc": "291 of 4762 (6.11%)",
+    "example": "https://www.arweave.net/l0_v4dKh-UoN1KXEWOfej2OypnIfRctBM3r4JF9vgNM?ext=png"
+  },
+  {
+    "traitName": "Hands",
+    "traitValue": "Mushrooms",
+    "frequency": 305,
+    "pct": 6.404871902561949,
+    "desc": "305 of 4762 (6.40%)",
+    "example": "https://www.arweave.net/eV5SPFKUC2cYknGyCIrIDfv6j-XJvhtXWIT-gcfIX2M?ext=png"
+  },
+  {
+    "traitName": "Plant Base",
+    "traitValue": "Rose Gold",
+    "frequency": 316,
+    "pct": 6.635867282654346,
+    "desc": "316 of 4762 (6.64%)",
+    "example": "https://www.arweave.net/-shYbsvS5-xDDz6kantOJdnJ8Q6GKpLHTyr46pRo0JM?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Rhodium Robot",
+    "frequency": 328,
+    "pct": 6.887862242755145,
+    "desc": "328 of 4762 (6.89%)",
+    "example": "https://www.arweave.net/--uu1A4j5KWjPNRwgUbywwXeMGf0TlkMCTpKbuEmMRk?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Frankincense",
+    "frequency": 334,
+    "pct": 7.0138597228055435,
+    "desc": "334 of 4762 (7.01%)",
+    "example": "https://www.arweave.net/RiGPiDk4_QXlTMeyI7RfOUMVBbQTuu0GzA4wz-FNWAU?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Petroleum",
+    "frequency": 337,
+    "pct": 7.076858462830743,
+    "desc": "337 of 4762 (7.08%)",
+    "example": "https://www.arweave.net/iX6NlpjX2AEoILw_8g00nrfimRpc-YKic6_PrimtMqs?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Beams",
+    "frequency": 338,
+    "pct": 7.097858042839143,
+    "desc": "338 of 4762 (7.10%)",
+    "example": "https://www.arweave.net/ccxc1QGpxdBAq5uBOfGSaRwCJVsQm_jCy2Z-jkr7LPs?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Liquid Bronze",
+    "frequency": 361,
+    "pct": 7.580848383032339,
+    "desc": "361 of 4762 (7.58%)",
+    "example": "https://www.arweave.net/F-ZqmxWArKPG-QxPXyifzSRLZ-6KssCLz5-TarKAzHY?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Ghost Orchid",
+    "frequency": 362,
+    "pct": 7.601847963040739,
+    "desc": "362 of 4762 (7.60%)",
+    "example": "https://www.arweave.net/YOGF3uPxN3uJWjKGqr9i1r11Tn4vVbTj1wMAg4dInIY?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Blue Lotus",
+    "frequency": 367,
+    "pct": 7.706845863082738,
+    "desc": "367 of 4762 (7.71%)",
+    "example": "https://www.arweave.net/eV5SPFKUC2cYknGyCIrIDfv6j-XJvhtXWIT-gcfIX2M?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Green Circuit",
+    "frequency": 377,
+    "pct": 7.916841663166736,
+    "desc": "377 of 4762 (7.92%)",
+    "example": "https://www.arweave.net/RiGPiDk4_QXlTMeyI7RfOUMVBbQTuu0GzA4wz-FNWAU?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Kava",
+    "frequency": 389,
+    "pct": 8.168836623267534,
+    "desc": "389 of 4762 (8.17%)",
+    "example": "https://www.arweave.net/PhPLPnU_yaVsDscc-T3pvvgHPuJue2jpok6DVz43AIQ?ext=png"
+  },
+  {
+    "traitName": "Plant Base",
+    "traitValue": "Gold",
+    "frequency": 390,
+    "pct": 8.189836203275934,
+    "desc": "390 of 4762 (8.19%)",
+    "example": "https://www.arweave.net/PhPLPnU_yaVsDscc-T3pvvgHPuJue2jpok6DVz43AIQ?ext=png"
+  },
+  {
+    "traitName": "Plant Base",
+    "traitValue": "Red",
+    "frequency": 393,
+    "pct": 8.252834943301133,
+    "desc": "393 of 4762 (8.25%)",
+    "example": "https://www.arweave.net/S5bQYoKLMTJcZ0fuLNyIzC-tKeMN6cMAlQxj6XbU6Ts?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Hawaiian Sandalwood",
+    "frequency": 396,
+    "pct": 8.315833683326334,
+    "desc": "396 of 4762 (8.32%)",
+    "example": "https://www.arweave.net/S5bQYoKLMTJcZ0fuLNyIzC-tKeMN6cMAlQxj6XbU6Ts?ext=png"
+  },
+  {
+    "traitName": "Hands",
+    "traitValue": "Robo Gold",
+    "frequency": 409,
+    "pct": 8.58882822343553,
+    "desc": "409 of 4762 (8.59%)",
+    "example": "https://www.arweave.net/qe-RVuEUzoRs_sS5TTY5TXhj2tUwDV5ku0QWZrWaf_4?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Liquid Bronze",
+    "frequency": 412,
+    "pct": 8.651826963460731,
+    "desc": "412 of 4762 (8.65%)",
+    "example": "https://www.arweave.net/lexuqjh5SQO-9_CX12DcAoc0VTrxcrNZJackHcG8G8Y?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Bullseye",
+    "frequency": 413,
+    "pct": 8.672826543469132,
+    "desc": "413 of 4762 (8.67%)",
+    "example": "https://www.arweave.net/rI4NvKb9yiQ9q6TnzKXJGC4myvpI3t4uK9XzXro69kU?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Hologram",
+    "frequency": 420,
+    "pct": 8.81982360352793,
+    "desc": "420 of 4762 (8.82%)",
+    "example": "https://www.arweave.net/nk6UVWXjNjmM88-HZqUt-DgNpH_Lbv4mopDbkP5z8K8?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "X1",
+    "frequency": 423,
+    "pct": 8.882822343553128,
+    "desc": "423 of 4762 (8.88%)",
+    "example": "https://www.arweave.net/eV5SPFKUC2cYknGyCIrIDfv6j-XJvhtXWIT-gcfIX2M?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Kanna",
+    "frequency": 429,
+    "pct": 9.008819823603528,
+    "desc": "429 of 4762 (9.01%)",
+    "example": "https://www.arweave.net/iX6NlpjX2AEoILw_8g00nrfimRpc-YKic6_PrimtMqs?ext=png"
+  },
+  {
+    "traitName": "Hands",
+    "traitValue": "Robo Rose Gold",
+    "frequency": 432,
+    "pct": 9.071818563628728,
+    "desc": "432 of 4762 (9.07%)",
+    "example": "https://www.arweave.net/I-DoJDrwqBHvpQwHmco2Wo-nyYMFw2f6iSxYxba9Lf4?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Nano",
+    "frequency": 433,
+    "pct": 9.092818143637126,
+    "desc": "433 of 4762 (9.09%)",
+    "example": "https://www.arweave.net/nk6UVWXjNjmM88-HZqUt-DgNpH_Lbv4mopDbkP5z8K8?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Rose Gold Wire",
+    "frequency": 441,
+    "pct": 9.260814783704326,
+    "desc": "441 of 4762 (9.26%)",
+    "example": "https://www.arweave.net/PhPLPnU_yaVsDscc-T3pvvgHPuJue2jpok6DVz43AIQ?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Spotlight",
+    "frequency": 444,
+    "pct": 9.323813523729525,
+    "desc": "444 of 4762 (9.32%)",
+    "example": "https://www.arweave.net/YOGF3uPxN3uJWjKGqr9i1r11Tn4vVbTj1wMAg4dInIY?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Gold Robot",
+    "frequency": 453,
+    "pct": 9.512809743805125,
+    "desc": "453 of 4762 (9.51%)",
+    "example": "https://www.arweave.net/S5bQYoKLMTJcZ0fuLNyIzC-tKeMN6cMAlQxj6XbU6Ts?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Blue",
+    "frequency": 471,
+    "pct": 9.890802183956321,
+    "desc": "471 of 4762 (9.89%)",
+    "example": "https://www.arweave.net/PhPLPnU_yaVsDscc-T3pvvgHPuJue2jpok6DVz43AIQ?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Swirl",
+    "frequency": 481,
+    "pct": 10.10079798404032,
+    "desc": "481 of 4762 (10.10%)",
+    "example": "https://www.arweave.net/PhPLPnU_yaVsDscc-T3pvvgHPuJue2jpok6DVz43AIQ?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Sage",
+    "frequency": 497,
+    "pct": 10.436791264174715,
+    "desc": "497 of 4762 (10.44%)",
+    "example": "https://www.arweave.net/F-ZqmxWArKPG-QxPXyifzSRLZ-6KssCLz5-TarKAzHY?ext=png"
+  },
+  {
+    "traitName": "Plant Base",
+    "traitValue": "Pink",
+    "frequency": 499,
+    "pct": 10.478790424191516,
+    "desc": "499 of 4762 (10.48%)",
+    "example": "https://www.arweave.net/eV5SPFKUC2cYknGyCIrIDfv6j-XJvhtXWIT-gcfIX2M?ext=png"
+  },
+  {
+    "traitName": "Plant",
+    "traitValue": "Purps",
+    "frequency": 524,
+    "pct": 11.003779924401512,
+    "desc": "524 of 4762 (11.00%)",
+    "example": "https://www.arweave.net/NmTKW5BOyI37AmCwOcmVnS3_GOissKW82lTSXZG7N0s?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Silver Wire",
+    "frequency": 535,
+    "pct": 11.23477530449391,
+    "desc": "535 of 4762 (11.23%)",
+    "example": "https://www.arweave.net/FCGazu1B734YMUmujiP2sLEdkcwIRDAI217f-DtsPc0?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Monk Robe",
+    "frequency": 537,
+    "pct": 11.27677446451071,
+    "desc": "537 of 4762 (11.28%)",
+    "example": "https://www.arweave.net/m6RXMTejthdc5R3_HVGSrehXezvT8SD030HbHMhGzXY?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Disciple Robe",
+    "frequency": 539,
+    "pct": 11.318773624527509,
+    "desc": "539 of 4762 (11.32%)",
+    "example": "https://www.arweave.net/BUa69XV-4aiWeR72HoWOgGk_nPeGFHFsSA4yM_3huVQ?ext=png"
+  },
+  {
+    "traitName": "Face",
+    "traitValue": "Static",
+    "frequency": 553,
+    "pct": 11.612767744645106,
+    "desc": "553 of 4762 (11.61%)",
+    "example": "https://www.arweave.net/S5bQYoKLMTJcZ0fuLNyIzC-tKeMN6cMAlQxj6XbU6Ts?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Rose Gold Robot",
+    "frequency": 565,
+    "pct": 11.864762704745905,
+    "desc": "565 of 4762 (11.86%)",
+    "example": "https://www.arweave.net/eV5SPFKUC2cYknGyCIrIDfv6j-XJvhtXWIT-gcfIX2M?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Charcoal",
+    "frequency": 569,
+    "pct": 11.948761024779504,
+    "desc": "569 of 4762 (11.95%)",
+    "example": "https://www.arweave.net/eV5SPFKUC2cYknGyCIrIDfv6j-XJvhtXWIT-gcfIX2M?ext=png"
+  },
+  {
+    "traitName": "Hands",
+    "traitValue": "Flower Branch",
+    "frequency": 570,
+    "pct": 11.969760604787904,
+    "desc": "570 of 4762 (11.97%)",
+    "example": "https://www.arweave.net/U2DxLbZeH4HrmkQLEKKPQpMlgwm83jfibFn6mnHeOaE?ext=png"
+  },
+  {
+    "traitName": "Plant Base",
+    "traitValue": "Green",
+    "frequency": 575,
+    "pct": 12.074758504829903,
+    "desc": "575 of 4762 (12.07%)",
+    "example": "https://www.arweave.net/U2DxLbZeH4HrmkQLEKKPQpMlgwm83jfibFn6mnHeOaE?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Blue Robe",
+    "frequency": 589,
+    "pct": 12.368752624947502,
+    "desc": "589 of 4762 (12.37%)",
+    "example": "https://www.arweave.net/eV5SPFKUC2cYknGyCIrIDfv6j-XJvhtXWIT-gcfIX2M?ext=png"
+  },
+  {
+    "traitName": "Hands",
+    "traitValue": "Green Branch",
+    "frequency": 622,
+    "pct": 13.061738765224696,
+    "desc": "622 of 4762 (13.06%)",
+    "example": "https://www.arweave.net/PhPLPnU_yaVsDscc-T3pvvgHPuJue2jpok6DVz43AIQ?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Magenta",
+    "frequency": 655,
+    "pct": 13.754724905501888,
+    "desc": "655 of 4762 (13.75%)",
+    "example": "https://www.arweave.net/qe-RVuEUzoRs_sS5TTY5TXhj2tUwDV5ku0QWZrWaf_4?ext=png"
+  },
+  {
+    "traitName": "Neck",
+    "traitValue": "Rainbow Wire",
+    "frequency": 664,
+    "pct": 13.943721125577488,
+    "desc": "664 of 4762 (13.94%)",
+    "example": "https://www.arweave.net/nk6UVWXjNjmM88-HZqUt-DgNpH_Lbv4mopDbkP5z8K8?ext=png"
+  },
+  {
+    "traitName": "Plant Base",
+    "traitValue": "Blue",
+    "frequency": 671,
+    "pct": 14.090718185636286,
+    "desc": "671 of 4762 (14.09%)",
+    "example": "https://www.arweave.net/J_1Rt389pxp6-O2xCGQaB_qBCBI0KU4NwmlRr60cUiE?ext=png"
+  },
+  {
+    "traitName": "Hands",
+    "traitValue": "Teak Branch",
+    "frequency": 686,
+    "pct": 14.405711885762285,
+    "desc": "686 of 4762 (14.41%)",
+    "example": "https://www.arweave.net/iX6NlpjX2AEoILw_8g00nrfimRpc-YKic6_PrimtMqs?ext=png"
+  },
+  {
+    "traitName": "Hands",
+    "traitValue": "Robo Silver",
+    "frequency": 692,
+    "pct": 14.531709365812684,
+    "desc": "692 of 4762 (14.53%)",
+    "example": "https://www.arweave.net/RiGPiDk4_QXlTMeyI7RfOUMVBbQTuu0GzA4wz-FNWAU?ext=png"
+  },
+  {
+    "traitName": "Plant Base",
+    "traitValue": "Titanium",
+    "frequency": 746,
+    "pct": 15.665686686266275,
+    "desc": "746 of 4762 (15.67%)",
+    "example": "https://www.arweave.net/RiGPiDk4_QXlTMeyI7RfOUMVBbQTuu0GzA4wz-FNWAU?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Soft Violet",
+    "frequency": 823,
+    "pct": 17.282654346913063,
+    "desc": "823 of 4762 (17.28%)",
+    "example": "https://www.arweave.net/RiGPiDk4_QXlTMeyI7RfOUMVBbQTuu0GzA4wz-FNWAU?ext=png"
+  },
+  {
+    "traitName": "Body",
+    "traitValue": "Silver Droid",
+    "frequency": 949,
+    "pct": 19.92860142797144,
+    "desc": "949 of 4762 (19.93%)",
+    "example": "https://www.arweave.net/S5bQYoKLMTJcZ0fuLNyIzC-tKeMN6cMAlQxj6XbU6Ts?ext=png"
+  },
+  {
+    "traitName": "Background",
+    "traitValue": "Wine",
+    "frequency": 1077,
+    "pct": 22.616547669046618,
+    "desc": "1077 of 4762 (22.62%)",
+    "example": "https://www.arweave.net/nk6UVWXjNjmM88-HZqUt-DgNpH_Lbv4mopDbkP5z8K8?ext=png"
+  },
+  {
+    "traitName": "Plant Base",
+    "traitValue": "Silver",
+    "frequency": 1172,
+    "pct": 24.611507769844604,
+    "desc": "1172 of 4762 (24.61%)",
+    "example": "https://www.arweave.net/lexuqjh5SQO-9_CX12DcAoc0VTrxcrNZJackHcG8G8Y?ext=png"
+  }
+]
