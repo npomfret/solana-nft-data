@@ -2,14 +2,14 @@
   "3D Glasses": [
     "true"
   ],
-  "Attribute Count": [
-    "1",
-    "2",
-    "3",
-    "4",
-    "5",
-    "6",
-    "7"
+  "Albino": [
+    "true"
+  ],
+  "Alien": [
+    "true"
+  ],
+  "Ape": [
+    "true"
   ],
   "Bandana": [
     "true"
@@ -74,6 +74,9 @@
   "Crazy hair": [
     "true"
   ],
+  "Dark": [
+    "true"
+  ],
   "Dark Hair": [
     "true"
   ],
@@ -90,6 +93,9 @@
     "true"
   ],
   "Fedora": [
+    "true"
+  ],
+  "Female": [
     "true"
   ],
   "Front Beard": [
@@ -134,13 +140,22 @@
   "Knitted Cap": [
     "true"
   ],
+  "Light": [
+    "true"
+  ],
   "Luxurious Beard": [
+    "true"
+  ],
+  "Male": [
     "true"
   ],
   "Medical Mask": [
     "true"
   ],
   "Messy Hair": [
+    "true"
+  ],
+  "Mid": [
     "true"
   ],
   "Mohawk": [
@@ -218,19 +233,6 @@
   "Silver Chain": [
     "true"
   ],
-  "Skin": [
-    "Albino",
-    "Alien",
-    "Ape",
-    "Dark",
-    "Light",
-    "Mid",
-    "SSB Alien",
-    "SSB Ape",
-    "SSB Human",
-    "SSB Zombie",
-    "Zombie"
-  ],
   "Small Shades": [
     "true"
   ],
@@ -261,17 +263,6 @@
   "Top Hat": [
     "true"
   ],
-  "Type": [
-    "Alien",
-    "Ape",
-    "Female",
-    "Male",
-    "SSB Alien",
-    "SSB Ape",
-    "SSB Human",
-    "SSB Zombie",
-    "Zombie"
-  ],
   "Vampire Hair": [
     "true"
   ],
@@ -291,6 +282,9 @@
     "true"
   ],
   "Wild White Hair": [
+    "true"
+  ],
+  "Zombie": [
     "true"
   ]
 }
