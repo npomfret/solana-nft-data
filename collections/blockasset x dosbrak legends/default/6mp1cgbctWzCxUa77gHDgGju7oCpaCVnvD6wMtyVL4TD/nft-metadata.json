@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/Xyl5JAphc44bxn6nhSRlL4GJyB8m4yWh4CfhV2a_Hj4?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/Xyl5JAphc44bxn6nhSRlL4GJyB8m4yWh4CfhV2a_Hj4?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "3234"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Gloves"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "The Count"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Blockasset"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Michael Bisping"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/XEUggDUeGhtInTlThqLJ9JgVaRg8J9B8mFY2_BEBU1k?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/XEUggDUeGhtInTlThqLJ9JgVaRg8J9B8mFY2_BEBU1k?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "2011"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Bare Fists"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "Jiu Jitsu Robe"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Michael Bisping"
+    }
+  ]
+}

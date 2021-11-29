@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/XFaLde9oCYk4pevs1Djzcy-6KE8kHn2wrIftIxyjxbE?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/XFaLde9oCYk4pevs1Djzcy-6KE8kHn2wrIftIxyjxbE?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "9995"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "The Greatest"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Scratch"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Bruised Eye"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Shook Up The World"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "Elvis Gown"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Muhammad Ali"
+    }
+  ]
+}

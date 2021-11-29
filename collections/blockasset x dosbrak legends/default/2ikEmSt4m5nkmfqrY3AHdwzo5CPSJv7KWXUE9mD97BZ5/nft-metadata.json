@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/bo6oUDS4JJ0Wk0DiJM-qO_XuUDLMkL8GyWGVsi3YaxM?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/bo6oUDS4JJ0Wk0DiJM-qO_XuUDLMkL8GyWGVsi3YaxM?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "6817"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "Young"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Black Helmet"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Wayfarers"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Ice Stick"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "White Jersey"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Russia"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Alexander Ovechkin"
+    }
+  ]
+}

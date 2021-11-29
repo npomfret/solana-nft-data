@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/rSGRCi4VD_qy9oKc21hVo7pCjZ1tY9pLI_PY7T2bFVA?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/rSGRCi4VD_qy9oKc21hVo7pCjZ1tY9pLI_PY7T2bFVA?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "3508"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Snapback"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Gold Terminator"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Bloody Wraps"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "Suit"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Black"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Michael Bisping"
+    }
+  ]
+}

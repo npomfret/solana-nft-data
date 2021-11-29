@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/pshXC9ixLi3DZg0jux98Q_X2v_5PYQpYkKDBuychf98?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/pshXC9ixLi3DZg0jux98Q_X2v_5PYQpYkKDBuychf98?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "5529"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Bloody Eye"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Captain Armband"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "Black Jersey"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Black"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Wayne Rooney"
+    }
+  ]
+}

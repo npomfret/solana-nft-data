@@ -1,0 +1,30 @@
+{
+  "key": 4,
+  "updateAuthority": "Pigv3gFWLWJL8QwrFBkdZLe1RYzNJTSJPGEUNVimJjh",
+  "mint": "42wVVMYXQapMdWHH3XJV8y42mzQuMaPZH4qjUsJKT5TG",
+  "data": {
+    "name": "#290",
+    "symbol": "PGG",
+    "uri": "https://cdn.piggygang.com/pgg/meta/0d86f1e8a23c3a1b028582b1a0321c49.json",
+    "sellerFeeBasisPoints": 500,
+    "creators": [
+      {
+        "address": "Pigv3gFWLWJL8QwrFBkdZLe1RYzNJTSJPGEUNVimJjh",
+        "verified": 1,
+        "share": 0
+      },
+      {
+        "address": "DaoSrx3wBdRM8oATwYwfD8BTkHwBibVVv2SLR8LMDnLP",
+        "verified": 0,
+        "share": 50
+      },
+      {
+        "address": "7NsngNMtXJNdHgeK4znQDZ5xVzT2nkGoGRGhMWApejCV",
+        "verified": 0,
+        "share": 50
+      }
+    ]
+  },
+  "primarySaleHappened": 0,
+  "isMutable": 1
+}

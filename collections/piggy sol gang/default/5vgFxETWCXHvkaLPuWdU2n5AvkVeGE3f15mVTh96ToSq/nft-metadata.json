@@ -1,0 +1,58 @@
+{
+  "name": "#7205",
+  "symbol": "PSG",
+  "external_url": "https://piggygang.com",
+  "description": "10,000 cute & cruel piggies living on the Solana lands. Each of them are randomly generated with more than 90+ hand drawn traits!",
+  "seller_fee_basis_points": 500,
+  "collection": "Piggy Sol Gang",
+  "image": "https://cdn.piggygang.com/imgs/b9e286bbf6dbd57f8eb184c74627abf3.jpg",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "#7205"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyan"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Salmon"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pink Leather Jacket"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Monocle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Beret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smiling"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://cdn.piggygang.com/imgs/b9e286bbf6dbd57f8eb184c74627abf3.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Pigv3gFWLWJL8QwrFBkdZLe1RYzNJTSJPGEUNVimJjh",
+        "share": 100
+      }
+    ]
+  }
+}

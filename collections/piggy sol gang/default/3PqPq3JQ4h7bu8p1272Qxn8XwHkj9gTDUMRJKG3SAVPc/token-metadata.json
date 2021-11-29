@@ -1,0 +1,30 @@
+{
+  "key": 4,
+  "updateAuthority": "Pigv3gFWLWJL8QwrFBkdZLe1RYzNJTSJPGEUNVimJjh",
+  "mint": "3PqPq3JQ4h7bu8p1272Qxn8XwHkj9gTDUMRJKG3SAVPc",
+  "data": {
+    "name": "#555",
+    "symbol": "PSG",
+    "uri": "https://cdn.piggygang.com/meta/0f2dc0a427879ef1b347178ec0fb5867.json",
+    "sellerFeeBasisPoints": 500,
+    "creators": [
+      {
+        "address": "Pigv3gFWLWJL8QwrFBkdZLe1RYzNJTSJPGEUNVimJjh",
+        "verified": 1,
+        "share": 0
+      },
+      {
+        "address": "DaoSrx3wBdRM8oATwYwfD8BTkHwBibVVv2SLR8LMDnLP",
+        "verified": 0,
+        "share": 50
+      },
+      {
+        "address": "7NsngNMtXJNdHgeK4znQDZ5xVzT2nkGoGRGhMWApejCV",
+        "verified": 0,
+        "share": 50
+      }
+    ]
+  },
+  "primarySaleHappened": 0,
+  "isMutable": 1
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/IyvJHAF41auzRf9630LVT7gnipw3VwvN3IRu9eScKNQ?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/IyvJHAF41auzRf9630LVT7gnipw3VwvN3IRu9eScKNQ?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "1102"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Haka"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Wayfarers"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "NZ Ball"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "Black Tie"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Jonah Lomu"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/T5ERC4oy1ApI6dtnkxQ_9J4sfbsSuIth4-A2J1Pj1KQ?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/T5ERC4oy1ApI6dtnkxQ_9J4sfbsSuIth4-A2J1Pj1KQ?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "3062"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Falling Mouthguard"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "Butcher"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Black"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Michael Bisping"
+    }
+  ]
+}

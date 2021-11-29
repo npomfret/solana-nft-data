@@ -1,0 +1,104 @@
+{
+  "name": "Frakt-2414",
+  "symbol": "FKT",
+  "description": "",
+  "seller_fee_basis_points": 500,
+  "image": "https://www.arweave.net/_D0ab2CvONTZcNQQj_fuvSeFogyKWVe1ObZKtG4VC8s",
+  "animation_url": "",
+  "external_url": "https://frakt.art/explore/GRsDqvtqKBsrmsUuwp1TSweKwMy61UX3iqZU6aTQsySP",
+  "attributes": [
+    {
+      "trait_type": "shape",
+      "value": 4
+    },
+    {
+      "trait_type": "color",
+      "value": 4
+    },
+    {
+      "trait_type": "art_hash",
+      "value": 2414
+    },
+    {
+      "trait_type": "circles_amount",
+      "value": 25
+    },
+    {
+      "trait_type": "fractial_iterations",
+      "value": 7
+    },
+    {
+      "trait_type": "min_rad_low_limit",
+      "value": 50
+    },
+    {
+      "trait_type": "min_rad_high_limit",
+      "value": 29
+    },
+    {
+      "trait_type": "max_rad_low_limit",
+      "value": 50
+    },
+    {
+      "trait_type": "max_rad_high_limit",
+      "value": 52
+    },
+    {
+      "trait_type": "shape_rarity",
+      "value": 30
+    },
+    {
+      "trait_type": "color_rarity",
+      "value": 40
+    },
+    {
+      "trait_type": "image_url",
+      "value": "ipfs://bafyreicrhvxk3dkzrdzmmgddx6ddkyeesftwertxhg72d6456oy7jnviau/metadata.json"
+    },
+    {
+      "trait_type": "artAccountPubkey",
+      "value": "GRsDqvtqKBsrmsUuwp1TSweKwMy61UX3iqZU6aTQsySP"
+    },
+    {
+      "trait_type": "is_old_version",
+      "value": false
+    },
+    {
+      "trait_type": "isInitialized",
+      "value": true
+    },
+    {
+      "trait_type": "id",
+      "value": 423
+    },
+    {
+      "trait_type": "first_owner_pubkey",
+      "value": "CCH9NXvptU3ng5ZV2xtduhtWxsk5rjDVFE5QeFKw2QWw"
+    },
+    {
+      "trait_type": "minted_token_pubkey",
+      "value": "11111111111111111111111111111111"
+    },
+    {
+      "trait_type": "is_minted",
+      "value": true
+    },
+    {
+      "trait_type": "created_at",
+      "value": 1626667213
+    }
+  ],
+  "properties": {
+    "files": [
+      "https://www.arweave.net/NI6uIhoosydR_fDmCug4aUYcEqdNYKBInaKLvsqOi7I",
+      "https://www.arweave.net/-v_F88Zgpcc0OUMLJcUDozS1jVJr9xaff4MJKhwji7c",
+      "https://www.arweave.net/HifPrhGPrAHhA4_1rpk4TQBs1zSdCOnMHkZzc0POmtM"
+    ],
+    "creators": [
+      {
+        "address": "6wPYbuGRXZjVw2tCeTxwRiQU7AzFDTeFEKuUFpJZpcix",
+        "share": 100
+      }
+    ]
+  }
+}

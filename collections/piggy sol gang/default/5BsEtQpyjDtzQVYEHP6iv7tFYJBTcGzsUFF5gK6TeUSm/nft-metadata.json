@@ -1,0 +1,74 @@
+{
+  "name": "#908",
+  "symbol": "PGG",
+  "external_url": "https://piggygang.com",
+  "description": "Pretty & fierce gang of female piggies living on the Solana lands. Each of them randomly generated with more than 90+ hand drawn traits!",
+  "seller_fee_basis_points": 500,
+  "collection": "Piggy Girl Gang",
+  "image": "https://cdn.piggygang.com/pgg/img/2c42d1c3c23b4ce7b2a5280450dccef0.jpg",
+  "attributes": [
+    {
+      "trait_type": "Name",
+      "value": "#908"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Purple Bikini"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Orange Hair"
+    },
+    {
+      "trait_type": "Hats",
+      "value": "Orange Cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Cyan"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://cdn.piggygang.com/pgg/img/2c42d1c3c23b4ce7b2a5280450dccef0.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "creators": [
+      {
+        "address": "Pigv3gFWLWJL8QwrFBkdZLe1RYzNJTSJPGEUNVimJjh",
+        "share": 10
+      },
+      {
+        "address": "D3wgcpWjAWR3GREbkyuGr3bNLHfdQsLr5hN2AvSP8pBi",
+        "share": 25
+      },
+      {
+        "address": "CNEABBU2bmRebMDpYTnYhZmdeJqALhLFb9jddLF488Uq",
+        "share": 25
+      },
+      {
+        "address": "EvJgjBsz1ZoXK1cxXDpweteZej8VZUysuUF8nDPwHQS",
+        "share": 40
+      }
+    ]
+  }
+}

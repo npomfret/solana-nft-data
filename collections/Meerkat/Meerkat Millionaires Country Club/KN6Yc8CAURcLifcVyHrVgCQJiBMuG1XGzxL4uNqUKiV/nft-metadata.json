@@ -1,0 +1,61 @@
+{
+  "name": "Meerkat #1771",
+  "symbol": "Meerkat",
+  "description": "Meerkat Millionaires Country Club! The first NFT to pay 100% of royalties back to the community!",
+  "external_url": "https://meerkatmillionaires.club",
+  "seller_fee_basis_points": 1500,
+  "image": "https://www.arweave.net/tDIejuzS5-J4tzX8MreDIxQca8x6YnGp83i7KSmXpUE?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "White"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Solana Gold Stud"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Round Eye"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Wayfarer"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Fisherman Cap"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile mouth"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Polo Yellow"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://www.arweave.net/tDIejuzS5-J4tzX8MreDIxQca8x6YnGp83i7KSmXpUE?ext=png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "FLARQdNnEz8qzGD5oS67eZbSmY94dqx5RheRXJmHjsaX",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "Meerkat Millionaires Country Club",
+    "family": "Meerkat"
+  }
+}

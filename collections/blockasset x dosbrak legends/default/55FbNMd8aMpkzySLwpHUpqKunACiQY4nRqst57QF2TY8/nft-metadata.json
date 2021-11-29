@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/OaqMHfO1NohZDZUEaxXpwoL8lWFUF8lwd7SoBlw0TeM?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/OaqMHfO1NohZDZUEaxXpwoL8lWFUF8lwd7SoBlw0TeM?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "5519"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "Old"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Bloody Eye"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Confetti"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "White Jersey"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Green"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Wayne Rooney"
+    }
+  ]
+}

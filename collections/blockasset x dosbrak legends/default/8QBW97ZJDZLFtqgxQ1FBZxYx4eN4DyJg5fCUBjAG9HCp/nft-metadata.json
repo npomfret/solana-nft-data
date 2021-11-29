@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/GgcuEqafTr4AQqy38aKSHtEZ5762YnycvSTkM79Vi8c?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/GgcuEqafTr4AQqy38aKSHtEZ5762YnycvSTkM79Vi8c?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "9225"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "The Greatest"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "GOAT Mouthguard"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Wayfarers"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Black Gloves"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "Purple Suit"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Red"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Muhammad Ali"
+    }
+  ]
+}

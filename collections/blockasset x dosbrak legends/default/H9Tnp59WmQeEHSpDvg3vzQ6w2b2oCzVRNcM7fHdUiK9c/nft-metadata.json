@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/Q8MiCeKM-SMfuy6O4TG_evO6VsOTFaeEl-fYDm4lfGw?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/Q8MiCeKM-SMfuy6O4TG_evO6VsOTFaeEl-fYDm4lfGw?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "6801"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "Young"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Russian Hat"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Sweat"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Wayfarers"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Dentist"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "Black Jersey"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Blockasset"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Alexander Ovechkin"
+    }
+  ]
+}

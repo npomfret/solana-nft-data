@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/66W7N3v7KWe6BeOPf-46sR9n5fZcd1y1wqkJfl2GM1s?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/66W7N3v7KWe6BeOPf-46sR9n5fZcd1y1wqkJfl2GM1s?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "9879"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "Butterflies and Bees"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Scratch"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Red Gloves"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "Black Suit"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Black"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Muhammad Ali"
+    }
+  ]
+}

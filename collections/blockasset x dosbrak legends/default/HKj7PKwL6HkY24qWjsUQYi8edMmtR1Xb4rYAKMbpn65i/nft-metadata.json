@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/W3_X8E5W4cpe_Mb0YUtXcv1s2rh__N7RUZF3v_77eyo?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/W3_X8E5W4cpe_Mb0YUtXcv1s2rh__N7RUZF3v_77eyo?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "8002"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "Butterflies and Bees"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Sparring Headgear"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "GOAT Mouthguard"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Muhammad Ali"
+    }
+  ]
+}

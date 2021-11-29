@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/zgQOu4A2k6Ex6t73Mzquj48ijJaMlAFTpkg1DupX7Ts?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/zgQOu4A2k6Ex6t73Mzquj48ijJaMlAFTpkg1DupX7Ts?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "8198"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "The Greatest"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Sweat"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Locked"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Muhammad Ali"
+    }
+  ]
+}

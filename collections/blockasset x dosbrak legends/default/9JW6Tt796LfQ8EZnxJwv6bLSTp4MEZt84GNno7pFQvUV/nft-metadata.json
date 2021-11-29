@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/jsGn2cgv3jQ8Pxi17nf3Nz-DUorzjXToXlXXfMoHBSg?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/jsGn2cgv3jQ8Pxi17nf3Nz-DUorzjXToXlXXfMoHBSg?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "8176"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "Butterflies and Bees"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Scratch"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Medal"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "Wayfarers"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Red Gloves"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "Peach Suit"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Muhammad Ali"
+    }
+  ]
+}

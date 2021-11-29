@@ -1,0 +1,68 @@
+{
+  "name": "Blockasset Legends",
+  "symbol": "LEGENDS",
+  "seller_fee_basis_points": 700,
+  "image": "https://www.arweave.net/KNt0J4TB9ek5tOs5F5IckMdcIYeN-CQS122vftqDBHE?ext=png",
+  "external_url": "https://blockasset.co/",
+  "description": "Blockasset Verified Legends Collection by Dosbrak.",
+  "properties": {
+    "creators": [
+      {
+        "address": "6SPSm4prbVn8LRAX41k81DnPaGDgV2YfExHQAjrep1tr",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://www.arweave.net/KNt0J4TB9ek5tOs5F5IckMdcIYeN-CQS122vftqDBHE?ext=png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "EDITION",
+      "value": "2205"
+    },
+    {
+      "trait_type": "BASE",
+      "value": "Standard"
+    },
+    {
+      "trait_type": "HEAD",
+      "value": "Snapback"
+    },
+    {
+      "trait_type": "FACE",
+      "value": "Bloody"
+    },
+    {
+      "trait_type": "MOUTH",
+      "value": "Diamond Grill"
+    },
+    {
+      "trait_type": "EYES",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "Knuckle Duster Spikes"
+    },
+    {
+      "trait_type": "CLOTHING",
+      "value": "No trait"
+    },
+    {
+      "trait_type": "BACKGROUND",
+      "value": "Red"
+    },
+    {
+      "trait_type": "SIGNATURE",
+      "value": "Dosbrak"
+    },
+    {
+      "trait_type": "LEGEND",
+      "value": "Michael Bisping"
+    }
+  ]
+}
