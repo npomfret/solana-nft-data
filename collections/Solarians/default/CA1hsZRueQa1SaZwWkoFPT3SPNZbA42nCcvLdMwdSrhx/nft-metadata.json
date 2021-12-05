@@ -1,0 +1,86 @@
+{
+  "name": "QF-V1 the Lucky",
+  "symbol": "SLR08999",
+  "description": "Robots from Solaria Prime",
+  "seller_fee_basis_points": 500,
+  "image": "https://solarians.click/render/CA1hsZRueQa1SaZwWkoFPT3SPNZbA42nCcvLdMwdSrhx",
+  "external_url": "https://solarians.click/view/8999",
+  "attributes": [
+    {
+      "trait_type": "Title",
+      "value": "Guard"
+    },
+    {
+      "trait_type": "Level",
+      "value": "83"
+    },
+    {
+      "trait_type": "Luck",
+      "value": "80"
+    },
+    {
+      "trait_type": "Average Rarity",
+      "value": "1.68%"
+    },
+    {
+      "trait_type": "Mint #",
+      "value": "8999"
+    },
+    {
+      "trait_type": "Ranking #",
+      "value": "2901"
+    },
+    {
+      "trait_type": "Torso",
+      "value": "sawchain 4"
+    },
+    {
+      "trait_type": "Head",
+      "value": "sumo 3"
+    },
+    {
+      "trait_type": "Feet",
+      "value": "tesla 4"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "twitchy 5"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "parameter 6"
+    },
+    {
+      "trait_type": "Antenna",
+      "value": "sawchain s2"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "sumo 2"
+    },
+    {
+      "trait_type": "Scene",
+      "value": "hall 8"
+    }
+  ],
+  "collection": {
+    "name": "Solarians",
+    "family": "Solarians"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://solarians.click/render/CA1hsZRueQa1SaZwWkoFPT3SPNZbA42nCcvLdMwdSrhx",
+        "type": "image/gif"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "4nuNUbvQQ6hsYLFB9yAeDdhHRbbxa3vHQwhBbMkD66Sf",
+        "share": 100,
+        "verified": true
+      }
+    ]
+  }
+}
